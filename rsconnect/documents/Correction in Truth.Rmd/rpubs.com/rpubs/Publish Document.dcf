@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1316083/77d7375d270c40d8af88d9ee528375a9
+bundleId: https://api.rpubs.com/api/v1/document/1316083/77d7375d270c40d8af88d9ee528375a9
+url: http://rpubs.com/AnalystNyamu/1316083
+version: 1

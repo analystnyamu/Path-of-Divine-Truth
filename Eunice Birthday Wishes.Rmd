@@ -1,0 +1,24 @@
+---
+title: "🎉 Happy Birthday, Eunice — From the Data Team! 📊🎂"
+author: "Data Team"
+date: "2025-05-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+🎉 Happy Birthday, Eunice — From the Data Team! 📊🎂
+
+On behalf of the entire data team, we celebrate you today! Your dedication, precision, and joyful spirit bring light and excellence to everything we do. As we analyze trends and clean datasets, one constant remains — your value to this team is immeasurable!
+
+May this year bring you exponential growth in joy, peace, and divine favor.
+
+> _“The Lord bless you and keep you; the Lord make His face shine upon you and be gracious to you; the Lord turn His face toward you and give you peace.”_
+> — Numbers 6:24–26 (NIV)
+
+Wishing you a year filled with blessings that go beyond measure. Keep shining both in and outside the data world!
+
+With gratitude and celebration,
+The Data Team
