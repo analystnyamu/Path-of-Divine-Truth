@@ -1,0 +1,156 @@
+---
+title: 'Donholm CFF  Sermon: Teens'
+author: "Martin N. Wanjiru"
+date: "2025-04-26"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sermon: Knowing Your True Identity in God
+
+## Introduction
+We live in a world where identity is often shaped by external influences—what others say, what we wear, what we achieve, and what we see on social media. But how does God define us? Why were we created? Today, we will explore God's purpose for our lives and how knowing who we are in Him will guide our choices and lead us to true fulfillment.
+
+## Illustrations
+
+### 1. Lost Key Illustration
+"Imagine you have a key, but you don’t know what door it opens. You walk around frustrated because you’re trying to force it into every lock that doesn’t fit. That’s what happens when we don’t know why we exist. We try to fit into every trend, every crowd—but only God has the door that matches your life."
+
+---
+
+### 2. The Mirror Illustration
+"Imagine if you never looked in a mirror—you’d never know what you really look like. Some of you are looking into the wrong mirrors—the world, social media, friends' opinions—instead of God’s mirror, His Word. God’s Word is the true mirror that shows you who you really are."  
+*(James 1:23-25 — "Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror and… forgets.")*
+
+---
+
+### 3. Seed and Tree Illustration
+"A seed might look small and insignificant, but inside it is a great tree. God has planted something inside you—dreams, talents, purpose—but if you never plant yourself in Him, you’ll never grow into the tree He designed you to be."  
+*(Psalm 1:3 — "That person is like a tree planted by streams of water.")*
+
+---
+
+### 4. The Wrong Map Illustration
+"If you’re using the wrong map, you’ll end up lost. Many young people today are using the world’s map for success, identity, and happiness. But God has already drawn the perfect map—His Word. Following the wrong map will cost you time, energy, and joy."  
+*(Proverbs 3:5-6 — "Trust in the Lord... and he will make your paths straight.")*
+
+---
+
+## Main Points
+
+### 1. God Created You with a Purpose
+You are not an accident. God made you intentionally and uniquely for a reason.
+
+**Supporting Scriptures:**
+- **Jeremiah 1:5 (NIV):**  
+  "Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations."
+  
+- **Ephesians 2:10 (NIV):**  
+  "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+
+
+- **Isaiah 43:7:**  
+  "Everyone who is called by my name, whom I created for my glory, whom I formed and made."
+  
+- **Romans 8:28:**  
+  "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+
+**Key Message:**  
+Before you were born, God already had a plan for you. You were made for good works and to live out His purpose. You are not a random creation. God crafted you with intention.
+
+---
+
+### 2. Your Identity Comes from God, Not the World
+The world often labels people based on appearances, achievements, failures, or trends. But God defines you by His love and purpose, not by your past or the opinions of others.
+
+**Supporting Scriptures:**
+- **1 Peter 2:9 (NIV):**  
+  "But you are a chosen people, a royal priesthood, a holy nation, God’s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light."
+
+- **Psalm 139:13-14 (NIV):**  
+  "For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made."
+
+- **Luke 12:7:**  
+  "Indeed, the very hairs of your head are all numbered. Don’t be afraid; you are worth more than many sparrows."
+
+- **Psalm 100:3:**  
+  "Know that the Lord is God. It is he who made us, and we are his; we are his people, the sheep of his pasture."
+  
+**Key Message:**  
+Your identity is royal and special in God's eyes. You are fearfully and wonderfully made. You are not defined by the world’s standards but by God’s eternal love and purpose for you.
+
+---
+
+### 3. Choosing God's Path Leads to Life, the World’s Path Leads to Destruction
+When we don't know who we are and why we exist, it’s easy to make the wrong choices. The world offers paths that seem easy and enticing, but they lead to destruction. On the other hand, God's way, though narrow, leads to life, joy, and eternal reward.
+
+**Supporting Scriptures:**
+- **Matthew 7:13-14 (NIV):**  
+  "Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it."
+
+- **Proverbs 3:5-6 (NIV):**  
+  "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+  
+- **Romans 12:2:**  
+  "Do not conform to the pattern of this world, but be transformed by the renewing of your mind."
+
+**Key Message:**  
+If you don't know your purpose, you’ll chase anything. But when you trust God, He directs your life in the right way.
+
+---
+
+### 4. You Are Created to Have a Relationship with God
+The most important purpose is not just what you do, but who you know: a relationship with God through Jesus Christ. Your true purpose begins with knowing God, as everything in life flows from this relationship.
+
+**Supporting Scriptures:**
+- **John 17:3 (NIV):**  
+  "Now this is eternal life: that they know you, the only true God, and Jesus Christ, whom you have sent."
+
+- **Colossians 1:16 (NIV):**  
+  "For in him all things were created: things in heaven and on earth, visible and invisible... all things have been created through him and for him."
+
+**Key Message:**  
+You were made for God, not just for activities or achievements. Your life finds true meaning only in Him. All your purposes flow from your relationship with Him.
+
+---
+
+## Examples from the Bible
+
+### 1. David — From Shepherd to King
+**Story:** David was just a young shepherd boy, overlooked even by his family, but God had chosen him to be a king.  
+**Lesson:** Your beginning doesn’t determine your end when God is in control.  
+**Key Verse:** 1 Samuel 16:7 — "People look at the outward appearance, but the Lord looks at the heart."
+
+### 2. Joseph — From Prison to Prime Minister
+**Story:** Joseph went through betrayal, slavery, and prison, but he never lost his God-given dream.  
+**Lesson:** Even when life doesn’t make sense, God is shaping you for a greater purpose.  
+**Key Verse:** Genesis 50:20 — "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."
+
+### 3. Esther — For Such a Time as This
+**Story:** Esther, a young Jewish girl, became a queen and saved her people from death.  
+**Lesson:** God places you exactly where you need to be to fulfill His purpose—even if you feel unprepared.  
+**Key Verse:** Esther 4:14 — "And who knows but that you have come to your royal position for such a time as this?"
+
+### 4. Moses — From Failure to Leader
+**Story:** Moses ran away after killing an Egyptian and lived in hiding, but God called him to lead Israel out of Egypt.  
+**Lesson:** Your past mistakes do not cancel your purpose if you surrender to God.  
+**Key Verse:** Exodus 3:10 — "So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt."
+
+---
+
+## Call to Action
+Encourage the youth to:
+- Seek God daily through prayer and His Word.
+- Ask God to reveal their purpose step by step.
+- Refuse to let the world define who they are.
+- Make choices that align with their God-given identity.
+
+---
+
+## Conclusion
+"You are not who the world says you are; you are who God says you are. Discover your purpose by discovering God."
