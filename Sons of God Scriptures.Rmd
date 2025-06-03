@@ -1,0 +1,38 @@
+---
+title: "Sons of God as In Old Testament"
+author: "Martin Nyamu"
+date: "2025-06-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Sons of God: In the Old Testament:**
+
+   - **Genesis 6:2-4**: The phrase "sons of God" first appears in the **Book of Genesis** (Genesis 6:2-4) when it refers to the "sons of God" taking human wives, leading to the mysterious story of the Nephilim. This passage has been widely interpreted in many ancient texts as referring to **divine beings** or **angels**:
+     > "that the sons of God saw the daughters of men, that they were beautiful; and they took wives for themselves of all whom they chose. And the LORD said, 'My Spirit shall not strive with man forever, for he is indeed flesh; yet his days shall be one hundred and twenty years.' There were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men who were of old, men of renown." (Genesis 6:2-4, NKJV)
+     - This passage suggests that "sons of God" refers to **angelic beings** or **divine beings** who interacted with humans. Though debated, the traditional reading is that these "sons of God" are angels who left their heavenly realm and took human wives.
+
+   - **Job 1:6**: The phrase "sons of God" is used in the **Book of Job** (Job 1:6) when it refers to **heavenly beings** presenting themselves before God:
+     > "Now there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them." (Job 1:6, NKJV)
+     - This passage refers to **heavenly beings**, often understood as **angels**, who are presented before God. The "sons of God" in this case refers to spiritual beings in God’s heavenly court.
+
+   - **Job 2:1**: A similar passage can be found in **Job 2:1**, where the "sons of God" are again depicted as heavenly beings:
+     > "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD." (Job 2:1, NKJV)
+     - Once more, the "sons of God" are identified as **heavenly beings** or **angels** who come before God.
+
+   - **Job 38:7**: In **Job 38:7**, during God’s response to Job’s questions, the "sons of God" are depicted as celebrating God’s creation:
+     > "When the morning stars sang together, and all the sons of God shouted for joy?" (Job 38:7, NKJV)
+     - This passage explicitly refers to **angels** or **heavenly beings** as "sons of God" who rejoiced during the creation of the world.
+
+   - **Psalm 29:1**: The phrase is used in **Psalm 29:1**, where God’s glory is recognized by the heavenly beings:
+     > "Give unto the LORD, O you mighty ones, give unto the LORD glory and strength." (Psalm 29:1, NKJV)
+     - Here, the "mighty ones" are sometimes understood as the "sons of God," again referring to **angelic beings** or divine messengers who honor God.
+
+   - **Psalm 89:6**: The "sons of God" are also mentioned in **Psalm 89:6** in reference to divine beings:
+     > "For who in the heavens can be compared to the LORD? Who among the sons of the mighty can be likened to the LORD?" (Psalm 89:6, NKJV)
+     - Again, this is a reference to **heavenly beings**, often understood as **angels**.
+
+---
