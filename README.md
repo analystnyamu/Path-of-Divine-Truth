@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Path of Divine Truth - Open Bible Logo</title>
-    <link href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+    <title>GitHub README Logo - Path of Divine Truth</title>
     <style>
         * {
             margin: 0;
@@ -13,61 +12,39 @@
         }
         
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #1a1f36 0%, #0f1525 100%);
-            font-family: 'Cardo', serif;
             color: #e8e8e8;
-            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
             line-height: 1.6;
         }
         
         .container {
-            max-width: 900px;
+            max-width: 1000px;
             width: 100%;
             background: rgba(18, 22, 40, 0.95);
             border-radius: 20px;
             box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
             overflow: hidden;
             border: 1px solid rgba(120, 130, 180, 0.15);
-            position: relative;
-        }
-        
-        .scripture-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            opacity: 0.03;
-            pointer-events: none;
-            font-family: 'Cinzel', serif;
-            font-size: 1.2rem;
-            padding: 30px;
-            line-height: 2.2;
-            text-align: center;
-            color: #e0d0a0;
-            z-index: 1;
         }
         
         header {
             text-align: center;
-            padding: 50px 30px 30px;
+            padding: 40px 30px;
             background: rgba(15, 18, 35, 0.85);
             border-bottom: 1px solid rgba(100, 120, 160, 0.15);
-            position: relative;
-            z-index: 2;
         }
         
         h1 {
-            font-family: 'Cinzel', serif;
-            font-size: 3rem;
+            font-family: 'Georgia', serif;
+            font-size: 2.8rem;
             color: #e0d0a0;
             margin-bottom: 15px;
-            letter-spacing: 2px;
-            text-shadow: 0 0 15px rgba(224, 208, 160, 0.2);
         }
         
         .subtitle {
@@ -75,414 +52,377 @@
             color: #b0c0d8;
             max-width: 700px;
             margin: 0 auto;
-            font-weight: 400;
         }
         
-        .scripture-highlight {
-            display: block;
-            margin-top: 25px;
-            padding: 18px;
-            background: rgba(180, 160, 120, 0.1);
-            border-radius: 10px;
-            border-left: 4px solid #e0d0a0;
-            font-style: italic;
-            font-size: 1.2rem;
-            color: #d8c890;
-            max-width: 650px;
-            margin-left: auto;
-            margin-right: auto;
-            line-height: 1.7;
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 40px;
+            gap: 40px;
         }
         
         .logo-section {
+            flex: 1;
+            min-width: 300px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding: 60px 40px;
-            position: relative;
-            z-index: 2;
+            padding: 30px;
+            background: rgba(20, 25, 45, 0.5);
+            border-radius: 15px;
         }
         
-        .logo-container {
-            width: 320px;
-            height: 320px;
-            position: relative;
-            margin-bottom: 50px;
+        .logo-display {
+            width: 300px;
+            height: 300px;
             display: flex;
             justify-content: center;
             align-items: center;
+            margin-bottom: 30px;
         }
         
-        .divine-light {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle, rgba(255, 255, 240, 0.6) 0%, rgba(255, 255, 240, 0) 70%);
-            border-radius: 50%;
-            top: 0;
-            animation: light-pulse 8s infinite alternate;
-            z-index: 1;
-        }
-        
-        .light-rays {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            top: 0;
-            left: 0;
-            z-index: 2;
-        }
-        
-        .ray {
-            position: absolute;
-            background: linear-gradient(to bottom, rgba(255, 255, 240, 0.4), transparent);
-            transform-origin: top center;
-            top: 0;
-            left: 50%;
-            width: 4px;
-            height: 100%;
-            border-radius: 2px;
-        }
-        
-        .open-bible {
-            position: relative;
-            width: 200px;
-            height: 140px;
-            z-index: 3;
-            perspective: 1000px;
-        }
-        
-        .bible-cover {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(to right, #2a210f 0%, #3d2e0f 100%);
-            border-radius: 5px 0 0 5px;
-            box-shadow: 
-                -10px 5px 25px rgba(0, 0, 0, 0.5),
-                0 0 0 1px rgba(0, 0, 0, 0.3);
-            transform-origin: right center;
-            transform: rotateY(-20deg);
-        }
-        
-        .bible-pages {
-            position: absolute;
-            width: 95%;
-            height: 95%;
-            background: linear-gradient(to right, #f8f4e0 0%, #f9f5e5 100%);
-            left: 5%;
-            top: 2.5%;
-            border-radius: 0 3px 3px 0;
-            box-shadow: 
-                5px 0 15px rgba(0, 0, 0, 0.1),
-                inset -15px 0 10px -10px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            transform: rotateY(20deg);
-        }
-        
-        .page-lines {
-            position: absolute;
-            width: 90%;
-            height: 100%;
-            left: 10%;
-            top: 0;
-        }
-        
-        .page-line {
-            position: absolute;
-            width: 100%;
-            height: 1px;
-            background: rgba(0, 0, 0, 0.08);
-            left: 0;
-        }
-        
-        .bible-title {
-            position: absolute;
-            top: 50%;
-            left: 15px;
-            transform: translateY(-50%);
-            color: #e0d0a0;
-            font-family: 'Cinzel', serif;
-            font-size: 1.1rem;
-            text-align: center;
-            writing-mode: vertical-rl;
-            text-orientation: mixed;
-            letter-spacing: 3px;
-            transform: rotate(180deg);
-        }
-        
-        .scripture-text {
-            position: absolute;
-            top: 20px;
-            left: 30px;
-            right: 20px;
-            font-family: 'Cardo', serif;
-            font-size: 0.75rem;
-            color: #333;
-            line-height: 1.5;
-            text-align: justify;
-            padding: 10px;
-        }
-        
-        .divine-path {
-            position: absolute;
-            width: 260px;
-            height: 120px;
-            border-bottom: 4px solid #e0d0a0;
-            border-radius: 50%;
-            bottom: 30px;
-            animation: path-glow 6s infinite alternate;
-            z-index: 2;
-        }
-        
-        .logo-text {
-            text-align: center;
-            max-width: 700px;
-            margin-bottom: 40px;
-        }
-        
-        .logo-name {
-            font-family: 'Cinzel', serif;
-            font-size: 2.5rem;
-            color: #e0d0a0;
-            letter-spacing: 3px;
-            margin-bottom: 20px;
-            text-shadow: 0 0 10px rgba(224, 208, 160, 0.2);
-        }
-        
-        .scripture-tagline {
-            font-size: 1.25rem;
-            color: #b0c0d8;
-            font-style: italic;
-            max-width: 600px;
-            margin: 0 auto;
-            line-height: 1.7;
-        }
-        
-        .design-details {
-            width: 100%;
-            padding: 40px;
+        .instructions {
+            flex: 1;
+            min-width: 300px;
+            padding: 30px;
             background: rgba(20, 25, 45, 0.5);
             border-radius: 15px;
-            margin-top: 20px;
         }
         
-        .design-title {
-            font-family: 'Cinzel', serif;
-            font-size: 2rem;
+        .section-title {
+            font-family: 'Georgia', serif;
+            font-size: 1.8rem;
             color: #e0d0a0;
-            margin-bottom: 35px;
-            text-align: center;
+            margin-bottom: 25px;
             padding-bottom: 15px;
-            border-bottom: 1px solid rgba(224, 208, 160, 0.25);
+            border-bottom: 1px solid rgba(224, 208, 160, 0.2);
         }
         
-        .design-element {
+        .steps {
             margin-bottom: 30px;
-            padding: 25px;
-            background: rgba(25, 30, 55, 0.35);
-            border-radius: 10px;
-            border-left: 4px solid #e0d0a0;
         }
         
-        .element-title {
-            font-family: 'Cinzel', serif;
-            font-size: 1.5rem;
+        .step {
+            margin-bottom: 25px;
+            padding-left: 40px;
+            position: relative;
+        }
+        
+        .step-number {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 30px;
+            height: 30px;
+            background: #e0d0a0;
+            color: #1a1a2e;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .step-title {
+            font-size: 1.3rem;
+            color: #e0d0a0;
+            margin-bottom: 10px;
+        }
+        
+        .step-content {
+            font-size: 1.1rem;
+            color: #d0d8e8;
+            line-height: 1.7;
+        }
+        
+        .code-block {
+            background: rgba(15, 18, 35, 0.8);
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 15px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            line-height: 1.5;
+            overflow-x: auto;
+            border: 1px solid rgba(224, 208, 160, 0.2);
+            position: relative;
+        }
+        
+        .copy-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            background: rgba(224, 208, 160, 0.2);
+            color: #e0d0a0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        
+        .copy-btn:hover {
+            background: rgba(224, 208, 160, 0.3);
+        }
+        
+        .preview {
+            text-align: center;
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(25, 30, 55, 0.4);
+            border-radius: 10px;
+        }
+        
+        .preview-title {
+            font-size: 1.2rem;
             color: #e0d0a0;
             margin-bottom: 15px;
+        }
+        
+        .github-preview {
+            width: 200px;
+            height: 200px;
+            margin: 0 auto;
+            background: #f0f0f0;
+            border-radius: 10px;
             display: flex;
+            justify-content: center;
             align-items: center;
-        }
-        
-        .element-title i {
-            margin-right: 15px;
-            font-size: 1.8rem;
-        }
-        
-        .element-desc {
-            font-size: 1.2rem;
-            line-height: 1.7;
-            color: #d0d8e8;
-        }
-        
-        .scripture-verse {
-            display: block;
-            margin-top: 20px;
             padding: 20px;
-            background: rgba(180, 160, 120, 0.1);
-            border-radius: 8px;
-            font-style: italic;
-            color: #d8c890;
-            font-size: 1.15rem;
-            border-left: 3px solid #e0d0a0;
-            line-height: 1.7;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
         }
         
         footer {
             text-align: center;
-            padding: 40px 30px;
+            padding: 30px;
             font-size: 1.1rem;
             color: #9cb3c9;
             background: rgba(12, 15, 30, 0.95);
             border-top: 1px solid rgba(100, 120, 160, 0.15);
-            position: relative;
-            z-index: 2;
-            line-height: 1.7;
-        }
-        
-        @keyframes path-glow {
-            0% { border-color: #e0d0a0; }
-            100% { border-color: #d0b070; }
-        }
-        
-        @keyframes light-pulse {
-            0% { opacity: 0.6; transform: scale(0.95); }
-            100% { opacity: 0.8; transform: scale(1.05); }
         }
         
         @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+            
             h1 {
-                font-size: 2.4rem;
-            }
-            
-            .logo-container {
-                width: 280px;
-                height: 280px;
-            }
-            
-            .logo-name {
-                font-size: 2rem;
-            }
-            
-            .scripture-highlight {
-                font-size: 1.1rem;
-                padding: 15px;
-            }
-            
-            .design-element {
-                padding: 20px;
-            }
-            
-            .element-desc {
-                font-size: 1.1rem;
+                font-size: 2.3rem;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="scripture-overlay">
-            "Your word is a lamp to my feet and a light to my path."<br>
-            "Trust in the Lord with all your heart..."<br>
-            "As the heavens are higher than the earth..."<br>
-            "I am the way and the truth and the life..."
-        </div>
-        
         <header>
-            <h1>PATH OF DIVINE TRUTH</h1>
-            <p class="subtitle">Where Sacred Scripture Illuminates Our Journey</p>
-            <span class="scripture-highlight">"Your word is a lamp to my feet and a light to my path." - Psalm 119:105</span>
+            <h1>GitHub README Logo</h1>
+            <p class="subtitle">Add your Path of Divine Truth logo to your GitHub README.md</p>
         </header>
         
-        <div class="logo-section">
-            <div class="logo-container">
-                <div class="divine-light"></div>
-                
-                <div class="light-rays">
-                    <div class="ray" style="transform: rotate(-40deg);"></div>
-                    <div class="ray" style="transform: rotate(-30deg);"></div>
-                    <div class="ray" style="transform: rotate(-20deg);"></div>
-                    <div class="ray" style="transform: rotate(-10deg);"></div>
-                    <div class="ray" style="transform: rotate(0deg);"></div>
-                    <div class="ray" style="transform: rotate(10deg);"></div>
-                    <div class="ray" style="transform: rotate(20deg);"></div>
-                    <div class="ray" style="transform: rotate(30deg);"></div>
-                    <div class="ray" style="transform: rotate(40deg);"></div>
+        <div class="content">
+            <div class="logo-section">
+                <h2 class="section-title">Your Logo</h2>
+                <div class="logo-display">
+                    <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Background circle -->
+                        <circle cx="150" cy="150" r="145" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+                        
+                        <!-- Divine light rays -->
+                        <g opacity="0.7">
+                            <line x1="150" y1="0" x2="150" y2="100" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                            <line x1="150" y1="0" x2="120" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                            <line x1="150" y1="0" x2="180" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                            <line x1="150" y1="0" x2="100" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                            <line x1="150" y1="0" x2="200" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                        </g>
+                        
+                        <!-- Open Bible -->
+                        <g transform="translate(80, 100)">
+                            <!-- Left cover -->
+                            <rect x="0" y="0" width="70" height="100" rx="3" fill="#2a210f"/>
+                            <rect x="10" y="45" width="15" height="100" fill="#1a150a"/>
+                            <text x="25" y="100" font-family="Georgia" font-size="12" fill="#e0d0a0" text-anchor="middle" transform="rotate(-90 25 100)">HOLY BIBLE</text>
+                            
+                            <!-- Pages -->
+                            <rect x="70" y="5" width="60" height="90" rx="2" fill="#f8f4e0"/>
+                            
+                            <!-- Page lines -->
+                            <g stroke="#000" stroke-opacity="0.1" stroke-width="1">
+                                <line x1="75" y1="15" x2="125" y2="15"/>
+                                <line x1="75" y1="25" x2="125" y2="25"/>
+                                <line x1="75" y1="35" x2="125" y2="35"/>
+                                <line x1="75" y1="45" x2="125" y2="45"/>
+                                <line x1="75" y1="55" x2="125" y2="55"/>
+                                <line x1="75" y1="65" x2="125" y2="65"/>
+                                <line x1="75" y1="75" x2="125" y2="75"/>
+                                <line x1="75" y1="85" x2="125" y2="85"/>
+                            </g>
+                            
+                            <!-- Scripture text -->
+                            <text x="100" y="30" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">"Your word is a lamp</text>
+                            <text x="100" y="40" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my feet and a light</text>
+                            <text x="100" y="50" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my path."</text>
+                            <text x="100" y="65" font-family="Georgia" font-size="7" fill="#555" text-anchor="middle">- Psalm 119:105</text>
+                        </g>
+                        
+                        <!-- Divine path -->
+                        <path d="M 50 230 Q 150 180 250 230" stroke="#e0d0a0" stroke-width="6" fill="none"/>
+                    </svg>
                 </div>
-                
-                <div class="open-bible">
-                    <div class="bible-cover">
-                        <div class="bible-title">HOLY BIBLE</div>
-                    </div>
-                    <div class="bible-pages">
-                        <div class="page-lines">
-                            <!-- Page lines will be generated by JS -->
-                        </div>
-                        <div class="scripture-text">
-                            "In the beginning was the Word, and the Word was with God, and the Word was God."<br><br>
-                            "The unfolding of your words gives light; it imparts understanding to the simple."
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="divine-path"></div>
+                <p style="color: #b0c0d8; text-align: center; max-width: 300px;">
+                    This SVG logo will maintain its quality at any size and is perfect for GitHub README files.
+                </p>
             </div>
             
-            <div class="logo-text">
-                <div class="logo-name">PATH OF DIVINE TRUTH</div>
-                <div class="scripture-tagline">"Trust in the Lord with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He shall direct your paths." - Proverbs 3:5-6</div>
-            </div>
-            
-            <div class="design-details">
-                <h2 class="design-title">Sacred Symbolism</h2>
+            <div class="instructions">
+                <h2 class="section-title">Add to GitHub README</h2>
                 
-                <div class="design-element">
-                    <div class="element-title">
-                        <i>📖</i> The Open Bible
+                <div class="steps">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-title">Copy the SVG Code</div>
+                        <div class="step-content">
+                            Copy the following SVG code to your clipboard:
+                        </div>
+                        <div class="code-block" id="svg-code">
+                            <button class="copy-btn" onclick="copySVGCode()">Copy</button>
+                            <pre><code>&lt;svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg"&gt;
+  &lt;circle cx="150" cy="150" r="145" fill="#0f172a" stroke="#1e293b" stroke-width="1"/&gt;
+  
+  &lt;g opacity="0.7"&gt;
+    &lt;line x1="150" y1="0" x2="150" y2="100" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/&gt;
+    &lt;line x1="150" y1="0" x2="120" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/&gt;
+    &lt;line x1="150" y1="0" x2="180" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/&gt;
+    &lt;line x1="150" y1="0" x2="100" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/&gt;
+    &lt;line x1="150" y1="0" x2="200" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/&gt;
+  &lt;/g&gt;
+  
+  &lt;g transform="translate(80, 100)"&gt;
+    &lt;rect x="0" y="0" width="70" height="100" rx="3" fill="#2a210f"/&gt;
+    &lt;rect x="10" y="45" width="15" height="100" fill="#1a150a"/&gt;
+    &lt;text x="25" y="100" font-family="Georgia" font-size="12" fill="#e0d0a0" text-anchor="middle" transform="rotate(-90 25 100)"&gt;HOLY BIBLE&lt;/text&gt;
+    
+    &lt;rect x="70" y="5" width="60" height="90" rx="2" fill="#f8f4e0"/&gt;
+    
+    &lt;g stroke="#000" stroke-opacity="0.1" stroke-width="1"&gt;
+      &lt;line x1="75" y1="15" x2="125" y2="15"/&gt;
+      &lt;line x1="75" y1="25" x2="125" y2="25"/&gt;
+      &lt;line x1="75" y1="35" x2="125" y2="35"/&gt;
+      &lt;line x1="75" y1="45" x2="125" y2="45"/&gt;
+      &lt;line x1="75" y1="55" x2="125" y2="55"/&gt;
+      &lt;line x1="75" y1="65" x2="125" y2="65"/&gt;
+      &lt;line x1="75" y1="75" x2="125" y2="75"/&gt;
+      &lt;line x1="75" y1="85" x2="125" y2="85"/&gt;
+    &lt;/g&gt;
+    
+    &lt;text x="100" y="30" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle"&gt;"Your word is a lamp&lt;/text&gt;
+    &lt;text x="100" y="40" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle"&gt;to my feet and a light&lt;/text&gt;
+    &lt;text x="100" y="50" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle"&gt;to my path."&lt;/text&gt;
+    &lt;text x="100" y="65" font-family="Georgia" font-size="7" fill="#555" text-anchor="middle"&gt;- Psalm 119:105&lt;/text&gt;
+  &lt;/g&gt;
+  
+  &lt;path d="M 50 230 Q 150 180 250 230" stroke="#e0d0a0" stroke-width="6" fill="none"/&gt;
+&lt;/svg&gt;</code></pre>
+                        </div>
                     </div>
-                    <div class="element-desc">
-                        The open Bible represents God's revealed Word to humanity. The open pages symbolize accessibility of divine truth to all who seek it. The scripture verses on the pages highlight the living nature of God's Word.
-                        <span class="scripture-verse">"So faith comes from hearing, and hearing through the word of Christ." - Romans 10:17</span>
+                    
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-title">Paste into README.md</div>
+                        <div class="step-content">
+                            Paste the SVG code directly into your GitHub README.md file. You can:
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Place it at the top for a logo header</li>
+                                <li>Center it using HTML div tags</li>
+                                <li>Resize it by adjusting the width and height attributes</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-title">Center the Logo (Optional)</div>
+                        <div class="step-content">
+                            To center the logo in your README, wrap it in div tags:
+                        </div>
+                        <div class="code-block">
+                            <pre><code>&lt;div align="center"&gt;
+  &lt;!-- SVG CODE HERE --&gt;
+&lt;/div&gt;</code></pre>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="design-element">
-                    <div class="element-title">
-                        <i>✨</i> Divine Light
+                <div class="preview">
+                    <div class="preview-title">GitHub Preview</div>
+                    <div class="github-preview">
+                        <svg width="150" height="150" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="150" cy="150" r="145" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+                            
+                            <g opacity="0.7">
+                                <line x1="150" y1="0" x2="150" y2="100" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                                <line x1="150" y1="0" x2="120" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                                <line x1="150" y1="0" x2="180" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                                <line x1="150" y1="0" x2="100" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                                <line x1="150" y1="0" x2="200" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+                            </g>
+                            
+                            <g transform="translate(80, 100)">
+                                <rect x="0" y="0" width="70" height="100" rx="3" fill="#2a210f"/>
+                                <rect x="10" y="45" width="15" height="100" fill="#1a150a"/>
+                                <text x="25" y="100" font-family="Georgia" font-size="12" fill="#e0d0a0" text-anchor="middle" transform="rotate(-90 25 100)">HOLY BIBLE</text>
+                                
+                                <rect x="70" y="5" width="60" height="90" rx="2" fill="#f8f4e0"/>
+                                
+                                <g stroke="#000" stroke-opacity="0.1" stroke-width="1">
+                                    <line x1="75" y1="15" x2="125" y2="15"/>
+                                    <line x1="75" y1="25" x2="125" y2="25"/>
+                                    <line x1="75" y1="35" x2="125" y2="35"/>
+                                    <line x1="75" y1="45" x2="125" y2="45"/>
+                                    <line x1="75" y1="55" x2="125" y2="55"/>
+                                    <line x1="75" y1="65" x2="125" y2="65"/>
+                                    <line x1="75" y1="75" x2="125" y2="75"/>
+                                    <line x1="75" y1="85" x2="125" y2="85"/>
+                                </g>
+                                
+                                <text x="100" y="30" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">"Your word is a lamp</text>
+                                <text x="100" y="40" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my feet and a light</text>
+                                <text x="100" y="50" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my path."</text>
+                                <text x="100" y="65" font-family="Georgia" font-size="7" fill="#555" text-anchor="middle">- Psalm 119:105</text>
+                            </g>
+                            
+                            <path d="M 50 230 Q 150 180 250 230" stroke="#e0d0a0" stroke-width="6" fill="none"/>
+                        </svg>
                     </div>
-                    <div class="element-desc">
-                        The rays of light shining upon the Bible represent God's revelation and enlightenment. This symbolizes the Holy Spirit illuminating scripture to guide and transform believers.
-                        <span class="scripture-verse">"The unfolding of your words gives light; it imparts understanding to the simple." - Psalm 119:130</span>
-                    </div>
-                </div>
-                
-                <div class="design-element">
-                    <div class="element-title">
-                        <i>🛣️</i> The Golden Path
-                    </div>
-                    <div class="element-desc">
-                        The path represents the spiritual journey guided by God's Word. Its golden hue symbolizes the divine wisdom and eternal truth found in scripture that directs our steps.
-                        <span class="scripture-verse">"Your word is a lamp to my feet and a light to my path." - Psalm 119:105</span>
-                    </div>
-                </div>
-                
-                <div class="design-element">
-                    <div class="element-title">
-                        <i>🙏</i> Divine Guidance
-                    </div>
-                    <div class="element-desc">
-                        The integration of light, open Bible, and path represents God's promise to guide those who trust in Him and acknowledge Him in all their ways.
-                        <span class="scripture-verse">"I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you." - Psalm 32:8</span>
-                    </div>
+                    <p style="color: #b0c0d8; margin-top: 15px;">
+                        This is how your logo will appear in a GitHub README
+                    </p>
                 </div>
             </div>
         </div>
         
         <footer>
-            <p>Path of Divine Truth Logo | Created with Reverence for God's Word</p>
-            <p>Featuring an Open Bible with Divine Light | Inspired by Proverbs 3:5-6, Psalm 119:105, and Isaiah 55:9</p>
+            <p>Path of Divine Truth Logo | Created for GitHub README</p>
+            <p>Inspired by Psalm 119:105 | "Your word is a lamp to my feet and a light to my path"</p>
         </footer>
     </div>
     
     <script>
-        // Generate page lines for the Bible
-        const pageLines = document.querySelector('.page-lines');
-        
-        for (let i = 0; i < 20; i++) {
-            const line = document.createElement('div');
-            line.classList.add('page-line');
-            line.style.top = `${(i * 12) + 5}px`;
-            pageLines.appendChild(line);
+        function copySVGCode() {
+            const codeElement = document.querySelector('#svg-code code');
+            const textArea = document.createElement('textarea');
+            textArea.value = codeElement.textContent;
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+            
+            const copyButton = document.querySelector('#svg-code .copy-btn');
+            copyButton.textContent = 'Copied!';
+            setTimeout(() => {
+                copyButton.textContent = 'Copy';
+            }, 2000);
         }
     </script>
 </body>
