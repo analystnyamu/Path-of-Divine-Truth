@@ -1,0 +1,57 @@
+---
+title: "Logo"
+author: "Martin N. Wanjiru"
+date: "2025-06-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE, results='asis'}
+cat('
+<div align="center" style="margin: 40px 0;">
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="145" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  
+  <g opacity="0.7">
+    <line x1="150" y1="0" x2="150" y2="100" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+    <line x1="150" y1="0" x2="120" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+    <line x1="150" y1="0" x2="180" y2="80" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+    <line x1="150" y1="0" x2="100" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+    <line x1="150" y1="0" x2="200" y2="60" stroke="#f9f5e5" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <g transform="translate(80, 100)">
+    <rect x="0" y="0" width="70" height="100" rx="3" fill="#2a210f"/>
+    <rect x="10" y="45" width="15" height="100" fill="#1a150a"/>
+    <text x="25" y="100" font-family="Georgia" font-size="12" fill="#e0d0a0" text-anchor="middle" transform="rotate(-90 25 100)">HOLY BIBLE</text>
+    
+    <rect x="70" y="5" width="60" height="90" rx="2" fill="#f8f4e0"/>
+    
+    <g stroke="#000" stroke-opacity="0.1" stroke-width="1">
+      <line x1="75" y1="15" x2="125" y2="15"/>
+      <line x1="75" y1="25" x2="125" y2="25"/>
+      <line x1="75" y1="35" x2="125" y2="35"/>
+      <line x1="75" y1="45" x2="125" y2="45"/>
+      <line x1="75" y1="55" x2="125" y2="55"/>
+      <line x1="75" y1="65" x2="125" y2="65"/>
+      <line x1="75" y1="75" x2="125" y2="75"/>
+      <line x1="75" y1="85" x2="125" y2="85"/>
+    </g>
+    
+    <text x="100" y="30" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">"Your word is a lamp</text>
+    <text x="100" y="40" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my feet and a light</text>
+    <text x="100" y="50" font-family="Georgia" font-size="8" fill="#333" text-anchor="middle">to my path."</text>
+    <text x="100" y="65" font-family="Georgia" font-size="7" fill="#555" text-anchor="middle">- Psalm 119:105</text>
+  </g>
+  
+  <path d="M 50 230 Q 150 180 250 230" stroke="#e0d0a0" stroke-width="6" fill="none"/>
+</svg>
+
+<h2 style="font-family: \'Cinzel\', serif; color: #e0d0a0;">PATH OF DIVINE TRUTH</h2>
+<p style="font-style: italic; color: #b0c0d8;">"Your word is a lamp to my feet and a light to my path." - Psalm 119:105</p>
+</div>
+')
+```

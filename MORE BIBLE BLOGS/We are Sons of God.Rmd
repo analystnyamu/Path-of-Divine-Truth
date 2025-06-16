@@ -3,8 +3,8 @@ title: 'Adopted by Grace: The Mystery of the Sons of God in the Bible'
 author: "Martin N. Wanjiru"
 date: "2025-06-02"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -60,7 +60,7 @@ This shift from angels to believers highlights the profound grace of God, who, t
 
 ---
 
-::: {.callout-tip callapse="true"}
+::: {.callout-tip callapse="false"}
 ## The Sons of God: Insights from the Book of Enoch
 
 **Disclaimer:**  
