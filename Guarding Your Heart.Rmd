@@ -1,0 +1,105 @@
+---
+title: "Teens Surmon"
+author: "Martin N. Wanjiru"
+date: "2025-09-06"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sermon Title: Guarding Your Heart in a Broken World
+
+**Key Text:**  
+**Proverbs 4:23** – *“Above all else, guard your heart, for everything you do flows from it.”*
+
+---
+
+## 1. Introduction
+
+Begin by asking them:  
+**“If you had something very valuable—like money, a phone, or your favorite shoes—would you just leave it outside for anyone to take?**  
+**No! You would guard it carefully.”**
+
+Then explain:  
+“The Bible says the most valuable thing you have is not your phone, not your money, not even your friends—it’s your heart. Why? Because everything you think, say, and do flows from your heart.”
+
+---
+
+## 2. Why Guard Your Heart?
+
+**Because the world is broken.**  
+- *Jeremiah 17:9* – *“The heart is deceitful above all things and beyond cure. Who can understand it?”*
+
+Social media, peer pressure, music, and ungodly friendships try to shape our hearts away from God.
+
+**Because your heart determines your future.**  
+- *Matthew 12:34* – *“For out of the abundance of the heart the mouth speaks.”*
+
+What you allow into your heart will eventually show in your words, actions, and choices.
+
+### Real Life Scenario:
+- A teen who constantly listens to violent or immoral music eventually begins to act and think that way.  
+- Another who surrounds themselves with encouraging, God-fearing friends begins to reflect Christ.
+
+---
+
+## 3. How Do You Guard Your Heart?
+
+### a) Watch What You Feed Your Heart  
+- *Psalm 119:11* – *“I have hidden your word in my heart that I might not sin against you.”*
+
+If you keep feeding on ungodly movies, gossip, or toxic music, that’s what will shape you. But if you feed on God’s Word, your heart becomes strong.
+
+**Scenario:**  
+Just like your body becomes unhealthy if you eat only junk food, your heart becomes spiritually unhealthy if you consume spiritual “junk.”
+
+### b) Choose Your Friends Wisely  
+- *1 Corinthians 15:33* – *“Do not be misled: Bad company corrupts good character.”*
+
+The people around you influence your habits, language, and even your dreams.
+
+**Scenario:**  
+A good friend will remind you to pray before exams; a bad friend may lead you into cheating.
+
+### c) Guard What You See and Hear  
+- *Matthew 6:22* – *“The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.”*
+
+What enters through your eyes and ears ends up in your heart.
+
+**Scenario:**  
+Just like a computer gets a virus when you download harmful files, your heart gets “spiritual viruses” when you expose yourself to ungodly content.
+
+### d) Stay Connected to Christ  
+- *John 15:5* – *“I am the vine; you are the branches… apart from me you can do nothing.”*
+
+Prayer, worship, and fellowship with other believers strengthen your heart against temptations.
+
+---
+
+## 4. The Rewards of Guarding Your Heart
+
+- You live in peace and joy (*Philippians 4:7*).  
+- You can stand firm when others fall (*Ephesians 6:13*).  
+- God can use you as an example to your friends (*Matthew 5:14–16*).
+
+---
+
+## 5. Conclusion
+
+- Repeat *Proverbs 4:23.*
+- **Closing Challenge:**  
+  “Your heart is the control center of your life. Guard it like the most precious treasure, because it is! Don’t let the broken world steal it. Instead, give it fully to Jesus.”
+
+---
+
+## 6. Call to Action (Practical Step for Teens)
+
+Ask them to reflect:  
+**“What am I allowing into my heart that is pulling me away from God?”**
+
+**Challenge them:**  
+“This week, replace **one thing that feeds your heart negatively** (maybe a toxic playlist, gossip, or a bad habit) with **one thing that feeds your heart positively** (reading a Psalm daily, listening to gospel music, praying before bed).”
