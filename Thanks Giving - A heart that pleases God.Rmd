@@ -1,0 +1,377 @@
+---
+title: 'SERMON: The Art of Thanksgiving — A Heart That Pleases God'
+author: "Martin N. Wanjiru"
+date: "2025-09-27"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Theme:**  
+*Thanksgiving — The Sacrifice That Touches God’s Heart and Blesses Others*  
+*Cultivating a Heart of Gratitude to God in All Circumstances*
+
+---
+
+## Real-Life Scenarios of Gratitude  
+
+**I. In the Storm (Hardship)**  
+
+A woman lost her job unexpectedly. Instead of sinking into despair, she began to thank God daily for life, health, and the skills He had given her. Within weeks, a better opportunity opened — one she never imagined possible. Her gratitude kept her faith alive until the breakthrough came.  
+
+**II. In the Blessing (Success)**  
+
+A young man prayed for years to pass his exams and secure a good job. When he finally succeeded, instead of moving on without acknowledgment, he returned to church with a thanksgiving testimony and offered his first salary to God. That act of gratitude not only honored God but inspired others — and God continued to promote him in unexpected ways.  
+
+**Lesson:** Whether in hardship or success, gratitude positions you for God’s best.  
+
+---
+
+## Main Scriptures
+
+- **1 Thessalonians 5:18** — “In everything give thanks; for this is the will of God in Christ Jesus for you.”
+- **Psalm 50:14** — “Offer unto God thanksgiving; and pay thy vows unto the Most High.”
+- **Psalm 51:16–17** — “You do not delight in sacrifice, or I would bring it; You do not take pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, You will not despise.”
+- **Psalm 100:4–5** — “Enter His gates with thanksgiving, and His courts with praise; give thanks to Him and bless His name.”
+- **Luke 17:11–19** — The story of the ten lepers, and the one who returned to thank Jesus.
+- **Numbers 14:1–4** — The Israelites complain and rebel against God after being delivered from Egypt.
+- **James 1:17** — “Every good and perfect gift is from above, coming down from the Father of lights…”
+- **Romans 1:21** — “Although they knew God, they neither glorified Him as God nor gave thanks to Him…”
+
+---
+
+## 1. Introduction
+
+**Opening Illustration:**  
+
+Most people remember to ask God for blessings, but few come back to thank Him.  
+
+> “We live in a world full of requests but short of thanksgiving. People cry out for miracles but forget the Miracle Worker once their prayers are answered.”  
+
+**Transition:**  
+
+Today, we will learn *the art of thanksgiving* — not as a one-time act, but as a way of life that pleases God, brings peace to the soul, and opens the door to more blessings.  
+
+Thanksgiving is not a small gesture — it is a divine principle that connects heaven and earth. It moves the heart of God more than burnt offerings, long prayers, or impressive sacrifices.  
+
+---
+
+## 2. What is Thanksgiving?
+
+Thanksgiving is acknowledging God as the source of everything good and responding with heartfelt gratitude — in words, worship, and action.  
+
+> “Thanksgiving is not about the abundance you have, but the attitude you carry.”  
+
+### Examples:
+
+- Noah built an altar after the flood (Genesis 8:20).  
+- David gave thanks continually in psalms (Psalm 103:1–2).  
+- Jesus gave thanks before multiplying the loaves (John 6:11).  
+
+---
+
+## 3. The Importance of Thanksgiving
+
+### a) Thanksgiving reminds us of God’s faithfulness  
+
+It humbles us and glorifies God, reminding us that blessings come by His grace — not our strength (James 1:17).  
+
+### b) Thanksgiving invites God’s presence  
+
+Psalm 22:3 — “But You are holy, You who inhabit the praises of Israel.”  
+Thanksgiving creates an atmosphere for His presence to dwell among us.  
+
+### c) Thanksgiving releases more blessings  
+
+The leper who returned was not only healed but made whole (Luke 17:19).  
+Gratitude multiplies what you have; complaining diminishes it.  
+
+### d) Thanksgiving builds faith  
+
+Recalling past blessings strengthens us to trust God for the future.  
+
+---
+
+## 4. Thanksgiving — The Offering That Pleases God Most  
+
+Psalm 51:16–17 reminds us that what pleases God most is not ritual sacrifices, but a heart that is humble, contrite, and full of gratitude. God looks beyond outward acts and weighs the spirit behind them.  
+
+Thanksgiving is therefore not just an act of courtesy — it is a sacred offering, more precious to God than burnt offerings or elaborate rituals.  
+
+### a) Thanksgiving brings true worship  
+
+Psalm 69:30–31 says:  
+> “I will praise the name of God with a song and will magnify Him with thanksgiving. This will please the Lord more than an ox or a bull.”  
+
+- True worship is not measured by the size of the sacrifice, but by the sincerity of a thankful heart.  
+- A heart of gratitude turns ordinary words, songs, and prayers into a fragrant offering before God.  
+
+### b) Thanksgiving glorifies God  
+
+Psalm 50:23 declares:  
+“He who sacrifices thank offerings honors Me, and prepares the way so that I may show him the salvation of God.”  
+
+- Every time we give thanks, we are honoring God and acknowledging Him as the source of all good things.  
+- Thanksgiving prepares the ground for more of God’s blessings to flow into our lives — it opens the door to His salvation, deliverance, and provision.  
+
+**Key Truth:**  
+
+Thanksgiving is more than words — it is worship, honor, and spiritual fragrance rising directly to God’s throne. When we live with gratitude, our lives themselves become an offering that pleases Him.  
+
+---
+
+## 5. The Dangers of Complaining — The Lesson from Israel  
+
+The Israelites had every reason to be grateful — God had delivered them from slavery, parted the Red Sea, and fed them with manna from heaven. Yet, instead of gratitude, they chose to complain.  
+
+### Their Complaints:  
+
+- “Why did you bring us out here to die?” (Exodus 14:11–12)  
+- “We miss the food in Egypt.” (Numbers 11:4–6)  
+- “There are giants in the land; we can’t go forward.” (Numbers 13–14)  
+
+### God’s Response:  
+
+Numbers 14:27–29 — Their persistent grumbling offended God and cost them the Promised Land.  
+
+### The Dangers of Complaining  
+
+- **It blinds us to God’s goodness** — We focus on what we lack instead of what God has done.  
+- **It blocks blessings** — A complaining spirit shuts the door to God’s favor.  
+- **It brings delay and destruction** — The wilderness generation never saw the fulfillment of God’s promise.  
+
+Even the prophet **Jeremiah** struggled with complaint. In Jeremiah 15:18–19, he lamented bitterly before God, and the Lord rebuked him:  
+> “If you repent, I will restore you that you may serve Me…”  
+
+God made it clear: persistent complaint can lead to spiritual weakness, bitterness, and even sickness of the soul until repentance restores us.  
+
+### The Power of Thanksgiving  
+
+- **Opens doors** — Gratitude positions us for new opportunities.  
+- **Multiplies blessings** — What you thank God for increases in value.  
+- **Draws God’s presence** — Thanksgiving invites heaven to intervene.  
+
+**Key Principle:**  
+
+*Gratitude accelerates you. Complaining delays you. Thanksgiving moves you forward; murmuring keeps you stuck.*  
+
+---
+
+## 6. Thanksgiving — The Language of Faith  
+
+Faith is not only seen in our prayers or declarations — it is also revealed in our thanksgiving. A thankful heart speaks the language of faith by giving glory to God *before* the answer comes.  
+
+### Biblical Examples  
+
+- **At Lazarus’ tomb** — Jesus lifted His eyes and prayed, *“Father, I thank You that You have heard Me”* (John 11:41). He gave thanks before Lazarus walked out alive.  
+- **At the feeding of the 5,000** — With only five loaves and two fish, Jesus gave thanks (John 6:11), and it multiplied to feed thousands.  
+- **Paul and Silas in prison** — They sang hymns of thanksgiving at midnight (Acts 16:25–26), and God opened the prison doors.  
+
+### Lesson 
+
+Thanksgiving before manifestation is not wishful thinking — it is the highest expression of faith. It says:  
+
+- *“Lord, I trust You even before I see the answer.”*  
+- *“I believe You are faithful, even while I am waiting.”*  
+- *“My gratitude is not based on what I see, but on who You are.”*  
+
+
+**Key Truth:**  
+
+Thanksgiving is not the end of faith — it is the *voice of faith*. When you give thanks ahead of the miracle, you invite God’s power into your situation.  
+
+
+---
+
+## 7. The Art of Thanksgiving Toward People  
+
+Thanksgiving is not only directed to God — it must also be expressed to people. God often uses people as vessels of His blessing, and appreciating them shows that we recognize His hand at work through them.  
+
+### a) Gratitude strengthens relationships  
+
+Romans 13:7 reminds us to “give to everyone what you owe them… if respect, then respect; if honor, then honor.”  
+- Saying “thank you” honors people and builds stronger bonds of love.  
+- In families, marriages, friendships, and workplaces, gratitude keeps relationships healthy and flourishing.  
+
+### b) Express thanks in words  
+
+Proverbs 25:11 — “A word fitly spoken is like apples of gold in settings of silver.”  
+- A grateful heart must be voiced. Don’t assume people know you appreciate them — say it.  
+- Jesus Himself commended the woman who anointed His feet with oil (Luke 7:44–46), showing us that acknowledgment matters.  
+
+### c) Show gratitude through actions and tokens 
+
+Deuteronomy 16:10 commanded Israel to bring a freewill offering of thanks. Gratitude often overflows into tangible acts.  
+- Write a note, give a gift, offer help, or serve someone as a way of saying “thank you.”  
+- Hebrews 6:10 assures us that God does not forget acts of love — and neither should we.  
+
+> “A token of thanks is not about the price of the gift, but the posture of the heart that gives.”  
+
+### d) Gratitude toward people reflects gratitude toward God  
+
+- When we honor those who bless us, we are ultimately honoring the God who worked through them.  
+- Failing to appreciate others reveals pride, as though we deserved everything we received.  
+
+**Key Principle:**  
+
+A grateful Christian is a humble Christian; an ungrateful Christian is a proud one. Gratitude toward people is a reflection of your gratitude toward God.  
+
+---
+
+## 8. How to Practice the Art of Thanksgiving  
+
+Thanksgiving is not just a reaction to blessings — it is a spiritual discipline and a daily habit. Here are ways to cultivate a lifestyle of gratitude:  
+
+### I) Give thanks in all circumstances  
+
+1 Thessalonians 5:18 — “In everything give thanks; for this is the will of God in Christ Jesus for you.”  
+
+- True thanksgiving is not based on circumstances but on God’s unchanging character.  
+- Even in trials, declare: *“Lord, I don’t understand, but I thank You because You are in control.”*  
+
+### II) Express thanksgiving through words 
+
+Psalm 107:1–2 — “Give thanks to the Lord… Let the redeemed of the Lord say so.”  
+
+- Speak it. Sing it. Pray it. Testify about it.  
+- Silent gratitude is good, but spoken thanksgiving glorifies God and encourages others.  
+
+### III) Show thanksgiving through giving  
+
+Deuteronomy 16:10 commanded God’s people to bring an offering as an act of thanks.  
+
+- Gratitude that never moves your hands or heart is incomplete.  
+- Give your time, service, resources, and love as tokens of appreciation to God and to people.  
+
+### IV) Live a thankful lifestyle  
+
+- Replace a “complaint list” with a “gratitude list.”  
+- Thank God not only for big miracles but also for daily mercies — breath, health, food, family, opportunities.  
+- Make gratitude your language, not just an occasional act.  
+
+### V) Practical habits of thanksgiving 
+
+- **Start your day with thanksgiving** — Psalm 92:1: “It is good to give thanks to the Lord…”  
+- **Keep a gratitude journal** — record blessings daily, both small and great.  
+- **Replace complaining with praise** — turn every negative thought into a reason to honor God.  
+- **Thank people intentionally** — never let kindness go unnoticed.  
+- **Offer thanksgiving through service and generosity** — let your life itself be an offering of gratitude.  
+
+
+**Key Truth:**  
+
+Thanksgiving is not only what we do in church, but how we live every day. A grateful life is the clearest evidence of a heart that pleases God.  
+
+---
+
+## 9. The Dangers of Ingratitude  
+
+Romans 1:21 warns us:  
+> “Although they knew God, they neither glorified Him as God nor gave thanks to Him, but their thinking became futile and their foolish hearts were darkened.”  
+
+### What Ingratitude Does: 
+
+- **It darkens the heart** — when we stop thanking God, our spiritual vision becomes clouded, and we lose sight of His goodness.  
+- **It leads to pride** — ingratitude makes us believe we earned or deserved our blessings, forgetting that every good gift comes from God (James 1:17).  
+- **It blocks blessings** — a thankless spirit closes the door to God’s favor and future provision.  
+
+### Biblical Example: Israel in the Wilderness 
+
+The Israelites had manna from heaven, water from the rock, and God’s daily presence in the pillar of cloud and fire — yet they murmured.
+
+- They complained about food (Numbers 11:4–6).  
+- They doubted God’s promises (Numbers 13–14).  
+- They longed to go back to Egypt instead of moving forward to the Promised Land.  
+
+**Result:** An entire generation missed God’s promise — not because of lack of provision, but because of lack of gratitude.  
+
+**Key Principle:**  
+
+Ingratitude turns blessings into burdens, miracles into “not enough,” and opportunities into obstacles. Gratitude sees God’s hand; ingratitude blinds us to it.  
+
+
+---
+
+## 10. The Rewards of a Thankful Heart  
+
+A lifestyle of thanksgiving is not just pleasing to God — it also brings powerful rewards into our lives.  
+
+### a) Peace and joy  
+
+Philippians 4:6–7 — “Do not be anxious about anything, but in everything, by prayer and supplication, with thanksgiving, let your requests be made known to God. And the peace of God… will guard your hearts and minds.” 
+
+- Gratitude replaces anxiety with peace.  
+- A thankful heart cannot be heavy with worry — joy flows where thanksgiving lives.  
+
+### b) Divine presence 
+
+Psalm 100:4 — “Enter His gates with thanksgiving, and His courts with praise.”  
+
+- Thanksgiving is the doorway into God’s presence.  
+- Grumbling pushes God away; gratitude draws Him near.  
+
+### c) Favor with God and man
+
+Luke 2:52 — “And Jesus grew in wisdom and stature, and in favor with God and man.”  
+
+- Grateful people are attractive — they carry humility, honor, and respect.  
+- Thanksgiving opens doors of opportunity and connection.  
+
+### d) Victory in spiritual battles
+
+Acts 16:25–26 — Paul and Silas prayed and sang hymns in prison, and suddenly the doors opened.  
+
+- Gratitude in the darkest hour becomes a weapon of victory.  
+- Praise invites divine intervention where human strength fails.  
+
+### e) Wholeness and promotion  
+
+Luke 17:19 — The one leper who returned to give thanks was not only healed but made whole.  
+
+- Healing touches the body, but thanksgiving brings restoration to the soul, spirit, and destiny.  
+- Gratitude doesn’t just preserve blessings — it multiplies and elevates them.  
+
+**Key Principle:** 
+
+Thanksgiving is the key that unlocks peace, presence, favor, victory, and wholeness. A thankful heart attracts what a complaining spirit repels.  
+
+---
+
+## 11. Conclusion — Be the One Who Returns  
+
+In Luke 17:11–19, ten lepers were healed, but only one returned to give thanks. Jesus asked, *“Were not ten cleansed? Where are the nine?”*  
+- Gratitude is rare — but it is precious in heaven.  
+- God notices not only the prayers of request but also the prayers of thanksgiving.  
+
+### Main Message Recap  
+
+- **Thanksgiving is God’s will** (1 Thess. 5:18).  
+- **It is more than a ritual — it is a lifestyle.**  
+- **It unlocks divine presence, favor, victory, and blessing.**  
+
+### Call to Action  
+
+Today, choose to be the one who returns.
+
+- Thank Him in the morning.  
+- Thank Him in the storm.  
+- Thank Him in the victory.  
+- Thank Him in the waiting.  
+
+Gratitude is the mark of faith, the fragrance of worship, and the pathway to wholeness.  
+
+### Closing Verse  
+
+Psalm 92:1 — *“It is a good thing to give thanks unto the Lord, and to sing praises to Your name, O Most High.”*  
+
+
+---
+
+## Closing Prayer
+
+*Father, we thank You for teaching us the art of thanksgiving. Forgive us for the times we have complained or taken Your blessings for granted. Teach us to thank You in every situation and to appreciate the people You send into our lives. Fill our hearts with humility and gratitude, that we may please You and reflect Your love to others. Help us to be the one who always returns to say, “Thank You, Lord.” In Jesus’ name, Amen.*  
