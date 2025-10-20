@@ -1,0 +1,165 @@
+---
+title: 'SERMON: STANDING STRONG IN A WORLD THAT’S FALLING APART'
+author: "Martin N. Wanjiru"
+date: "2025-10-18"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+📖 **Key Text:** *Daniel 1:8* — “But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank.”
+
+---
+
+## 1. INTRODUCTION
+
+We are living in a world that’s changing fast — values are shifting, truth is being redefined, and right is often mocked while wrong is celebrated.  
+But God is still looking for men and women — young or old — who will **stand firm** and live faithfully in a generation that’s drifting from Him.
+
+Daniel was a teenager when he was taken to Babylon — a foreign land filled with idol worship, luxury, and compromise. Yet, he decided in his heart that he would not defile himself.  
+In other words, **Daniel stood strong when everything around him was falling apart.**
+
+Today, God is asking us the same:  
+> “Will you stand for Me when the world tries to pull you away?”
+
+---
+
+## 2. POINT ONE: PURPOSE IN YOUR HEART BEFORE THE TEST COMES
+
+📖 *Daniel 1:8* — “But Daniel purposed in his heart…”  
+📖 *Joshua 24:15* — “Choose this day whom you will serve.”  
+📖 *Psalm 119:9* — “How can a young person stay on the path of purity? By living according to your word.”
+
+Daniel didn’t wait for temptation to decide what was right — he had already made up his mind before the pressure came.  
+He had settled in his heart:  
+> “No matter what others do, I will remain faithful to God.”
+
+👉 **This is where victory begins — in the heart, before the temptation ever arrives.**
+
+### 💡 Real-World Scenario
+
+Imagine you’re at a party or online, and everyone is doing something you know isn’t right — gossip, drinking, inappropriate content, cheating in exams, or mocking someone.  
+If you haven’t made a decision beforehand, you’ll be easily swayed. But if you’ve purposed in your heart — “I will not defile myself” — the Holy Spirit will help you stand firm.
+
+📖 *Proverbs 4:23* — “Above all else, guard your heart, for everything you do flows from it.”
+
+💬 **Lesson:**  
+Make decisions today that will protect your tomorrow.  
+Purpose in your heart now to walk in purity, honesty, and obedience.
+
+---
+
+## 3. POINT TWO: GOD HONORS THOSE WHO HONOR HIM
+
+📖 *1 Samuel 2:30* — “Those who honor Me I will honor.”  
+📖 *Daniel 1:9* — “Now God had brought Daniel into favor and goodwill…”  
+📖 *Matthew 6:33* — “But seek first the kingdom of God and His righteousness, and all these things will be added to you.”
+
+When Daniel stood firm, God gave him wisdom, favor, and promotion.  
+He and his friends became ten times wiser than all the others in Babylon.
+
+🔥 **Principle:**  
+When you choose to honor God, He will open doors for you that no man can shut.
+
+### 💡 Real-World Scenario
+
+A student refuses to cheat in an exam while others do. Maybe they score lower that day, but years later, their integrity earns them a scholarship or a job.  
+Or a young woman refuses to compromise her purity and later marries a godly man who respects her.  
+Or an employee refuses to take bribes and is later promoted because their boss can trust them.  
+
+God sees your faithfulness, even when others mock it.  
+
+📖 *Galatians 6:9* — “Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.”
+
+💬 **Lesson:**  
+Don’t trade your destiny for temporary pleasure or approval. God rewards those who stay faithful.
+
+---
+
+## 4. POINT THREE: YOU ARE IN THE WORLD BUT NOT OF THE WORLD
+
+📖 *John 17:14–16* — “They are not of the world, even as I am not of the world.”  
+📖 *Romans 12:2* — “Do not conform to the pattern of this world, but be transformed by the renewing of your mind.”  
+📖 *Matthew 5:14* — “You are the light of the world. A city on a hill cannot be hidden.”
+
+God never called us to blend in — He called us to **stand out**.  
+To be light in the darkness. To be different for His glory.
+
+But that’s not easy, especially today — social media, music, movies, and peers constantly pressure us to conform.  
+Yet Jesus said:  
+> “If the world hates you, keep in mind that it hated Me first.” (*John 15:18*)
+
+### 💡 Real-World Scenario
+
+Think about a fish in the ocean. It lives surrounded by salty water, yet the salt never gets inside — because what’s inside the fish protects it.  
+In the same way, we live in a sinful world, but the Holy Spirit inside us keeps us pure — if we allow Him to.
+
+### 🧭 Practical Ways to Stay Strong
+
+- **Stay in the Word daily** — *Psalm 119:105*: “Your word is a lamp to my feet and a light to my path.”  
+- **Pray consistently** — *Luke 18:1*: “Men ought always to pray and not faint.”  
+- **Surround yourself with godly friends** — *1 Corinthians 15:33*: “Bad company corrupts good morals.”  
+- **Stay connected to your church** — *Hebrews 10:25*: “Do not give up meeting together…”
+
+💬 **Lesson:**  
+You can’t stand strong alone — you need the Word, prayer, and godly community.
+
+---
+
+## 5. POINT FOUR: STANDING STRONG BRINGS INFLUENCE AND IMPACT
+
+📖 *Daniel 6:3* — “Then this Daniel distinguished himself… because an excellent spirit was in him.”  
+📖 *Matthew 5:16* — “Let your light shine before men, that they may see your good works and glorify your Father in heaven.”  
+📖 *Philippians 2:15* — “Shine among them like stars in the sky.”
+
+Because Daniel stood firm, he became a leader — a man of influence in a foreign kingdom.  
+The same God can use you — in your school, your workplace, your family — to be a voice of righteousness.
+
+### 💡 Modern Example
+
+There are believers in sports, music, and politics who use their platforms to glorify Jesus because they refused to compromise when it was unpopular.  
+Standing strong may cost you something — but it will always produce fruit and influence others for God’s glory.
+
+💬 **Lesson:**  
+When you live faithfully, others will see Christ in you.  
+Your boldness can lead someone else to salvation.
+
+---
+
+## 6. CONCLUSION
+
+Daniel’s story is not just ancient history — it’s our story.  
+Every day, we are surrounded by modern-day “Babylon” — distractions, temptations, and pressure to compromise.  
+But God is calling us to **purpose in our hearts, stand firm, and shine as lights** in a dark world.
+
+📖 *Ephesians 6:13* — “Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground…”
+
+Standing strong is not about perfection — it’s about conviction.  
+Even if you’ve fallen before, God can restore you and make you strong again.
+
+---
+
+## 7. CALL TO COMMITMENT / ALTAR CALL
+
+**Ask:**  
+Do you want to be like Daniel — faithful, unshaken, pure, and bold for Christ?
+
+**Lead them in prayer:**
+
+> “Lord Jesus, thank You for Your Word.  
+> Today I make a decision to stand for You, even when it’s hard.  
+> Forgive me for the times I have compromised.  
+> Fill me with Your Spirit and give me strength to live for You daily.  
+> Help me to be a light in this world.  
+> In Jesus’ name, Amen.”
+
+---
+
+## 8. MEMORY VERSE
+
+📖 *1 Corinthians 16:13* — “Be on your guard; stand firm in the faith; be courageous; be strong.”
