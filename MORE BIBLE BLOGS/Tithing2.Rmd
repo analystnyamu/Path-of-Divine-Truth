@@ -1,0 +1,169 @@
+---
+title: "Tithing2"
+author: "Martin N. Wanjiru"
+date: "2025-10-28"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sermon Title: **The Power of Tithing: Honoring God with Your Firstfruits**
+
+> “Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,” says the Lord Almighty, “and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.”  
+> — *Malachi 3:10 (NIV)*
+
+## Introduction: What Is Tithing?
+
+Tithing is a principle that has existed since ancient times, and it remains a vital part of our spiritual walk today.  
+At its core, tithing is the act of giving **10% of your income** to God as an act of worship, gratitude, and obedience.
+
+- **For those in salaried employment**, the tithe is calculated based on your **gross income**, which is your income before taxes and any other deductions.  
+- **For those in business**, the tithe is 10% of your **profit**, which is the income you receive after covering your expenses.
+
+Tithing is not a form of taxation or a religious requirement imposed upon us. It is a **voluntary act of worship** and **acknowledgment** of God’s provision. It is a way of saying, "God, I recognize that everything I have comes from You, and I trust You to provide for me."
+
+> “The earth is the Lord’s, and everything in it, the world, and all who live in it.”  
+> — *Psalm 24:1 (NIV)*
+
+## Tithing Is Not the Same as Charity
+
+There is a common misconception that **tithing** and **charity** are the same thing. Some people believe that instead of giving their tithe to the church, they can give it to the poor, support children's homes, or donate to charitable causes. While these are all good deeds and acts of kindness, they **do not fulfill the biblical command to tithe**.
+
+Charity is the act of giving to those in need, which is an expression of love and compassion. It is an important part of the Christian faith, but it is different from tithing. Tithing, according to Scripture, is **specifically for the house of God** — it is a **biblical mandate** to bring the **10% of your income to the storehouse (the local church)**, the place where you receive your spiritual nourishment.
+
+> “Bring the whole tithe into the storehouse, that there may be food in my house.”  
+> — *Malachi 3:10 (NIV)*
+
+You are not instructed to give your tithe to every pastor you see on TV, or to any other cause. While it is important to help others in need, **the tithe is reserved for the church** where you are spiritually fed, where you receive the Word of God and grow in your faith.
+
+### Why Tithing Belongs to the Church
+
+The **church** is God’s designated place for the proclamation of the gospel, the teaching of the Word, and the gathering of believers for fellowship and worship. The tithe supports the work of the ministry and ensures that the church is able to carry out its mission, including outreach programs, missions, and the day-to-day operations that support spiritual growth.
+
+Charity, on the other hand, is an overflow of God's love. It is important, but it is **separate from tithing**. You may give freely to charity, but that should not replace your obligation to tithe to your local church.
+
+---
+
+## Why Is Tithing Important?
+
+### 1. **Tithing Honors God**  
+
+Tithing is a way we can acknowledge that everything we have belongs to God. When we give our 10% back to God, we recognize that **He is the source of everything** — our income, our health, our talents, and our opportunities.
+
+God doesn’t need our money; He is the Creator of all things. But He desires our **hearts** — and tithing is a way we demonstrate where our hearts are.
+
+> “Honor the Lord with your wealth, with the firstfruits of all your crops.”  
+> — *Proverbs 3:9 (NIV)*
+
+When we give the firstfruits of our labor, we declare that **God is first in our lives**.
+
+### 2. **Tithing Sustains God’s Work**  
+
+The tithe is used to sustain the ministry and mission of the Church. It ensures that God’s house is not lacking in resources to spread His message, meet the needs of His people, and serve the community.
+
+> “Bring the whole tithe into the storehouse, that there may be food in my house.”  
+> — *Malachi 3:10 (NIV)*
+
+This is not just a call for financial support; it’s an invitation to partner with God in advancing His Kingdom on earth.
+
+### 3. **Tithing Invites Blessing and Protection**  
+
+God promises that when we are faithful in our giving, He will pour out blessings upon us — both physically and spiritually.
+
+> “Test me in this,” says the Lord Almighty, “and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.”  
+> — *Malachi 3:10 (NIV)*
+
+God also promises to **rebuke the devourer** (the enemy) for our sake, ensuring that our resources are protected. When we honor God with our finances, we are positioning ourselves to receive **God’s provision** in abundance.
+
+### 4. **Tithing Helps Us Fight Greed**  
+
+Tithing is a tool that helps us break free from the grip of greed and materialism. When we tithe, we are acknowledging that **money does not control us** — God does.
+
+> “For where your treasure is, there your heart will be also.”  
+> — *Matthew 6:21 (NIV)*
+
+As we give, we learn to trust God more and depend less on material things. Tithing aligns our hearts with God’s priorities and helps us keep our focus on His eternal purposes rather than on earthly wealth.
+
+## The Danger of Not Tithing
+
+While the act of withholding tithes may seem like a personal choice or harmless, the reality is much more serious in the spiritual realm. The Bible clearly teaches that when we fail to tithe, we are not just neglecting a command, but we are also opening ourselves to **spiritual consequences**. Refusing to tithe is not just an **act of disobedience**; it is also a **missed opportunity to partake in God’s promises**. When we choose not to tithe, we are essentially holding back what rightfully belongs to God.
+
+The **enemy** knows the power of tithing and wants to keep believers from participating in this act of worship. The Bible even accuses those who withhold their tithe as **"robbers" of God**.
+
+> “Will a mere mortal rob God? Yet you rob me. But you ask, ‘How are we robbing you?’ In tithes and offerings. You are under a curse — the whole nation of you — because you are robbing me.”  
+> — *Malachi 3:8–9 (NIV)*
+
+
+When we choose not to tithe, we:
+
+### I. **Rob God of His Due Honor**  
+
+God has commanded that we bring the tithe into His house. Withholding our tithe is an act of dishonoring God, as we are not giving Him what rightfully belongs to Him. This opens a door for spiritual attack, as we fail to align ourselves with God’s principles of provision and stewardship.
+
+> “Will a mere mortal rob God? Yet you rob me. But you ask, ‘How are we robbing you?’ In tithes and offerings.”  
+> — *Malachi 3:8 (NIV)*
+
+### II. **The House of God Suffers from Lack of Resources**  
+
+When we withhold our tithes, we prevent the church from fulfilling its mission to preach the gospel, support its ministries, and meet the needs of the congregation and the community. The lack of resources limits the church’s ability to serve God’s Kingdom.
+
+### III. **We Open Ourselves to Spiritual Attack**  
+
+The enemy knows what is written in Scripture, and when believers refuse to tithe, the devil uses that against them. When we fail to fulfill this biblical principle, we open ourselves to the **devourer**, as it is written that God will rebuke the devourer for those who are faithful in their tithes.
+
+> “I will prevent pests from devouring your crops, and the vines in your fields will not drop their fruit before it is ripe,” says the Lord Almighty.  
+> — *Malachi 3:11 (NIV)*
+
+The devil uses our disobedience to bring chaos and lack into our lives. When we do not tithe, we step out of alignment with God's plan for our provision and protection, which makes us vulnerable to the attacks of the enemy. The **devourer** works in various ways — through financial instability, insecurity, broken relationships, health challenges, and more.
+
+### IV. **We Miss Out on God’s Blessings**  
+
+The blessing that comes with tithing is not just financial. God promises to open the floodgates of heaven and pour out so many blessings that there won’t be room to store them. When we do not tithe, we miss out on this promise of divine provision and protection.
+
+### V. **We Allow Fear and Materialism to Control Us**  
+
+Choosing not to tithe often stems from fear or a love of money. We allow material things to control our decisions rather than trusting God’s faithfulness. This hinders spiritual growth and fosters a heart of greed and selfishness.
+
+---
+
+## The Blessings of Genuinely Tithing
+
+When we tithe out of love and obedience, rather than out of obligation, we experience the following blessings:
+
+### I. **Spiritual Growth and Trust**  
+Tithing teaches us to trust God more deeply. Every time we give, we are reminded that God is our Provider, and He will never fail us.
+
+### II. **God’s Provision and Abundance**  
+As we give, God promises to bless us in ways that we cannot even imagine. He pours out blessings on every area of our lives — spiritually, emotionally, and financially.
+
+### III. **Protection and Favor**  
+God’s protection over our finances and lives increases when we honor Him through tithing. He rebukes the devourer for our sake and ensures our resources are preserved.
+
+### IV. **Partnership with God**  
+Tithing allows us to partner with God in His work here on earth. Our giving helps sustain the ministry and advance God’s Kingdom.
+
+---
+
+## Conclusion: The Call to Faithful Giving
+
+Tithing is not just a religious practice; it is a **spiritual discipline** that strengthens our relationship with God. It is not just a command; it is a **blessing** that aligns us with God’s provision and His will for our lives. When we tithe, we honor God, sustain His work, invite His blessings, and protect ourselves from the attacks of the enemy. 
+
+Let us remember that tithing is not about obligation but about **love, trust**, and obedience to God’s will. As we give, we position ourselves to receive God’s blessings and protection in abundance.
+
+> “Honor the Lord with your wealth, with the firstfruits of all your crops.”  
+> — *Proverbs 3:9 (NIV)*
+
+God’s heart is not for our money; it is for our **hearts**. He wants us to learn to trust Him in every area of our lives, including our finances. By giving the first 10% of our income to God, we demonstrate that He is the **LORD** of all.
+
+> “Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.”  
+> — *Luke 6:38 (NIV)*
+
+Let us be faithful in tithing, trusting that God will bless us abundantly in return.
+
+### Prayer
+
+“Lord, we thank You for being our Provider and Sustainer. We offer our tithes to You as an act of worship and trust. Help us to honor You in all areas of our lives and give generously from our hearts. May our giving reflect our love for You and Your Kingdom. In Jesus’ name, Amen.”
