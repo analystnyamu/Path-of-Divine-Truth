@@ -1,0 +1,443 @@
+---
+title: "Untitled"
+author: "Martin Nyamu"
+date: "2025-10-28"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **The True Meaning of Tithing: A Matter of the Heart, Not a Transaction**
+
+
+Many Christians today have been led to believe that giving — whether tithes, offerings, or seeds — is a transaction with God, a spiritual “investment” meant to earn His blessings or protection. But the truth is deeper and more sacred: **God is not interested in your money; He is interested in your heart.**
+
+In many Christian circles, giving is often portrayed as a financial transaction with God. This transactional view of giving suggests that if we give enough, God will bless us in return, as if we are making an investment in a spiritual bank account. While the concept of sowing and reaping is biblical (*Galatians 6:7*), the emphasis should not be on how much we give or what we get in return but on the condition of our hearts. Giving is not a formula to manipulate God into giving us blessings; it is an expression of our love, reverence, and obedience toward Him.
+
+God’s relationship with His people has always been relational, not transactional. He desires a heart that is surrendered to Him, a heart that acknowledges His sovereignty, and a heart that seeks to honor Him with all that we have. The focus is on who we are giving to, not what we expect to receive in return. The essence of true giving lies in worship — an act that flows from the love and trust we have in God.
+
+---
+
+### “I, the Lord, search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”  
+— *Jeremiah 17:10 (ESV)*
+
+This verse is a profound reminder that God is not impressed by outward actions alone, such as the size of an offering or the frequency of tithing. God’s evaluation goes much deeper. He searches our hearts and tests our minds. He is not swayed by appearances or religious rituals; He sees the motives behind our actions. God does not reward us based on our external actions but according to the intent behind them. Our giving must come from a heart of love, sincerity, and obedience to God’s will.
+
+Jesus often spoke of this same principle. In *Matthew 6:1-4*, He warned against performing acts of righteousness, such as giving to the poor, for the sake of being seen by others. Instead, He taught that giving should be done in secret, so that only God — who sees in secret — will reward us. This highlights the importance of pure motives in our giving.
+
+---
+
+### Nothing can be hidden from God. He examines and weighs the motives of every heart.
+
+The Bible makes it clear that we cannot hide anything from God. His omniscient nature means that He sees beyond what is visible to human eyes. While we may deceive others with our actions, God sees the heart. He discerns the intentions behind every gift, every act of service, and every prayer. It is easy to get caught up in external appearances, but God’s focus is on the heart, because the heart reflects our deepest desires, values, and priorities.
+
+In *Proverbs 16:2*, we are reminded that "All the ways of a man are pure in his own eyes, but the Lord weighs the spirit." People often justify their actions, thinking they are doing good, but God’s standard is different. He weighs our spirit — the inner motivation that drives our actions. This means that even the most outwardly impressive gift or act of service can be meaningless if it is not done with the right heart.
+
+God’s desire is not for us to offer Him something in order to earn His favor, but rather for us to offer ourselves — our hearts, our love, and our obedience. It is about the quality of our heart, not the quantity of our offerings.
+
+---
+
+### God desires your heart before your resources, because everything you own already belongs to Him.
+
+This is perhaps one of the most important truths to understand about giving. God does not need our money. He is the Creator of all things, and everything in the world already belongs to Him (*Psalm 24:1*). The earth is His, and the fullness thereof — our possessions, our wealth, our lives — all belong to Him. When we give, we are not giving God something He lacks; we are acknowledging that everything we have comes from Him and belongs to Him.
+
+The question is not whether God needs our resources, but whether we are willing to surrender them to Him. The act of giving demonstrates our recognition of God’s ownership over our lives. It is an expression of trust, gratitude, and obedience.
+
+The story of the rich young ruler in *Matthew 19:16-24* illustrates this point. Jesus told him to sell everything and give to the poor, not because Jesus needed his wealth, but to test the condition of his heart. The young ruler’s heart was bound by his possessions, and he went away sorrowful because he was not willing to surrender his wealth to God. This story serves as a cautionary tale: God is more interested in our willingness to surrender our hearts, not just our possessions.
+
+Giving is not about fulfilling a religious obligation; it is about surrendering our hearts to God. When we give, we are symbolizing that we have no attachment to this world’s goods and are willing to trust God with everything, including our resources. It is a declaration that **God is our ultimate treasure**, not the things He gives us.
+
+---
+
+### Conclusion
+
+By reorienting our perspective on giving, we can move from a transactional mindset to a relational one, where our giving becomes an overflow of our love and devotion to God. Giving is not about earning blessings or manipulating God for personal gain; it is about worshiping God with our hearts and acknowledging that He is the source of all good things. As we give from the right motives, we align our hearts with God’s purposes and reflect His generosity to the world around us.
+
+
+---
+
+## **Giving as Worship, Not Transaction**
+
+True giving flows from love and reverence for God — it is an act of worship, not a bargaining tool. We give because we love Him, not because we expect something in return.
+
+> “Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.”  
+> — *2 Corinthians 9:7 (ESV)*
+
+When giving becomes transactional, our motives are corrupted by deception. Worship is not about what we can get from God; it’s about who God is.  
+Jesus made this clear when He offered Himself on the cross — salvation became free of charge (*Ephesians 2:8–9*).  
+We cannot buy God’s favor or protection.
+
+---
+
+### **The Heart Behind True Worship**
+
+Worship is not about fulfilling a duty or obligation. It is an expression of our love and gratitude for God. In the Old Testament, God rejected offerings that came from a heart of mere ritualistic observance (see *Isaiah 1:11-15*). The Israelites were going through the motions, offering sacrifices, but their hearts were far from God. He did not desire their offerings; He wanted their hearts to be aligned with His will.
+
+Similarly, when we give, it must be from a place of love, reverence, and worship. God is not impressed with large sums or grand gestures if they come from a heart that does not truly honor Him. The apostle Paul encourages us to give cheerfully and freely, not under compulsion or pressure, as God desires the heart behind the gift more than the gift itself.
+
+---
+
+### **Worship and the Cross: A Model for Giving**
+
+Jesus' ultimate act of worship was offering Himself on the cross for our salvation. This sacrifice was not a transaction, nor was it done with the expectation of receiving something in return. Jesus gave His life out of love for humanity, not to gain favor or to manipulate God for a blessing. This is the true heart of worship.
+
+When we approach God, whether in giving or in other acts of worship, we are called to follow the example of Christ. Our giving should be an act of worship that stems from our love for God, not a means to secure His blessing or protection. Jesus demonstrated that salvation — the greatest gift we can receive — is freely given, and it cannot be bought or earned. We must also understand that no amount of giving can purchase God’s favor; His love and grace are freely given.
+
+---
+
+### **The Dangers of Transactional Giving**
+
+When giving becomes transactional, we fall into the trap of seeing our relationship with God as a business deal. We begin to view our gifts as investments, expecting a return on our generosity. However, the Bible warns us against such thinking. True worship comes from a heart surrendered to God’s will, not from a desire to manipulate or control what God does in return.
+
+*Luke 6:38* is often quoted in support of the idea that giving leads to receiving. While this verse does affirm the principle of sowing and reaping, it is not a guarantee that our giving will always result in material blessings. The heart of the verse is about trusting God’s provision and being generous, not in expecting a specific reward. As believers, we must give because of our love for God and not as a means of securing His favor.
+
+---
+
+### **Conclusion: Giving That Reflects God's Character**
+
+As we grow in our faith, our giving should reflect the nature of God’s generosity. God gave us His Son freely, without any expectation of return. He did not offer Christ to earn anything, but out of a heart of love and grace. In the same way, our giving should be motivated by love, not by selfish desire or the expectation of receiving blessings in return. Let us embrace the call to give as an act of worship — a pure offering from hearts that are wholly devoted to God.
+
+---
+
+## **God Desires Obedience and Holiness, Not Empty Offerings**
+
+Giving is holy, but it cannot replace holiness. God first desires obedience, righteousness, and a pure heart.
+
+> “For I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings.”  
+> — *Hosea 6:6 (ESV)*
+
+> “To obey is better than sacrifice, and to heed is better than the fat of rams.”  
+> — *1 Samuel 15:22 (NIV)*
+
+Before we give, we must ensure our hearts are right before God and before others.  
+Jesus said:
+
+> “If you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.”  
+> — *Matthew 5:23–24 (ESV)*
+
+God values reconciliation, forgiveness, and love more than offerings.
+
+---
+
+### **Obedience: The Heart of True Worship**
+
+The Bible is clear that God desires obedience more than sacrifices. This principle is echoed throughout Scripture, from the Old Testament prophets to the teachings of Jesus. In *Hosea 6:6*, God expresses His desire for steadfast love and knowledge of Him over ritualistic offerings. Similarly, in *1 Samuel 15:22*, Samuel reminds King Saul that obedience to God's commands is far more pleasing than sacrifice.
+
+Obedience is not a mere outward conformity to rules; it is an inner disposition of the heart that aligns with God's will. Sacrifices and offerings can be done for the wrong reasons, such as seeking recognition or fulfilling religious duty, but obedience flows from a heart that is truly surrendered to God. True worship is not about what we give, but about our willingness to obey God's commands and follow His leading.
+
+---
+
+### **Holiness: The Prerequisite for True Worship**
+
+While giving is important and a form of worship, it cannot replace the need for holiness. God’s standard is clear: He desires a heart that is holy and set apart for Him. This means that before offering anything to God, we must first examine our hearts and lives. Are we living in obedience to God? Are we pursuing righteousness? God is more interested in our character and spiritual condition than our external acts of worship.
+
+In *Matthew 5:23-24*, Jesus teaches that reconciliation with others takes precedence over our offerings. This highlights the importance of holiness in our relationships. Before we can truly offer our gifts to God, we must ensure that our hearts are pure and that we are living in peace with others. If we harbor unforgiveness or bitterness, our offerings are not acceptable to God.
+
+---
+
+### **Reconciliation: A Key to Genuine Worship**
+
+One of the most powerful lessons in *Matthew 5:23-24* is that God values reconciliation over ritual. If we bring our gifts to the altar but remember that someone has something against us, Jesus instructs us to leave our gift and go make things right with that person. This command speaks to the core of God’s heart — He desires harmony and peace among His people. Our relationships with others are deeply connected to our relationship with God. 
+
+True worship involves reconciliation and forgiveness. If we are unwilling to forgive or reconcile with others, our offerings become empty rituals. God’s heart is for unity and love, and our worship should reflect that. It is impossible to worship God in spirit and truth while holding onto unforgiveness or harboring discord in our relationships.
+
+---
+
+### **Empty Offerings: A Warning from Scripture**
+
+In *Isaiah 1:11-15*, God warns His people that their sacrifices and offerings mean nothing to Him if they are offered with the wrong heart. He does not delight in burnt offerings when His people are living in sin and disobedience. In the same way, we must guard against offering empty worship. Giving, whether it’s tithes, offerings, or service, is not a substitute for a heart that seeks God’s will.
+
+God is not impressed with external acts of worship if they are not accompanied by a life of obedience and holiness. Our giving must be a reflection of our relationship with God. It should be the fruit of a heart that is surrendered to His will, not a mere attempt to fulfill religious obligations. 
+
+---
+
+### **Conclusion: Giving That Reflects a Heart of Obedience and Holiness**
+
+God desires our obedience and holiness before He desires our offerings. Before we bring our gifts, we must ensure that our hearts are right with God and with others. True worship is not about rituals or external acts; it is about surrendering our will to God’s and living in obedience to Him. Only when our hearts are pure and our relationships are reconciled can our offerings be acceptable to God.
+
+As we examine our lives and our motivations for giving, let us remember that God values the condition of our hearts more than the size of our gifts. Let us offer our gifts to Him with hearts that are obedient, holy, and reconciled to one another. When we do this, our giving becomes a true act of worship — one that delights the heart of God.
+
+
+---
+
+## **The Lesson from Cain and Abel**
+
+In *Genesis 4:3–7*, we learn that God accepted Abel and his offering but rejected Cain and his. The issue wasn’t the type of offering — it was the **heart** of the giver.  
+God told Cain:
+
+> “If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door.”  
+> — *Genesis 4:7 (NIV)*
+
+This means God first accepts **the person** before He accepts **their gift**.  
+Your offering cannot make you acceptable before God; only righteousness and obedience through faith in Christ can.
+
+---
+
+### **The Heart Behind the Offering**
+
+The story of Cain and Abel is often seen as one about offerings, but its deeper lesson is about the heart behind those offerings. Abel's offering was accepted by God because it was made in faith, and it was offered with a pure heart. He gave the best of what he had — the firstborn of his flock — and it reflected a heart of reverence and gratitude towards God. Abel's offering was a manifestation of his relationship with God, and it was aligned with God’s will.
+
+On the other hand, Cain’s offering was rejected not because of its quality but because of his heart. The Bible does not specify exactly what was wrong with Cain's offering, but it does indicate that Cain's attitude was not right. Cain gave what he wanted to give, without faith or obedience. His offering did not stem from a heart of worship, but rather from obligation or a lack of understanding of God’s will.
+
+This story teaches us that God is more concerned with the posture of our hearts than with the value of what we give. We cannot manipulate God through our gifts, nor can we buy His favor. True worship and giving come from a heart that is obedient, humble, and surrendered to God.
+
+---
+
+### **Righteousness Before Offering**
+
+God’s response to Cain is crucial: He tells Cain that if he does what is right, he will be accepted. This statement reveals that our righteousness, our standing with God, is not determined by the size of our offerings or the outward acts we perform, but by our obedience to God’s commands. Abel's offering was accepted because it flowed from a righteous heart, one that had faith in God and obeyed His will.
+
+Cain’s rejection was not because of his offering alone but because of his unrighteous heart. When we offer something to God, it must be an extension of our righteousness, which comes only through faith and obedience to Christ. As *Romans 5:1* says, "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ." It is only through Christ’s righteousness that we can stand accepted before God, and that righteousness must be reflected in the heart behind our offering.
+
+---
+
+### **Sin’s Crouching Presence**
+
+God warns Cain that if he does not do what is right, sin is crouching at his door. This serves as a reminder that our hearts, when not aligned with God’s will, are susceptible to sin. Just as sin was waiting to overtake Cain, so it can take root in our hearts if we allow it. The danger of offering gifts with the wrong heart is that it can lead us into pride, self-righteousness, or even despair when our expectations are not met.
+
+Our offerings should be an extension of a heart that desires to do what is right before God, not a way of earning God’s favor or attempting to control Him. If we are not careful, giving can become an act of pride or manipulation rather than worship. Sin is crouching, ready to distort our motives and lead us astray.
+
+---
+
+### **Only Righteousness and Obedience**
+
+This story makes clear that it is not our offerings that make us acceptable to God, but rather our righteousness and obedience. Abel's faith and obedience made his offering pleasing to God. Cain, however, was not accepted because he lacked these qualities. We cannot come to God on our own terms, expecting our gifts or actions to earn His favor. It is only through the righteousness of Christ that we can be accepted, and that righteousness must be reflected in the way we live and the way we give.
+
+In the same way, when we offer our gifts to God, whether in the form of money, service, or praise, we must first examine our hearts. Are we giving with a heart that seeks to honor God, or are we offering gifts to receive something in return? True worship is not about what we give but about the condition of our hearts and our obedience to God’s will.
+
+---
+
+### **Conclusion: A Heart of Obedience and Faith**
+
+The lesson from Cain and Abel challenges us to examine our hearts before we offer anything to God. It’s not enough to bring our gifts; we must bring them with the right heart — a heart that is aligned with God’s will, full of faith and obedience. Our giving should reflect our relationship with God, not our desire to manipulate Him or earn His favor.
+
+As we give, let us remember that God accepts us first and foremost through Christ’s righteousness, not through our works. Our gifts should be expressions of our love for God, motivated by obedience and faith. May our hearts be pure, and our offerings be an outpouring of worship to the One who is worthy of all praise.
+
+---
+
+## **Tithing: Before the Law of Moses**
+
+Tithing did not begin with the Law of Moses; it existed long before.  
+Abraham, the father of faith, gave a tenth of everything he had to Melchizedek, the priest of the Most High God (*Genesis 14:18–20*).  
+This was not a legal obligation — it was a voluntary act of worship and honor toward God.
+
+> “Then Abram gave him a tenth of everything.”  
+> — *Genesis 14:20 (NIV)*
+
+Abraham's act of giving a tenth of everything he possessed demonstrates a heart of gratitude and reverence toward God. The passage shows that tithing was not about fulfilling a command, but rather an act of worship that expressed Abraham’s acknowledgment of God’s sovereignty and blessings. It was a freewill offering, not dictated by the law but motivated by a deep, personal relationship with God.
+
+Jacob also vowed to give a tenth of his possessions as a sign of his commitment to God (*Genesis 28:20–22*). Jacob’s pledge to give a tithe was a response to God’s promises and a demonstration of his trust in God's provision. His vow was not out of obligation, but a desire to honor the One who had revealed Himself to him and made a covenant with him. Jacob’s tithe was an expression of his faith and dedication to God, acknowledging that everything he had came from the Lord.
+
+---
+
+### **Tithing as a Principle of Love, Gratitude, and Stewardship**
+
+These examples of Abraham and Jacob show that tithing is not merely about following a command or law; it’s a principle that reflects a deep, loving relationship with God. Tithing, in this sense, becomes a way of acknowledging God's provision and sovereignty, not a legalistic requirement. The principle of tithing existed long before the Mosaic Law, and it was always tied to a heart of worship, gratitude, and recognition that everything we have belongs to God.
+
+When we give, we are not only acknowledging God as the Creator and Sustainer of all things, but we are also recognizing that our wealth, possessions, and resources are entrusted to us by Him. This perspective transforms the act of giving into an act of stewardship, where we manage our resources in alignment with God's will and purposes.
+
+As seen in the examples of Abraham and Jacob, the tithe was a voluntary, heartfelt expression of faith and trust in God's provision. It was not about meeting a requirement or gaining favor, but about responding to God's goodness and recognizing His ultimate ownership over everything we have.
+
+---
+
+### **Tithing in the New Covenant: A Heart of Love and Faith**
+
+Under the New Covenant, our understanding of tithing shifts from a commandment to a principle rooted in love, faith, and grace. In the Old Testament, tithing was part of the law, but in the New Testament, the focus is no longer on the law but on the heart. Jesus emphasized that the condition of the heart is what truly matters to God, not merely external acts of obedience (*Matthew 23:23–24*). 
+
+In the New Covenant, the motivation behind our giving becomes paramount. As believers, we are not under the obligation of the law to give a specific percentage, but we are called to give generously and cheerfully from the heart. Paul writes in *2 Corinthians 9:7*:
+
+> “Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.”  
+> — *2 Corinthians 9:7 (ESV)*
+
+Giving in the New Covenant is no longer about meeting a requirement; it is about responding to God’s grace, recognizing that everything we have belongs to Him, and giving back in worship. Our offerings should be motivated by a heart of gratitude, trust, and love. 
+
+The act of tithing, like all giving, should reflect a spirit of generosity, where we cheerfully give what God has entrusted to us, knowing that it is an act of worship and a declaration of our trust in Him. 
+
+---
+
+### **Conclusion: Tithing as a Heartfelt Response**
+
+Tithing is not just an Old Testament law, but a timeless principle that transcends the law and speaks to the heart of worship, love, and gratitude. It is a way of honoring God with the resources He has provided, recognizing His sovereignty, and acknowledging that everything we have belongs to Him. 
+
+While the specifics of tithing may differ between the Old and New Covenants, the heart behind giving remains the same: to give in love, out of a spirit of thankfulness, and with a recognition that God is the ultimate source of all blessings. May our giving reflect a heart of faith, trust, and worship, as we honor God with the resources He has entrusted to us.
+
+
+---
+
+## **The True Purpose of Tithing**
+
+The tithe serves to sustain the work of God — to ensure His house is not lacking (*Malachi 3:10*).  
+But God’s desire is not the money itself; it is your **faithfulness** and **love**.
+
+> “Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,” says the Lord Almighty, “and see if I will not throw open the floodgates of heaven.”  
+> — *Malachi 3:10 (NIV)*
+
+Tithing is often seen as a way to “buy” blessings or favor from God. Unfortunately, this misunderstanding leads to transactional giving, where people give with the expectation of a material return or special treatment from God. However, this passage does not promote a "spiritual investment" mentality but rather underscores the importance of trusting God’s provision and demonstrating faithfulness.
+
+### **Trusting in God’s Provision**
+
+The true purpose of tithing is to demonstrate **trust** in God’s provision. When we tithe, we acknowledge that everything we have ultimately comes from God and that He is faithful to provide for us. Tithing is an act of worship, where we surrender a portion of our resources back to God, trusting that He will continue to meet our needs and supply for His work on earth. 
+
+In this passage, God invites His people to test Him in this area. It is not a challenge to "buy" blessings, but rather an invitation to experience His faithfulness and provision in tangible ways. God is inviting us to trust Him fully — to demonstrate that we rely on Him, not on our own efforts or resources.
+
+### **Tithing as a Channel of Worship**
+
+When our hearts are aligned with God, our giving becomes a **channel of worship**. It reflects our trust in His provision and our love for His work. Giving is not about the amount; it’s about the attitude of the heart. God desires cheerful, willing hearts that give in response to His goodness, not as a means of securing blessings or gaining favors.
+
+As we give with a heart of worship, God delights in our obedience. The focus is not on receiving material rewards or financial returns, but on glorifying God through our obedience. Jesus Himself taught that it is more blessed to give than to receive (*Acts 20:35*), and this principle extends to tithing as well.
+
+### **God Blesses Those Who Walk in Obedience and Integrity**
+
+When we tithe with the right heart, it opens the door for God's blessings in our lives. These blessings may not always come in material form, but they will manifest in ways that reflect God’s faithfulness, peace, and provision. Tithing is not a "get rich" scheme, but rather a spiritual act that aligns us with God's will and invites His blessings in our lives.
+
+God delights in those who walk in obedience and integrity. Our giving should reflect a heart of obedience to God’s commands, where we trust that He is faithful to bless those who honor Him with their resources. Our giving becomes a reflection of our commitment to Him and our desire to see His work advance on earth.
+
+---
+
+### **Conclusion: Faithfulness Over Transactional Mindset**
+
+Tithing is not about buying blessings or manipulating God to act on our behalf. The true purpose of tithing is to demonstrate faithfulness and trust in God’s provision, to support His work on earth, and to worship Him with a generous heart. When our hearts are right, our giving becomes an act of worship, and God delights in blessing those who walk in obedience and integrity.
+
+As we give, let us do so with the understanding that everything we have comes from God. Tithing is an opportunity to express our love and faith in Him, and to support His kingdom work here on earth. May our giving be a true reflection of our hearts, full of gratitude, worship, and trust in God’s abundant provision.
+
+
+---
+
+## **Giving Without Understanding Leads to Deception**
+
+The Bible warns:
+
+> “My people are destroyed for lack of knowledge.”  
+> — *Hosea 4:6 (KJV)*
+
+This verse highlights a critical issue that many Christians face today: a lack of understanding about the true nature of giving. It’s easy to fall into a routine of giving, whether through tithes, offerings, or other forms of financial support for the church or ministries. However, without a deep understanding of the purpose of giving, it becomes a meaningless act. Many Christians give diligently but do so without fully grasping the heart behind the act.
+
+### **The Danger of Wrong Motives**
+
+Giving with the wrong motives can lead us away from the very purpose God intends for our generosity. Some people give because they seek **protection**, **prosperity**, or **recognition**. They may see giving as a form of spiritual transaction, hoping for blessings, financial gain, or protection in return. This mindset distorts the essence of giving. True giving should be rooted in a desire to honor God and support His work, not a means to manipulate God for personal gain.
+
+Jesus addressed this issue directly, emphasizing that what matters most to God is the condition of the heart, not the external act. In *Matthew 15:8*, He said:
+
+> “This people honors me with their lips, but their heart is far from me.”  
+> — *Matthew 15:8 (ESV)*
+
+Here, Jesus condemns mere outward actions that do not come from a genuine heart of worship. Offering tithes, prayers, or services without true love for God is futile. God is more concerned with our heart’s attitude than the outward appearance of our giving.
+
+### **The Heart Behind the Giving**
+
+As we give, we must ask ourselves: Why are we giving? Is it because we love God and desire to see His kingdom advance, or are we seeking something in return? The Bible teaches that our giving must flow from a heart of **love**, **obedience**, and **worship**, not from the desire for reward or recognition.
+
+In *Mark 12:41–44*, Jesus praised the widow who gave only two small coins — a fraction of what others had given. What set her gift apart wasn’t the amount, but the heart behind it. Jesus pointed out that while others gave out of their abundance, she gave out of her poverty, demonstrating her total trust in God and her willingness to offer everything she had.
+
+> “Truly, I tell you, this poor widow has put in more than all those who are contributing to the offering box.”  
+> — *Mark 12:43 (ESV)*
+
+Her gift was an expression of **faith**, **trust**, and **surrender** to God, which pleased Him far more than any large sum given for selfish reasons.
+
+### **Walking in Love, Forgiveness, and Holiness**
+
+Our giving becomes empty if we are not walking in **love**, **forgiveness**, and **holiness**. These qualities are the essence of a heart that is fully surrendered to God. It’s easy to give in order to check off a spiritual box, but without love and integrity, our giving lacks substance.
+
+Paul, in *1 Corinthians 13:3*, states:
+
+> "If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing."  
+> — *1 Corinthians 13:3 (NIV)*
+
+Giving without love is pointless. It’s a hollow act that does not bring glory to God or help others in meaningful ways. The key is to let our giving be an expression of love for God and for others. Love should be the foundation of every offering.
+
+### **Understanding Brings True Giving**
+
+When we give with understanding — knowing that God desires a sincere, humble heart — our giving becomes a powerful act of worship. Our generosity should be motivated by a desire to honor God, not to manipulate Him or receive earthly rewards. Understanding the heart of giving leads to a life of true worship and spiritual growth. It moves us away from transactional giving and into relational giving, where we offer ourselves fully to God in every area of our lives.
+
+In summary, true giving is not about the amount or the outward act but the heart behind it. God sees our motives and desires a heart that is full of love, obedience, and faith. When we give with the right understanding, we align ourselves with God’s purposes, and our offerings become a beautiful expression of worship.
+
+
+---
+
+## **Beware of Deception and Greed**
+
+We live in a time when many so-called “men of God” have turned the gospel into a means of personal gain.  
+The Apostle Paul warned us about such people in *1 Timothy 6:5*, saying they are "destitute of the truth, who suppose that godliness is a means of gain." In this age, there are those who, driven by greed, have distorted the message of the gospel to enrich themselves at the expense of the faith.
+
+### **The Corruption of Greed**
+
+Many of these individuals may have started with sincere intentions, but over time, they were consumed by **greed** and **the pride of life** (*1 John 2:16*). Their desire for wealth, power, and recognition led them to twist Scripture for their personal benefit. They promise blessings, healing, and prosperity in exchange for money, as if the blessings of God can be bought or earned through financial transactions.
+
+### **The Danger of Exploiting God’s People**
+
+These false teachers often use manipulative tactics to exploit God's people, preying on their desire for security, success, or divine favor. They make extravagant promises, telling congregants that if they give a certain amount of money, they will receive specific blessings, whether financial or otherwise. This distorts the true nature of Christian giving, turning it into a business transaction rather than an act of worship and obedience.
+
+But the truth remains that **God cannot be bribed**. He is not swayed by the amount of money we offer, nor does He give blessings based on our financial contributions. The true blessings of God come freely through **Jesus Christ** — not through manipulation or purchase. 
+
+### **The Futility of Trying to Buy God’s Blessing**
+
+The Bible speaks clearly about the futility of trying to buy God’s blessings with money. In *Acts 8:20*, when Simon the Sorcerer tried to offer money in exchange for the power of the Holy Spirit, Peter responded sharply:
+
+> “Your money perish with you, because you thought that the gift of God could be purchased with money!”  
+> — *Acts 8:20 (NKJV)*
+
+Simon, like many today, mistakenly believed that the gifts of God could be bought. This is a critical warning for all believers: the grace, power, and blessings of God are not commodities that can be purchased. They are freely given, not as a reward for our wealth or possessions, but as a gift of grace through Jesus Christ. 
+
+### **The True Blessing of God**
+
+True blessings come from God’s generosity, not our own. When we understand this, we are freed from the deception that our financial giving can somehow manipulate God’s favor. Our giving is an act of **obedience**, **worship**, and **trust** in God’s provision, not a means of bargaining with Him. We must reject any teaching that promises spiritual rewards in exchange for money and return to the truth that God’s blessings are not for sale — they are freely given to those who seek Him with a sincere heart.
+
+### **Guarding Against Greed in Our Own Lives**
+
+While we must be cautious of those who exploit God’s people for financial gain, we must also examine our own hearts. **Greed** is not limited to those who preach false messages; it can take root in any of us if we are not vigilant. We must guard against the temptation to use God for personal gain or to view spiritual matters through a transactional lens.
+
+Instead, our giving should always come from a heart of love and devotion to God, seeking to honor Him and support His work, not expecting anything in return. When we give from the right heart, we are aligning ourselves with God’s purposes and reflecting His generous nature to the world.
+
+### **Conclusion**
+
+In a world where greed and deception run rampant, it’s essential to stay grounded in the truth of God’s Word. Let us not fall prey to the lies of those who promise blessings in exchange for money. Instead, let our hearts be focused on honoring God with our resources, trusting that His blessings come freely through Jesus Christ and are not for sale. True wealth lies in a relationship with Him, not in the accumulation of material possessions.
+
+---
+
+## **Give Out of Love and Relationship**
+
+Before you give your tithe or offering, ensure you have a **living relationship with God** through Christ Jesus.  
+Cultivate intimacy with Him in prayer, obedience, and love. When your relationship with God is rooted in love and trust, your giving becomes a natural expression of worship — not an attempt to manipulate or earn favor.
+
+> “Honor the Lord with your wealth, with the firstfruits of all your produce.”  
+> — *Proverbs 3:9 (ESV)*
+
+### **The Foundation of True Giving: A Relationship with God**
+
+Giving is not a mere religious ritual or a duty to fulfill; it should come from a heart that is deeply connected with God. When you give because of your love for Him, your offering becomes a reflection of the relationship you share. True giving is a way to honor God for who He is and all that He has done for you, rather than a transaction meant to earn something in return. 
+
+### **The Heart Behind Your Giving**
+
+God is more concerned with the heart behind your giving than the amount you give. A small offering given from a heart full of love and gratitude is far more precious in God’s sight than a large gift given with the wrong motives. When you give out of a sincere love for God and His people, your gift becomes an act of worship that pleases Him. This is why intimacy with God is so crucial. 
+
+### **Giving as Worship**
+
+As you cultivate your relationship with God, your giving becomes a natural overflow of that connection. When your heart is aligned with God’s will, your giving no longer feels burdensome or transactional; it is an act of **worship**. Your offering is an expression of reverence and devotion to the One who has provided for you in every way.
+
+### **Reflecting God's Love Through Giving**
+
+When you give from a sincere heart, your giving not only pleases God but also serves as a testimony of His love to others. Your generosity can inspire others to seek God and can meet the needs of those around you. As Christians, our giving should be a reflection of the love and grace God has shown us, and in doing so, we mirror His character to the world.
+
+### **Conclusion**
+
+True giving flows from a heart that knows and loves God. It comes from a place of intimacy, prayer, and obedience. When we give out of love and relationship with God, our offerings become acts of worship that honor Him. Let your giving be an overflow of your love for God, a natural response to His goodness and provision in your life.
+
+
+---
+
+## **Conclusion**
+
+Tithing is not about buying blessings; it’s about **honoring God from a heart surrendered to Him**.  
+God does not need your money — He desires your heart. Our offerings should not be driven by a desire for personal gain or a sense of obligation, but by a deep love and trust in God. When we give from the heart, it becomes an act of worship, reflecting our reverence for His sovereignty and goodness.
+
+Give because you love Him. Give because you trust Him with your life, your resources, and your future. Your giving is not a transaction but a declaration of your relationship with the Creator of all things. Let your offerings flow naturally from a heart that has been transformed by His grace.
+
+And remember: **you must be acceptable to God before your offering can be acceptable to Him**. A heart that is pure and surrendered to Him is what God desires. When our hearts are aligned with God’s will, our offerings are meaningful and pleasing to Him.
+
+> “Create in me a clean heart, O God, and renew a right spirit within me.”  
+> — *Psalm 51:10 (ESV)*
+
