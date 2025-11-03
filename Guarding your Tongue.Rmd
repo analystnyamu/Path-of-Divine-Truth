@@ -1,0 +1,79 @@
+---
+title: 'The Power of Words: Guarding Your Tongue'
+author: "Martin N. Wanjiru"
+date: "2025-11-03"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+The enemy does not need a gun to attack you. Life is spiritual, not physical. Everything you see manifest in the physical realm first took place in the spirit. The Bible teaches us that our words carry immense power, and it is through our words that the enemy often gains access to our lives. Just as the law states, "anything you say can and will be used against you in a court of law," the enemy listens carefully to everything we speak—whether in jest, frustration, or anger. He uses those words to bring destruction.
+
+## The Spiritual Power of Words
+
+In **Proverbs 18:21**, the Bible reminds us:  
+*"The tongue has the power of life and death, and those who love it will eat its fruit."*  
+This powerful scripture teaches us that words are not just mere expressions; they are spiritual forces that can either bless or curse us. Many Christians unknowingly live in suffering due to the words they speak to themselves or others. Our words open doors to either blessings or curses.
+
+As true followers of Christ, we have been given authority and power over all the works of the enemy, and the devil knows this. However, he cannot harm us unless we give him permission through the words we speak. The enemy listens intently to every word that leaves our mouths, whether spoken in jest, frustration, or anger, and uses them as legal grounds to attack.
+
+### Words Open Doors to Spiritual Attacks
+
+Consider this: when a Christian curses themselves by saying, *"I hate this house,"* *"I wish I would just die,"* *"I don't see this working,"* or *"I can't make it,"* they are unknowingly giving the enemy permission to work against them. These words open spiritual doors for attacks. Words are keys in the spiritual realm that unlock blessings or curses, and the enemy uses them to gain access to our lives.
+
+The Bible clearly warns us about the consequences of careless words. In **Matthew 12:36-37**, Jesus says:  
+*"But I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken. For by your words you will be acquitted, and by your words you will be condemned."*  
+This scripture makes it clear that we must be careful with what we say, for our words have the power to create or destroy.
+
+## Casual Remarks and Complaints: Opening Doors for Destruction
+
+It is essential to understand that even casual remarks or complaints can set the stage for spiritual destruction. When Christians speak negatively about their marriage, business, or life, the enemy uses those words to wreak havoc. For example:  
+- Saying, *“This business is draining me; I wish I could just walk away”* invites the enemy to destroy that business.  
+- Complaining, *“I’m tired of this marriage”* opens the door for the enemy to bring division and destruction.
+
+The devil works quickly to accomplish the curses we speak, using them as legal ground to attack the areas of our lives we speak negatively about.
+
+### The Enemy and Negative Words
+
+Some may wonder why negative words seem to manifest quickly, while positive words do not. The enemy understands the destructive power of negative speech. When we speak against God's will, the enemy takes advantage of it and uses those words to bring about destruction. On the other hand, positive declarations are aligned with God's will but are often subject to God's perfect timing and purpose. As **Romans 8:28** says:  
+*"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."*  
+God's plan unfolds at the right time, and His word will never return void.
+
+## Words as Spiritual Weapons
+
+In the spiritual realm, words are more powerful than physical weapons. In **Ezekiel 37:4-5**, the prophet Ezekiel used the power of God's word to bring dry bones back to life:  
+*"He said to me, ‘Prophesy to these bones and say to them, ‘Dry bones, hear the word of the Lord!’”*  
+Jesus also taught us the significance of our words. **Matthew 12:34** states:  
+*"Out of the abundance of the heart the mouth speaks."*  
+Our words reflect the condition of our hearts, and we must be vigilant with what we speak.
+
+### Guarding Your Words
+
+In **James 3:5-6**, we are warned that the tongue, though small, can set the course of our lives on fire:  
+*"The tongue also is a fire, a world of evil among the parts of the body. It corrupts the whole body, sets the whole course of one’s life on fire, and is itself set on fire by hell."*  
+This scripture highlights the tremendous power that words hold. Our tongue, though small, has the ability to influence the entire course of our lives.
+
+## Speaking Life, Not Curses
+
+In our relationships, we must never speak curses over others, even when it seems justified. For instance, if a child or loved one is struggling, we should avoid saying, *“I don’t see them going anywhere”* or *“They’ll never make it.”* These are curses that can hinder their progress. Instead, we should speak life and blessings over them, as **Numbers 6:24-26** instructs:  
+*"The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace."*  
+As Christians, we should bless and not curse, even when those we consider enemies suffer. We should pray for their well-being and help them when needed, following the teachings of **Matthew 5:44**, where Jesus says:  
+*"But I tell you, love your enemies and pray for those who persecute you."*
+
+## The Enemy's Advantage
+
+The enemy does not need your permission to attack, but he takes advantage of our ignorance. When we speak foolishly in frustration, anger, or even in jest, we unknowingly open doors for him to enter our lives. Every time you pray, remember to break any curses that you may have spoken over yourself or others. Repent for any words that have opened the door to the enemy, and ask for God’s guidance through the Holy Spirit to help you control every part of your body—including your tongue, ears, and eyes—so that your words align with His will.
+
+In **Psalm 141:3**, the psalmist prays:  
+*"Set a guard over my mouth, Lord; keep watch over the door of my lips."*  
+We must diligently guard our words, for they are seeds of either blessing or destruction. Let us choose life and speak words of faith, hope, and love, trusting that God will guide us in all things.
+
+## Conclusion
+
+Words are not just fleeting expressions; they are powerful forces in the spiritual realm. They can either build us up or tear us down. As followers of Christ, we must be conscious of the words we speak and the impact they have on our lives and those around us. The enemy is always listening, waiting for an opportunity to use our words against us. Let us choose our words carefully, speak life, and use our words to glorify God, knowing that in doing so, we align ourselves with His will and protect ourselves from the enemy's attacks.
