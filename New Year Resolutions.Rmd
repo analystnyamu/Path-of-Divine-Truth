@@ -1,0 +1,352 @@
+---
+title: "Untitled"
+author: "Martin N. Wanjiru"
+date: "2026-01-06"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# New Year Resolutions: Aligning Our Lives With God’s Will
+
+## Introduction
+
+As a new year begins, many people reflect on the past and make decisions about the future. These decisions, commonly known as **New Year resolutions**, are meant to bring personal growth, improvement, direction, renewed purpose, and positive change. For believers, however, resolutions must reach beyond surface-level self-improvement. Our goals should be shaped by **God’s will**, guided by the **Holy Spirit**, and firmly rooted in **Scripture**. When God becomes the center of our plans, our resolutions are no longer about self-achievement but about spiritual alignment and faithful obedience.
+
+> **“Commit your works to the LORD, and your plans will be established.”**  
+> — *Proverbs 16:3*
+
+---
+
+## What Are New Year Resolutions?
+
+New Year resolutions are **intentional commitments** to adjust our behavior, attitudes, or priorities in pursuit of growth and improvement. While the term itself is modern, the principle of **purposeful and intentional living** is deeply biblical. Scripture consistently shows men and women who **deliberately set their hearts** to walk in obedience to God.
+
+> **“Daniel purposed in his heart that he would not defile himself.”**  
+> — *Daniel 1:8*
+
+Daniel’s resolve reminds us that godly resolutions **begin in the heart and are sustained by conviction, not convenience**. His decision was made before temptation arose, showing that true obedience is intentional and proactive. This illustrates a powerful principle: when a young man or woman sets godly resolutions and establishes clear, Scripture-based principles for their life—while earnestly seeking God’s guidance—temptation has far less power. The enemy cannot easily sway someone who has committed their heart to God, because sin originates from our own unchecked desires, not from external pressure alone. By anchoring our resolutions in God’s will, we equip ourselves to resist temptation and pursue righteousness with greater strength and clarity.
+
+However, Daniel was not alone. Throughout Scripture, we see others who made firm, faith-filled resolutions:
+
+- **Joshua** declared a decisive commitment for his household:  
+  > *“As for me and my house, we will serve the LORD.”* — **Joshua 24:15**
+
+- **David** resolved to walk in integrity, even in private:  
+  > *“I will walk within my house with a perfect heart.”* — **Psalm 101:2**
+
+- **Job** made a covenant to guard his purity:  
+  > *“I have made a covenant with my eyes.”* — **Job 31:1**
+
+- **Ezra** intentionally prepared his heart to know and obey God’s Word:  
+  > *“Ezra had prepared his heart to seek the Law of the LORD, and to do it, and to teach it.”* — **Ezra 7:10**
+
+These examples reveal a powerful biblical truth: **God works through people who purpose in their hearts to obey Him**. Their decisions were not driven by pressure, comparison, or fleeting emotion, but by a sincere **desire to honor God**, walk in obedience, and grow in righteousness.
+
+A truly godly resolution, therefore, is not merely about self-improvement—it is about **heart alignment with God’s will** and a conscious decision to live intentionally before Him.
+
+
+---
+
+## Are New Year Resolutions Biblical?
+
+Yes—**when they are submitted to God**. The Bible consistently affirms the value of planning, discipline, and intentional living. God is not opposed to planning; rather, He calls His people to live with **wisdom, foresight, and purpose**.
+
+> **“The plans of the diligent lead surely to abundance.”**  
+> — *Proverbs 21:5*
+
+Jesus Himself affirmed the principle of intentional planning when He taught:
+
+> **“Which of you, intending to build a tower, does not sit down first and count the cost?”**  
+> — *Luke 14:28*
+
+These Scriptures reveal that thoughtful planning is an expression of wisdom, not unbelief. However, the Bible also draws a clear boundary: **planning must never replace dependence on God**.
+
+> **“The heart of man plans his way, but the LORD establishes his steps.”**  
+> — *Proverbs 16:9*
+
+> **“You ought to say, ‘If the Lord wills, we shall live and do this or that.’”**  
+> — *James 4:15*
+
+Biblical resolutions, therefore, are not declarations of self-sufficiency but acts of **humble surrender**. They acknowledge human responsibility while fully trusting God for direction, strength, and outcome.
+
+In essence, New Year resolutions become biblical when they are:
+- Rooted in God’s Word  
+- Guided by prayer  
+- Submitted to God’s will  
+- Dependent on God’s grace  
+
+> **“Commit your works to the LORD, and your plans will be established.”**  
+> — *Proverbs 16:3*
+
+---
+
+## Worldly Resolutions vs Godly Resolutions
+
+Many resolutions fail because they are **self-centered rather than God-centered**. Worldly resolutions focus primarily on outward change, personal success, or self-improvement, often driven by emotion, pressure, or comparison. Godly resolutions, however, flow from a heart surrendered to God and seek **inner transformation that honors Him**.
+
+| Worldly Resolutions | Godly Resolutions |
+|--------------------|------------------|
+| Focus on self-glory | Focus on God’s glory |
+| Driven by emotion or trends | Rooted in Scripture |
+| Based on motivation | Based on conviction |
+| Depend on human willpower | Depend on God’s grace |
+| Seek outward change | Produce inward transformation |
+| Short-lived and inconsistent | Enduring and Spirit-led |
+
+Scripture clearly warns against self-centered living:
+
+> **“For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.”**  
+> — *1 John 2:16*
+
+In contrast, God calls believers to live for His glory in every area of life:
+
+> **“Whether you eat or drink, or whatever you do, do all to the glory of God.”**  
+> — *1 Corinthians 10:31*
+
+Godly resolutions are not about impressing others or proving personal strength. They are about **yielding our lives to God’s transforming work** and allowing the Holy Spirit to shape our character according to Christ.
+
+> **“Be transformed by the renewing of your mind.”**  
+> — *Romans 12:2*
+
+---
+
+
+## Core Godly Resolutions for the New Year
+
+### 1. A Resolution to Seek God First
+
+The foundation of all godly resolutions is a **renewed commitment to place God at the center of our lives**. Seeking God first means giving Him priority not only in words, but in time, decisions, and daily devotion. When God is first, everything else finds its proper place.
+
+> **“Seek first the kingdom of God and His righteousness, and all these things shall be added to you.”**  
+> — *Matthew 6:33*
+
+Scripture consistently teaches that those who earnestly seek God will find Him and experience His guidance.
+
+> **“You will seek Me and find Me when you search for Me with all your heart.”**  
+> — *Jeremiah 29:13*
+
+> **“Draw near to God and He will draw near to you.”**  
+> — *James 4:8*
+
+Practically, this resolution is expressed through:
+
+- A **consistent prayer life**, cultivating daily communion with God  
+- **Regular study and meditation on God’s Word**, allowing it to shape our thoughts and actions  
+- **Fellowship with other believers**, encouraging spiritual growth and accountability  
+
+> **“But his delight is in the law of the LORD, and in His law he meditates day and night.”**  
+> — *Psalm 1:2*
+
+When believers resolve to seek God first, the new year becomes more than a calendar change—it becomes a **spiritual realignment** toward God’s will and purpose.
+
+---
+
+### 2. A Resolution to Walk in Holiness
+
+God calls His people to live **set apart** lives that reflect His character in a fallen world. Holiness is not about legalism or perfection, but about **loving obedience** and a sincere desire to please God in every area of life.
+
+> **“As He who called you is holy, you also be holy in all your conduct.”**  
+> — *1 Peter 1:15–16*
+
+Holiness begins in the heart and is expressed through daily choices that honor God.
+
+> **“Blessed are the pure in heart, for they shall see God.”**  
+> — *Matthew 5:8*
+
+> **“Present your bodies a living sacrifice, holy, acceptable to God.”**  
+> — *Romans 12:1*
+
+Walking in holiness involves:
+- **Guarding our thoughts**, refusing what defiles the mind  
+  > *“Whatever things are true… think on these things.”* — Philippians 4:8  
+- **Honoring God with our bodies**, recognizing that we belong to Him  
+  > *“Your body is the temple of the Holy Spirit.”* — 1 Corinthians 6:19  
+- **Choosing righteousness even when it is costly**, trusting God’s reward  
+  > *“Be faithful until death, and I will give you the crown of life.”* — Revelation 2:10  
+
+Holiness is sustained not by human effort alone, but by **daily dependence on God’s grace**.
+
+> **“For God did not call us to uncleanness, but in holiness.”**  
+> — *1 Thessalonians 4:7*
+
+---
+
+### 3. A Resolution to Walk in Love and Forgiveness
+
+Unforgiveness and bitterness hinder spiritual growth, damage relationships, and grieve the Holy Spirit. A new year presents a God-given opportunity to **release old wounds, let go of resentment, and walk in Christlike love**. Forgiveness is not optional for the believer—it is a reflection of the grace we ourselves have received.
+
+> **“Be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.”**  
+> — *Ephesians 4:32*
+
+Jesus clearly taught that our willingness to forgive others is deeply connected to our own spiritual health.
+
+> **“If you do not forgive men their trespasses, neither will your Father forgive your trespasses.”**  
+> — *Matthew 6:15*
+
+Love and forgiveness are marks of true Christian maturity.
+
+> **“Above all things have fervent love for one another, for love will cover a multitude of sins.”**  
+> — *1 Peter 4:8*
+
+Walking in love and forgiveness involves:
+- Choosing **mercy over revenge**  
+- Releasing bitterness and resentment to God  
+- Extending grace, even when it is undeserved  
+
+> **“Pursue peace with all people, and holiness, without which no one will see the Lord.”**  
+> — *Hebrews 12:14*
+
+When believers resolve to walk in love and forgiveness, they experience **spiritual freedom, inner healing, and restored relationships**, allowing God’s love to flow through them unhindered.
+
+---
+
+### 4. A Resolution to Live a Disciplined Life
+
+Spiritual growth does not happen by accident; it requires **discipline, consistency, and intentional effort**. Discipline is the bridge between spiritual desire and spiritual maturity. Through discipline, believers learn to submit their bodies, thoughts, and habits to the lordship of Christ.
+
+> **“I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.”**  
+> — *1 Corinthians 9:27*
+
+The Bible repeatedly emphasizes self-control as a mark of spiritual maturity.
+
+> **“For God has not given us a spirit of fear, but of power and of love and of a sound mind.”**  
+> — *2 Timothy 1:7*
+
+> **“Everyone who competes for the prize is temperate in all things.”**  
+> — *1 Corinthians 9:25*
+
+Living a disciplined life includes:
+- **Wise use of time**, recognizing that our days are limited  
+  > *“Redeeming the time, because the days are evil.”* — Ephesians 5:16  
+- **Controlling desires**, allowing the Spirit to lead rather than the flesh  
+  > *“Walk in the Spirit, and you shall not fulfill the lust of the flesh.”* — Galatians 5:16  
+- **Persevering in faith**, remaining steadfast through trials and challenges  
+  > *“Let us run with endurance the race that is set before us.”* — Hebrews 12:1  
+
+Discipline is not about harsh self-effort, but about **training the soul to obey God** through daily dependence on His grace.
+
+> **“But godliness is profitable for all things.”**  
+> — *1 Timothy 4:8*
+
+
+---
+
+### 5. A Resolution to Serve God and Others
+
+Every believer is called to be **useful in God’s kingdom**, not merely for personal growth, but to glorify God and bless others. Service flows naturally from a heart surrendered to God and is an essential expression of love in action.
+
+> **“Here am I! Send me.”**  
+> — *Isaiah 6:8*
+
+> **“For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.”**  
+> — *Ephesians 2:10*
+
+Service can take many forms, including:
+- **Ministry within the church**, using spiritual gifts to edify the body of Christ  
+- **Evangelism and discipleship**, sharing the Good News with those who do not yet know Christ  
+- **Acts of compassion and mercy**, helping the poor, widows, orphans, and the vulnerable  
+
+> **“Let each of you look not only to his own interests, but also to the interests of others.”**  
+> — *Philippians 2:4*
+
+> **“Do not withhold good from those to whom it is due, when it is in your power to do it.”**  
+> — *Proverbs 3:27*
+
+A godly resolution to serve is **active, intentional, and sacrificial**. It reflects Christ’s heart for others and aligns our daily actions with His kingdom purposes.
+
+> **“Whoever wants to become great among you must be your servant, and whoever wants to be first must be your slave—just as the Son of Man did not come to be served, but to serve.”**  
+> — *Matthew 20:26-28*
+
+---
+
+## Why Many Resolutions Fail
+
+Many well-intended resolutions fail to last because they are **made in the flesh rather than under the guidance of the Holy Spirit**. Without careful planning, prayer, and dependence on God, even the best intentions can fizzle out.
+
+Common reasons resolutions fail include:  
+
+- **They are not prayed over** — Resolutions made without seeking God’s guidance are often misaligned with His will.  
+- **They are made in the flesh** — Relying solely on human willpower leads to discouragement when challenges arise.  
+- **Too many goals are set at once** — Overloading oneself can lead to burnout and inconsistency.  
+- **There is no accountability** — Lack of mentors, friends, or a spiritual community makes it easy to drift back into old habits.
+
+> **“Not by might nor by power, but by My Spirit.”**  
+> — *Zechariah 4:6*
+
+> **“Apart from Me you can do nothing.”**  
+> — *John 15:5*
+
+The solution to lasting resolutions is **Spirit-led action**, not self-reliance. When resolutions are prayerfully considered, rooted in Scripture, and dependent on God’s strength, they become tools for **spiritual growth, transformation, and lasting change**.
+
+Practical steps to avoid failure:
+
+- Begin each resolution with **prayer**, asking God for guidance and strength.  
+- Focus on **one or two key goals** at a time.  
+- Seek **accountability partners** or mentors who can encourage you.  
+- Regularly **evaluate progress** and adjust with humility, relying on God’s grace.  
+
+
+---
+
+## How to Make Godly Resolutions That Last
+
+Making godly resolutions is not just about setting goals—it is about **partnering with God** in transformation. Here are key steps to ensure your resolutions endure:
+
+1. **Pray and Seek God’s Will**  
+   Begin by surrendering your plans to God in prayer. Ask Him to guide your priorities, reveal areas for growth, and empower you to obey. Resolutions rooted in prayer are aligned with His purposes.  
+   > *“If any of you lacks wisdom, let him ask of God, who gives generously to all without reproach.”* — James 1:5  
+
+2. **Align Your Resolutions with Scripture**  
+   Godly resolutions are shaped by His Word, not by trends, emotions, or peer pressure. Ensure your goals reflect biblical principles and glorify God in all you do.  
+   > *“Your word is a lamp to my feet and a light to my path.”* — Psalm 119:105  
+
+3. **Write Them Down Clearly**  
+   Writing your resolutions clarifies your vision, strengthens commitment, and helps you track progress. A written plan turns vague intentions into actionable steps.  
+   > *“Write the vision and make it plain on tablets, that he may run who reads it.”* — Habakkuk 2:2  
+
+4. **Start Small and Remain Consistent**  
+   Lasting change is built through **small, steady steps**, not overwhelming leaps. Focus on one or two key resolutions at a time, cultivating habits that endure.  
+   > *“Let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.”* — Galatians 6:9  
+
+5. **Depend on God’s Grace, Not Human Strength**  
+   Transformation is a work of God, not of self-will. Daily reliance on the Holy Spirit ensures that your resolutions are sustainable and spiritually fruitful.  
+   > *“I can do all things through Christ who strengthens me.”* — Philippians 4:13  
+
+> **“He who began a good work in you will carry it on to completion until the day of Christ Jesus.”**  
+> — *Philippians 1:6*
+
+By following these steps, your resolutions move from temporary goals to **lifelong spiritual growth**, enabling you to honor God consistently throughout the new year.
+
+---
+
+## A Word of Encouragement for the New Year
+
+A new year does not automatically bring change—**transformation begins in a surrendered heart**. God is not seeking perfection, but **faithful obedience and availability** to His will. When we commit ourselves fully to Him, He takes our small steps of faith and multiplies them into lasting impact.
+
+> **“Forget the former things; do not dwell on the past. See, I am doing a new thing; now it springs forth, do you not perceive it?”**  
+> — *Isaiah 43:18–19*
+
+This new year is an invitation to let go of regrets, forgive ourselves and others, and step boldly into the purposes God has prepared for us. May it be marked not only by new resolutions but by **a renewed intimacy with God, deeper faith, and Spirit-led growth**.
+
+---
+
+## Conclusion
+
+New Year resolutions become powerful when they are:
+- **Anchored in God’s Word**,  
+- **Guided by the Holy Spirit**, and  
+- **Pursued with humility, faith, and perseverance**.  
+
+True resolutions are more than goals—they are **acts of worship and obedience**, shaping our character, priorities, and relationships according to God’s plan. Let this year be a time to live intentionally, glorify God in all things, and align your steps with His eternal purpose.
+
+> **“Teach us to number our days, that we may gain a heart of wisdom.”**  
+> — *Psalm 90:12*
+
+As you enter 2026, may your heart remain steadfast, your faith unwavering, and your resolutions **Spirit-led, fruitful, and eternal in value**.
+
+**Happy New Year! May every plan you make honor God and fulfill His divine purposes in your life.**

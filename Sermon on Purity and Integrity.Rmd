@@ -1,0 +1,221 @@
+---
+title: "Sermon on Purity and Integrity"
+author: "Martin N. Wanjiru"
+date: "2025-12-13"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Living with Purity, Integrity, and Self-Discipline — When No One is Watching
+
+## A Timeless Sermon for Youths
+
+**Key Scripture:** *Proverbs 4:23*
+
+> “Above all else, guard your heart, for everything you do flows from it.”
+
+---
+
+## Introduction: Character Has No Off-Switch
+
+Purity, integrity, and self-discipline are not seasonal values. They are not outfits we put on for church and take off when we leave. They don’t pause at school, change at home, disappear on the road, or adjust depending on who is watching.
+
+In today’s world, it’s easy to live in compartments—one version of ourselves for parents, another for friends, another online, and another when we are completely alone. But God never designed us to live divided lives. Who you are should not depend on where you are or who you are with.
+
+Character has no off-switch. It is revealed most clearly when there are no rules, no supervision, and no consequences in sight. What you choose in private eventually shapes who you become in public.
+
+God calls us to a consistent life—one that looks the same in public and in private, with people and alone. This kind of life is not about being perfect; it is about being honest, surrendered, and growing. It is the life modeled by Jesus Christ and empowered by His Spirit, a life where our hearts, choices, and actions align with God’s will everywhere and every time.
+
+---
+
+## 1. What Do These Words Really Mean?
+
+### **Purity**
+Purity is choosing thoughts, actions, and boundaries that honor God with your **heart, mind, and body**. It is a daily commitment to keep your life clean inside and out, no matter the situation.
+
+> **“Blessed are the pure in heart, for they shall see God.” — Matthew 5:8**
+
+Purity is not only about sexual behavior; it also includes:
+
+- What you watch, read, and listen to  
+- What you imagine and daydream about  
+- How you speak to and about others  
+- How you treat people, even when no one is looking  
+
+Purity is **inner cleanliness** that guides **outer behavior** and helps you make choices that honor God.
+
+---
+
+### **Integrity**
+Integrity is being the same person everywhere—in school, at home, in church, online, and alone. It means your character does not bend depending on the situation or who is watching.
+
+> **“Whoever walks in integrity walks securely.” — Proverbs 10:9**
+
+Integrity answers the question:  
+> *“Would I still do this if no one ever found out?”*
+
+It is about being **honest, dependable, and consistent**. Your words, actions, and decisions line up with your faith and values no matter where you are.
+
+---
+
+### **Self-Discipline**
+Self-discipline is the ability to control yourself rather than being controlled by emotions, peer pressure, curiosity, or desire. It is practicing restraint and patience to choose what is right over what is easy or fun.
+
+> **“God has not given us a spirit of fear, but of power, love, and self-control.” — 2 Timothy 1:7**
+
+Self-discipline means:
+
+- Saying **no** when it’s hard  
+- Stopping before you cross a line  
+- Choosing what is right over what feels good  
+- Planning ahead to avoid situations that lead to temptation  
+
+Freedom without self-discipline becomes **bondage**, because lack of control can lead to regret and harm to yourself and others.
+
+---
+
+## 2. Purity Is Tested Everywhere
+
+> **“I have made a covenant with my eyes.” — Job 31:1**
+
+Purity is not just a private matter—it is constantly tested in the world around you. The challenges may differ depending on where you are, but the principle remains the same: **your choices must honor God**.
+
+### **At school**
+
+- A conversation turns inappropriate or spreads gossip  
+- A joke crosses a moral or personal boundary  
+- Peer pressure pushes you to do something you know is wrong  
+- Pop culture and social media normalize impure thoughts or actions  
+
+### **At home**
+
+- Privacy increases as you grow older  
+- Screens, games, and personal devices become sources of temptation  
+- Temptation whispers, *“No one will know,”* testing your self-control and character  
+- Even trusted friendships may quietly challenge your values  
+
+### **On the road or outside**
+
+- Behavior often feels less controlled when away from home and supervision  
+- Language and actions may change to fit in or impress others  
+- Boundaries can seem optional in unfamiliar places  
+
+Purity means choosing the **same standards everywhere**—making decisions that honor God whether you are watched or alone, popular or invisible. It is a commitment to live with a **clean heart** wherever life takes you.
+
+---
+
+## 3. Integrity Shows When Rules Disappear
+
+> **“The eyes of the Lord are everywhere.” — Proverbs 15:3**
+
+Integrity is revealed when there are no rules, no supervision, and no one is watching. It is tested in everyday situations that may seem small but ultimately define your character.
+
+### **Real-life moments**
+- No teacher is watching and a classmate is cheating  
+- No parent is nearby and a sibling is being treated unfairly  
+- No church member is present when friends take shortcuts or break rules  
+- Online interactions where you could say something hurtful or inappropriate without immediate consequences  
+
+### **Integrity says**
+- *“I will still do what is right, even when no one is looking.”*  
+- *“I don’t need supervision to obey God.”*  
+- *“My conscience matters more than approval from others.”*  
+- *“I will not compromise my values for convenience or popularity.”*  
+
+Integrity is **obedience without enforcement**—a personal commitment to honor God and maintain honesty, trustworthiness, and moral consistency in every area of life.
+
+---
+
+## 4. Self-Discipline Governs Thoughts Before Actions
+
+> **“Watch and pray so that you will not fall into temptation.” — Matthew 26:41**
+
+Every action begins as a thought. Self-discipline is the skill of **noticing your thoughts and controlling them** before they become words or deeds. It is training your mind and habits to align with God’s will.
+
+### **Practical strategies for teens**
+- Closing a conversation early when it begins to turn negative or inappropriate  
+- Leaving a place before peer pressure or temptation escalates  
+- Putting intentional limits on phone, social media, or screen use to guard your heart  
+- Walking away from risky situations before a choice needs to be made  
+- Planning ahead to avoid situations that trigger impulsive or harmful behavior  
+
+Self-discipline is not about punishment; it is about **empowerment**.  
+What you don’t discipline will eventually **dominate you**, shaping your character, decisions, and future.
+
+---
+
+## 5. Friends Test Integrity Daily
+
+> **“Bad company corrupts good character.” — 1 Corinthians 15:33**
+
+Friends have a powerful influence on our lives. They shape our language, values, attitudes, and even our courage to stand up for what is right. Choosing the wrong company can subtly and gradually pull you away from God’s standards.
+
+### **Real-life scenarios**
+- A friend jokes about breaking rules or doing something unethical and expects you to join in  
+- Peer pressure encourages gossip, lying, or compromised decisions just to fit in  
+- Some friends dismiss your convictions, making you feel weak, old-fashioned, or unpopular for saying no  
+
+Integrity chooses friends who **respect your boundaries** and encourage you to do what is right.  
+Self-discipline means **refusing invitations** that compromise your values, even if it costs popularity or temporary fun.
+
+Not everyone who accepts you is safe for you—**choose relationships that build your character, not destroy it.**
+
+---
+
+## 6. Your Body and Life Are Sacred
+
+> **“Your body is a temple of the Holy Spirit.” — 1 Corinthians 6:19–20**
+
+Your body and your life are sacred gifts from God. How you care for them reflects your faith and your understanding of their value. Just as a temple is treated with reverence, your body and life deserve **protection, honor, and wise stewardship**.
+
+### **A temple is**
+- **Guarded** — protecting your body and mind from harmful influences, unhealthy habits, and sinful temptations  
+- **Honored** — treating yourself with respect, making healthy choices, and valuing your life as God’s creation  
+- **Not misused** — avoiding actions that harm yourself or dishonor God, including unsafe behaviors and indulgence in sin  
+
+Purity honors God with the **body** by keeping it clean and wholesome.  
+Integrity honors God with **decisions**, ensuring your choices align with your values.  
+Self-discipline honors God with **restraint**, training yourself to say no to temptation and yes to what builds a godly life.
+
+---
+
+## 7. When You Fail, Rise Quickly
+
+> **“If we confess our sins, He is faithful and just to forgive us.” — 1 John 1:9**
+
+Everyone fails at some point. Even the most disciplined and godly people make mistakes. What matters is not perfection, but **honesty** and the willingness to turn back to God.
+
+God is not looking for flawless behavior—He is looking for **honest hearts** that recognize wrongdoing and seek forgiveness. Failure is not the end; it is an opportunity to grow, learn, and strengthen your character.
+
+Refusal to return, ignoring correction, or giving up is the real danger. When you stumble, **confess, repent, and rise quickly**. Let each failure become a stepping stone, not a stumbling block, and allow God to guide you back to the path of **purity, integrity, and self-discipline**.
+
+---
+
+## Conclusion: Be the Same Everywhere
+
+Your faith should not change depending on where you are or who you are with. Whether at school, at home, in church, on the road, online, or alone, your **character, choices, and actions** should consistently reflect God’s truth.
+
+- **Purity** guards your heart, helping you think, act, and live in ways that honor God.  
+- **Integrity** guards your character, ensuring your actions are consistent, honest, and dependable.  
+- **Self-discipline** guards your future, empowering you to make wise choices and resist temptation.  
+
+A consistent life of faith is a powerful **witness to others** and a source of **inner strength and peace** for yourself.
+
+---
+
+## Closing Prayer
+
+*Lord, teach us to live rightly everywhere and at all times. Give us pure hearts, steadfast character, and disciplined lives. Help us honor You not only in public but also in the privacy of our thoughts, words, and actions. May our lives reflect Your glory and draw others closer to You. Amen.*
+
+---
+
+## Daily Rule for Life
+
+**If it dishonors God in secret, it will harm you in public.**  
+
+Let us choose **purity, integrity, and self-discipline** every day, everywhere, and in every situation.
