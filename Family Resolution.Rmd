@@ -1,0 +1,98 @@
+---
+title: "Untitled"
+author: "Martin N. Wanjiru"
+date: "2026-01-08"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Family Resolutions for the New Year (A Husband’s Commitment)
+
+As the head of the family, God has entrusted the husband with the responsibility of **spiritual leadership, love, and example**. These family resolutions are not about perfection, but about **growing together in faith, unity, and obedience to God**.
+
+> **“As for me and my house, we will serve the LORD.”**  
+> — *Joshua 24:15*
+
+---
+
+### 1. A Resolution to Grow Closer to God as a Family
+We resolve to make God the center of our home, decisions, and daily life. Our desire is not merely to know about God, but to **walk with Him together** as a family.
+
+> **“Draw near to God and He will draw near to you.”**  
+> — *James 4:8*
+
+**Practical commitment:**
+- Begin and end our days acknowledging God  
+- Invite God into family conversations and decisions  
+
+---
+
+### 2. A Resolution to Pray Together Daily (8:00 PM – 9:00 PM)
+We resolve to set aside **intentional family prayer time every evening**, trusting God to unite our hearts through prayer.
+
+> **“Where two or three are gathered together in My name, I am there in the midst of them.”**  
+> — *Matthew 18:20*
+
+**Practical commitment:**
+- Family prayer time from **8:00 PM to 9:00 PM**  
+- Sharing prayer requests and thanksgiving  
+- Praying for spiritual growth, health, provision, and peace  
+
+---
+
+### 3. A Resolution to Study the Bible Together Twice a Week
+We resolve to study God’s Word together **at least twice a week**, allowing Scripture to shape our values, conversations, and lifestyle.
+
+> **“Let the word of Christ dwell in you richly.”**  
+> — *Colossians 3:16*
+
+**Practical commitment:**
+- Bible study **two days per week**  
+- At least **30 minutes per session**  
+- Simple discussion: *What does this teach us? How do we apply it?*
+
+> **“Your word is a lamp to my feet and a light to my path.”**  
+> — *Psalm 119:105*
+
+---
+
+### 4. A Resolution to Walk in Love, Unity, and Forgiveness at Home
+We resolve to cultivate a home marked by **love, patience, humility, and forgiveness**, choosing peace over conflict.
+
+> **“Above all these things put on love, which is the bond of perfection.”**  
+> — *Colossians 3:14*
+
+**Practical commitment:**
+- Address conflicts with prayer and humility  
+- Practice forgiveness quickly  
+- Speak words that build and encourage  
+
+---
+
+### 5. A Resolution to Lead by Example as a Husband and Father
+As the husband, I resolve to **lead by example**, modeling prayer, humility, discipline, and love, trusting God to work through my obedience.
+
+> **“Husbands, love your wives, just as Christ also loved the church.”**  
+> — *Ephesians 5:25*
+
+> **“Train up a child in the way he should go.”**  
+> — *Proverbs 22:6*
+
+**Practical commitment:**
+- Be consistent in personal devotion  
+- Lead family worship faithfully  
+- Serve my family with love and patience  
+
+---
+
+### A Family Prayer for the New Year
+> *“Lord, we commit our home to You. Teach us to love You, to walk in Your ways, and to grow together in faith. May our home be a dwelling place for Your presence. In Jesus’ name, Amen.”*
+
+> **“Unless the LORD builds the house, they labor in vain who build it.”**  
+> — *Psalm 127:1*
