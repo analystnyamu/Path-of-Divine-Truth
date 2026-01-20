@@ -1,0 +1,389 @@
+---
+title: "what God Wants"
+author: "Martin N. Wanjiru"
+date: "2026-01-18"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+# Understanding What God Truly Wants From His People
+
+## Introduction
+
+In today’s fast-paced world, filled with **religious noise, endless activities, and visible spiritual performances**, many believers are striving to do more. We attend more services, give more offerings, pray longer, fast harder, and engage in countless church activities. Yet, in the midst of all this motion, a crucial question often goes unasked: 
+
+> **“What does God truly want from me?”**
+
+Is God moved by the **number of our prayers**, the **length of our fasts**, or the **amount of our offerings?** Is faith measured by **perfect attendance** or by how busy we appear in religious spaces?
+
+The Bible gives us a clear and sobering answer:
+
+> **God is not impressed by outward religious activity when the heart remains unchanged.**
+
+From Genesis to Revelation, God consistently reveals that His desire is not for **religious performance**, but for **transformation**. He seeks hearts that are **repentant**, lives that are **obedient**, and people who walk with Him in **truth and sincerity.**
+
+**True spirituality** does not begin on the platform, in the **prayer mountain**, or at the altar—it begins within the **heart**. Until the inner life is aligned with God’s Word, no amount of external activity can produce lasting change.
+
+---
+
+## God Is Not Looking for Busy Religion
+
+God is not searching for people who are merely **occupied with religious routines**.  
+He is not impressed by those who know how to **appear spiritual outwardly** while remaining **unchanged inwardly**.
+
+Throughout Scripture, God makes it clear that **external religion without internal transformation is empty**. He is not moved by activity, titles, or rituals when the heart remains resistant to His truth.
+
+What God truly desires is **a heart that is willing to change**—a heart that is **humble, teachable, and obedient**. He seeks people who do not just *practice* faith, but who are **transformed by it**.
+
+Religion can be **learned**.  
+Rituals can be **repeated**.  
+But **true repentance** goes far deeper than religious skill or routine.
+
+True repentance requires:
+
+- **Humility** — acknowledging our weakness and dependence on God, without pride or self-justification  
+- **Honesty** — standing truthfully before God, refusing to hide sin, excuses, or secret struggles  
+- **Surrender** — yielding our will, desires, and past patterns so God can reshape our lives from the inside out  
+
+God has never been impressed by **busyness without obedience** or **performance without purity**.  
+What He values is **a fully surrendered heart**—one that is willing to turn away from sin, align with His Word, and walk in obedience.
+
+Until the heart changes, religion remains noise.  
+But when the heart is transformed, obedience becomes life.
+
+---
+
+## Rituals Without Obedience Do Not Move God
+
+Many people believe that **intense fasting, generous seed offerings, repeated prayers, or constant church involvement** will secure God’s approval. While these practices may appear spiritual on the surface, Scripture reveals a sobering and consistent truth:
+
+> **God has never been moved by rituals that are not accompanied by obedience and a surrendered heart.**
+
+Outward religious actions may **impress people**, attract admiration, or create a reputation of spirituality—but they do **not move heaven**. God looks beyond visible performance and examines the **true condition of the heart**.
+
+### God Does Not Need Our Offerings Before your Hearts
+
+God makes this unmistakably clear in the Psalms:
+
+> *“I will not reprove you for your sacrifices or your burnt offerings…For every beast of the forest is Mine, and the cattle on a thousand hills…If I were hungry, I would not tell you.”*— **Psalm 50:8–12**
+
+God is not dependent on offerings, seeds, or sacrifices for His existence. Rather, these acts of giving are intended to honor Him and must proceed from a transformed heart that is acceptable before Him. He also reveals what truly matters to Him:
+
+> *“Offer to God thanksgiving, and pay your vows to the Most High.”*— **Psalm 50:14**
+
+Even more plainly, David declares:
+
+> *“You do not delight in sacrifice, or else I would give it; You do not take pleasure in burnt offerings. The sacrifices of God are a broken spirit, a broken and a contrite heart—these, O God, You will not despise.”* — **Psalm 51:16–17**
+
+### Obedience Above All Else
+
+God’s priority has always been **obedience over ritual**:
+
+> *“To obey is better than sacrifice, and to heed than the fat of rams.”* — **1 Samuel 15:22**
+
+Righteousness is **not negotiable**. God does not lower His standards because of religious effort. He is not persuaded by routine, repetition, or emotional displays of devotion.
+
+> **God responds to obedience, not to mere activity of practice.**
+
+The prophets echoed this truth boldly:
+
+> *“I hate, I despise your feast days…Though you offer Me burnt offerings and grain offerings, I will not accept them…But let justice roll down like waters, and righteousness like a mighty stream.”*— **Amos 5:21–24**
+
+And again:
+
+> *“What does the LORD require of you but to do justly, to love mercy, and to walk humbly with your God?”*— **Micah 6:8**
+
+### The Evidence of True Spirituality
+
+True spirituality is not proven by how much one **does for God**, but by how faithfully one **walks with Him**. He is seeking for relationship and friendship with you. Obedience is the visible fruit of a heart that has been genuinely transformed by truth.
+
+Where obedience is absent, religious activity becomes **empty noise**.  
+But where the heart is surrendered, obedience flows naturally—and God is pleased.
+
+God is not asking for more sacrifices.  
+He is asking for **your heart**, to have a friendship relationship with you.
+
+---
+
+## God’s Message Through Isaiah: Change Comes First
+
+In **Isaiah 1:16–17**, God speaks directly to His people:
+
+> *“Wash yourselves, make yourselves clean; put away the evil of your doings… learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow’s cause.”*
+
+These words were addressed to a people who were already **religious**—those who offered sacrifices, performed rituals, and attended gatherings faithfully. Yet God **rejected their worship** because their **lives contradicted their prayers**. External devotion, no matter how impressive, could not cover **internal disobedience** or hidden sin.
+
+The promise that follows is equally clear (Isaiah 1:19):
+
+> *“If you are willing and obedient, you shall eat the good of the land.”*
+
+Notice the divine principle:  
+
+**willingness and obedience must come before blessing.**  
+
+God desires hearts that are **ready to change, repent, and follow His commands**, not just lips that speak religious words or hands that perform ritual acts. True spiritual blessing flows from **inner transformation**, not outward performance.
+
+### Key Takeaways:
+
+- Religion without obedience is **empty**.  
+- Blessings follow a **transformed heart**, not mere religious activity or practice.  
+- God’s desire is for **repentance, humility, and surrender**, before He pours out His favor.  
+-After repentance, true believers are called to live a life of sanctification, not a cycle of repeated repentance for repeated sins. Godliness is a process that requires intentional effort, diligence, and a sincere desire to know God.
+
+---
+
+## Repentance and Sanctification, Not Performance
+
+God desires **repentance and sanctification**, not mere religious performance. He wants His people to **turn away from sin and pursue holiness**, not remain trapped in a cycle of repeating the same mistakes while relying on rituals to cover them.
+
+### What We Mean by Repentance
+
+**Repentance** is a genuine turning from sin—a **change of mind, heart, and direction** toward God. It involves:
+
+- **Acknowledging sin** honestly before God (**1 John 1:9**: *“If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”*)  
+- **Feeling godly sorrow** for disobedience (**2 Corinthians 7:10**)  
+- **Actively forsaking sinful habits** and choosing to obey God’s Word  
+
+Repentance is **not just feeling sorry**, nor is it a temporary act; it is **a decisive commitment to change**.
+
+### What We Mean by Sanctification
+
+**Sanctification** is the process of being made holy—**set apart for God’s purposes**. It is the ongoing work of the Holy Spirit in a believer’s life, producing:
+
+- **Purity of heart and thought** (**Hebrews 12:14**: *“Pursue peace with all people, and holiness, without which no one will see the Lord.”*)  
+- **Obedience in every area of life** (**1 Thessalonians 4:3–4**)  
+- **A life that reflects Christ’s character**, not just outward religiosity  
+
+Sanctification is the evidence that **salvation is alive and active**, producing transformation from the inside out.
+
+### The Danger of Performance Without Transformation
+
+When a person accepts Christ, **salvation is not the end—it is the beginning**. God expects a **transformed life**, one that reflects His holiness in every thought, word, and action. This transformation includes:
+
+- **No hidden sins**: nothing secreted away in the heart or life (**Psalm 66:18**: *“If I regard iniquity in my heart, the Lord will not hear me.”*)  
+- **No secret indulgences**: no private compromises that contradict God’s will (**Romans 6:1–2**)  
+- **No unchanged behavior justified by grace**: grace is **not a license to continue sinning** (**Romans 6:14–15**)  
+
+> **“Grace does not excuse sin; it empowers freedom from it.”**  
+> *(Titus 2:11–12: “For the grace of God has appeared, bringing salvation to all people, instructing us to deny ungodliness and worldly desires and to live sensibly, righteously, and godly in the present age.”)*
+
+### True Christianity is Evidenced By:
+
+- **Growth**: continual progress in holiness  
+- **Change**: leaving behind old sinful patterns. You are a new creature in God's likeness**(Ephesians 4:22-24)**
+- **Obedience**: actions flowing from a heart transformed by God’s Spirit (**John 14:15**: *“If you love Me, keep My commandments.”*) 
+- **Having the mind of Christ** - Thinking, actint, and seeing life through Jesus's perspective, characterized by humility, obedience, and God's wisdom. - **1 Corinthians 2:16**
+- **Having the character of Chirst Jesus**. ...It is no longer I who lives but Christ lives in Me... - **Galatians 2:20**
+
+God honors those who **actively pursue sanctification**, allow His Spirit to renew their hearts, and live in alignment with His Word.  
+
+> Religion without repentance and sanctification is **empty performance**.  
+> True faith produces a life that **reflects God’s heart, power, and glory**.
+
+---
+
+## Why Many Chase Miracles
+
+Prayers that are not backed by obedience eventually become **empty words**.  
+When people pray without repentance, faith, and submission to God’s Word, frustration grows—and disappointment follows. This is why many believers move from **one prophet to another**, **one man of God to another**, **one conference to the next**, and **one prayer mountain to another**, desperately searching for a breakthrough.
+
+But Scripture reveals that this pattern is **not God’s design**.
+
+Miracles were never meant to be **chased**.  
+They were meant to **follow** believers whose lives are aligned with God’s will.
+
+Jesus said:
+
+> *“And these signs shall follow them that believe…”*  — **Mark 16:17**
+
+Notice the divine order:  
+
+**belief → obedience → signs following**.  
+
+Signs do not replace faith, and miracles do not substitute obedience.
+
+### Sin Creates a Barrier Between People and God
+
+One of the main reasons prayers go unanswered is **unrepented sin**. The prophet Isaiah makes this unmistakably clear:
+
+> *“Behold, the LORD’s hand is not shortened, that it cannot save, nor His ear heavy, that it cannot hear.  But your iniquities have separated you from your God; and your sins have hidden His face from you, so that He will not hear.”*  — **Isaiah 59:1–2**
+
+Sin creates a **spiritual barrier**—a wall that blocks intimacy with God and hinders the flow of His power. It is not that God is unwilling to act, but that **sin disrupts fellowship**.
+
+### Why the Chase Happens
+
+Many chase miracles because:
+
+- They desire **relief without repentance**  
+- They want **breakthrough without transformation**  
+- They seek **power without surrender**  
+
+Yet Scripture warns clearly:
+
+> *“He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy.”* — **Proverbs 28:13**
+
+As long as sin is **hidden, justified, or defended**, prosperity—spiritual or physical—will remain out of reach. God does not bless what He has already condemned.
+
+
+### God’s Pattern: Obedience First, Power Follows
+
+God consistently honors **obedience before manifestation**:
+
+> *“The LORD is near to all who call upon Him, to all who call upon Him in truth.”* — **Psalm 145:18**
+
+> *“If you abide in Me, and My words abide in you, you will ask what you desire, and it shall be done for you.”* — **John 15:7**
+
+Miracles flow naturally where there is **abiding**, **faith**, and **obedience**. They are not rewards for desperation, but confirmations of a life aligned with God.
+
+### The Tragedy of Miracle-Chasing Christianity
+
+**When Miracles Become the Focus Rather Than Christ**:
+
+- **Christ is treated as a tool to get what people want**, instead of being honored as Lord and obeyed.  
+- **Obedience is neglected**, while experiences and manifestations are exalted.  
+- **Spiritual maturity is replaced with emotional excitement**, producing believers who crave stimulation rather than transformation.  
+- **Truth is exchanged for sensations**, and sound doctrine is dismissed as unnecessary or “dry.”  
+
+- **The cross is avoided**, because it demands death to self, humility, and perseverance—not applause or popularity.  
+- **Repentance is sidelined**, replaced by repeated deliverance sessions that never address the root of sin.  
+- **Character formation is ignored**, while spiritual gifts and public displays are celebrated.  
+- **Discipline in the Word and prayer is weakened**, because miracles become the primary proof of faith rather than a transformed life.
+
+- **Discernment is lost**, and every supernatural display is automatically assumed to be from God.  
+- **False prophets thrive**, using signs and wonders to build personal kingdoms instead of advancing the Kingdom of God.  
+- **The enemy gains access to confuse believers**, disguising deception as spiritual power and progress.  
+
+- **People begin to seek “a man of God” instead of God Himself**, leading to misplaced trust and spiritual dependency.  
+- **Followers are drained financially, emotionally, and spiritually**, yet are told their faith is insufficient when promises fail.  
+- **The gospel is commercialized**, turning altars into marketplaces and grace into transactions.  
+
+**The Outcome of all these**: 
+
+- **Entertainment replaces reverence**, and the church becomes a stage rather than a place of repentance, renewal, and transformation.
+
+> In such an environment, believers are **amazed but not changed**, **impressed but not transformed**, and **excited but not rooted**.
+
+---
+
+## A Call Back to Christ
+
+True Christianity is not sustained by constant excitement, emotional highs, or spectacular experiences. It is built on **truth, obedience, holiness, and genuine love for Christ Himself**. While miracles may accompany the gospel, they must **never replace the gospel**.
+
+Jesus did not come primarily to amaze people with signs, but to **redeem hearts and transform lives**. When signs become the focus, Christ is diminished—and faith becomes shallow.
+
+Jesus warned clearly:
+
+> *“An evil and adulterous generation seeks after a sign.”* — **Matthew 12:39**
+
+This warning reveals a heart problem: a generation more interested in **what God can do for them** than in **who God is to them**.
+
+### Christ, Not Signs and wonders, Is the Center
+
+The apostles preached **Christ crucified**, not miracles as the message:
+
+> *“For we preach not ourselves, but Christ Jesus the Lord.”* — **2 Corinthians 4:5**
+
+Paul further reminds us:
+
+> *“For the kingdom of God is not in word, but in power.”*— **1 Corinthians 4:20**
+
+That power, however, flows from **a life surrendered to Christ**, not from spectacle. God’s power is released through **obedient faith**, not religious entertainment.
+
+### The Biblical Call
+
+God is calling His people back to:
+
+- **Relationship over results**  
+- **Obedience over excitement**  
+- **Faithfulness over fame**  
+- **Holiness over hype**  
+
+> *“If you love Me, keep My commandments.”*  — **John 14:15**
+
+> *“But as He who called you is holy, you also be holy in all your conduct.”*  — **1 Peter 1:15–16**
+
+When believers walk in **repentance, holiness, humility, and truth**, their lives naturally testify to Christ’s power. In such lives, miracles are not forced—they **follow quietly, powerfully, and in God’s perfect timing**.
+
+### A Final Exhortation
+
+Do not chase signs and wonders.  
+Do not pursue power without purity.  
+Do not seek blessings without obedience.
+
+> *“Let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of our faith.”*  — **Hebrews 12:1–2**
+
+**Chase Christ.**  When Christ is the center, everything else finds its proper place.
+
+And when believers seek God with their whole heart, **signs and wonders will follow—not because they were pursued, but because Christ was obeyed.**
+
+
+---
+
+## A Loving but Serious Warning!
+
+When a person **refuses to change**, **refuses to repent**, and **refuses to pursue holiness**, no amount of religious effort can ever replace obedience. God is loving, patient, and merciful—but He is also **holy and just**.
+
+A person may:
+
+- Fast regularly  
+- Give generous offerings  
+- Pray on prayer mountains  
+- Attend church every week  
+- Faithfully perform religious activities/practices
+
+Yet their struggles remain unchanged, their bondage continues, and their prayers seem unanswered.
+
+Why?
+
+Not because God is absent.  
+Not because God is powerless.  
+But because **God is holy**.
+
+God does not respond to **rehearsed prayers** while sin is cherished in the heart. He listens to **repentant hearts**, not religious speech. Unrepented sin creates a **spiritual barrier**—not because God stops loving, but because fellowship is broken.
+
+This warning is not condemnation—it is **mercy**. God does not expose sin to shame people, but to **free them**. Repentance is not punishment; it is **the doorway to restoration**.
+
+> *“Rend your heart and not your garments.”* — **Joel 2:13**
+
+When the heart turns back to God in humility and obedience, prayer is restored, fellowship is renewed, and change begins.
+
+God is not asking for more fasting, He is not asking for louder prayers. He is asking for **a surrendered heart**.
+
+And to the repentant, He is always ready to forgive, heal, and restore.
+
+---
+
+## True Christianity Defined
+
+True Christianity is not about hiding sin—it is about **renouncing it**.  
+It is not about religion—it is about **relationship**.  
+It is not about appearance—it is about **obedience**.
+
+God is not calling people to look holy. **He is calling them to be holy.**
+
+**Seek the Right Thing First**:
+
+Jesus gave us the correct priority in *Matthew 6:33*:
+
+> “Seek first the kingdom of God and His righteousness, and all these things shall be added unto you.”
+
+When righteousness comes first, provision follows.  
+When obedience leads, blessings respond.
+
+
+When people truly repent, obey God’s Word, and pursue holiness:
+
+- Their troubles lose power  
+- Their lives begin to change  
+- Peace replaces confusion  
+- Purpose replaces frustration
+- Their Identity in Christ is revealed
+
+They stop surviving spiritually and begin **living fully in Christ**.
+
