@@ -1,0 +1,104 @@
+---
+title: "Prayer of Success-Ather"
+author: "Martin N. Wanjiru"
+date: "2025-12-02"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Dear Ather,
+
+Warm greetings in the **precious name of our Lord Jesus Christ**.
+
+Congratulations on completing your **KCSE examinations**! As *Mr. and Mrs. Martin*, we are truly proud of you, and we thank God for carrying you this far. Completing this milestone is a testimony of God’s grace, and we believe He has prepared a **bright and meaningful future** for you.
+
+Ather, as you enter a new season of life, remember that **focus**, **discipline**, and **determination** are pillars that will carry you far. You are stepping into a world that is increasingly dark and morally confused. Many young people today are trapped in temptations brought through the internet—**sexual immorality**, **harmful content**, **peer influence**, and habits that weaken character and open doors to spiritual attacks. These influences look attractive, but they are designed by the enemy to **destroy destinies**.
+
+But when a young man walks in the **fear of God**, no trap of the enemy can swallow his future. **Christ gives strength** where the world gives pressure, and His presence shields you from dangers that many fall into.
+
+---
+
+## **The Power of God’s Word**
+
+One of the greatest weapons God has given you is **His Word**.
+
+A young man who studies the Scriptures daily becomes **spiritually strong**, **wise**, and **disciplined**. The Word of God **cleanses the mind**, **sharpens discernment**, and exposes every lie of the enemy. When the Word guides your steps, you will naturally shun evil and walk in victory.
+
+> “Blessed is the man who does not walk in the counsel of the wicked…
+> But his delight is in the law of the LORD…
+> He will be like a tree planted by streams of water… whatever he does prospers.”
+> — *Psalm 1:1–3*
+
+> “How can a young man keep his way pure?
+> By guarding it according to Your Word.”
+> — *Psalm 119:9*
+
+> “Your word have I hidden in my heart,
+> that I might not sin against You.”
+> — *Psalm 119:11*
+
+Ather, when you build your life on the **Word of God**, you will have **good success** and **prosper** in all you do, because Scripture will guide your decisions and protect your heart from deception. God told Joshua the same:
+
+> “This Book of the Law shall not depart from your mouth;
+> meditate on it day and night…
+> for then you will make your way prosperous and have good success.”
+> — *Joshua 1:8*
+
+---
+
+## **Walking With Christ**
+
+Never forget this spiritual truth: **life outside Christ is unprotected**.  
+Without His covering, people become vulnerable to destruction, spiritual attacks, and wasted destinies. But those who walk with **Jesus** receive His **protection**, **guidance**, and **preservation**.
+
+> “If you make the **LORD** your refuge,  
+> if you make the Most High your shelter,  
+> **no evil will conquer you; no plague will come near your dwelling.**”  
+> — *Psalm 91:9–10*
+
+This is God’s divine promise of protection—when you stay close to Him, no evil scheme, no temptation, and no hidden danger can prevail over your life.
+
+God also warns us in Scripture about the danger of walking in wickedness:
+
+> “**The wicked die before their time.**”  
+> — *Job 36* (a reminder that those who reject God’s ways often shorten their own days)
+
+Ather, when you choose to **walk with Christ**, you choose **life**, **purpose**, and **divine covering**. He will go before you, shield you, and guide your steps into a future full of **peace** and **success**.
+
+
+---
+
+## **Your Role as the Firstborn**
+
+Remember the special place God has given you as the **firstborn**.
+Your younger siblings will watch your steps, and your decisions will guide theirs. God often uses firstborns as **pillars in their families**—those who break limits, open new doors, and lead others toward greatness. When you walk wisely, your entire household benefits.
+
+---
+
+## **Build Your Own Life**
+
+One more important truth: **do not build your future around what your parents have**.
+
+What they have materially is temporary. But what they have given you—
+**education**, **discipline**, **counsel**, and the **fear of God**—
+is more valuable than any inheritance.
+
+Build your own life with **hard work**, **integrity**, and **reverence for God**.
+When you do this, **the Lord Himself will bless the work of your hands** and establish you in due time.
+
+> “Set an example for the believers in speech, in conduct, in love, in faith and in purity.”
+> — *1 Timothy 4:12*
+
+---
+
+We believe in you, and we pray that **God will bless your journey ahead**.
+May He give you **success** in your further education and every endeavor you pursue.
+Stay focused, work hard, honor God, and you will see **His goodness** in all your ways.
+
+With prayers and blessings,
+**Mr. & Mrs. Martin**
