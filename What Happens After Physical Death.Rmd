@@ -2,7 +2,9 @@
 title: "Untitled"
 author: "Martin N. Wanjiru"
 date: "2026-01-20"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -65,11 +67,17 @@ These passages *reveal that **God’s knowledge, purpose, and plan for each pers
 Being created in the **image and likeness of God** does not mean we look like God physically. Rather, it means we were created to:
 
 **I. Reflect God’s Character**: We are called to reflect His holiness, righteousness, and love **(Leviticus 11:44; 1 Peter 1:15–16; 1 John 4:7–8)**.  God’s character is visible through our actions, speech, and attitudes. As His image-bearers, we are to exemplify His goodness to the world.
+
 **II. Carry God’s Authority on the Earth**: Humanity was given dominion over creation **(Genesis 1:28)**, meaning we are stewards of the earth and representatives of God’s rule. Authority comes with responsibility to uphold justice, protect life, and cultivate creation according to God’s will **(Psalm 8:5–8)**.
+
 **III. Possess Moral Responsibility and Spiritual Awareness**: We have the ability to distinguish right from wrong **(Genesis 2:16–17; Romans 2:14–15)**. Our conscience and moral awareness reflect God’s law written in our hearts **(Romans 2:15)**, giving us accountability before Him.
+
 **IV. Live in Relationship with God**: Being made in His image means we were created for fellowship with God **(Genesis 3:8–9; John 15:15)**. God desires friendship, love, and obedience, not mere ritual and religeous practices **(Micah 6:8; John 14:15)**.
+
 **V. Experience Creativity and Dominion**: Like God, we are creative beings **(Genesis 1:27)**, able to invent, build, and shape culture, arts, and solutions for the common good. We exercise dominion not as tyrants, but as caretakers, reflecting God’s wise and loving authority **(Genesis 2:15)**.
+
 **VI. Participate in God’s Eternal Purpose**: We are part of God’s plan to bring glory to Himself through creation and redemption **(Ephesians 1:4–5; Revelation 4:11)**. Our lives have eternal significance, not just temporal value.
+
 **VII. Possess Free Will and Moral Choice**: God gave humans the power to choose obedience or rebellion **(Deuteronomy 30:19; Joshua 24:15)**.  This ability reflects His image because we can align our will with His or reject it, making our love and obedience meaningful.
 
 > **“You have made him a little lower than the angels, and You have crowned him with glory and honor.”**— *Psalm 8:5*
@@ -132,6 +140,7 @@ Understanding **why we were created** gives meaning to life on earth and clarity
 God’s primary purpose in creating humanity was **relationship**. He created us for **fellowship**, not rituals
 
 > **“Can two walk together, unless they are agreed?”**— *Amos 3:3*
+
 > **“The LORD God was walking in the garden in the cool of the day.”**— *Genesis 3:8*
 
 God spoke with Adam and Eve freely, as a **Father and Child (Friend)**. Obedience flowed from relationship, not fear.
@@ -282,6 +291,7 @@ Through **deception**, Satan gained influence over fallen humanity. However, thi
 By yielding to Satan’s deception, humanity surrendered spiritual authority. Satan became the temporary ruler of a fallen world. This authority was **not permanent**, but it brought suffering, corruption, and death into human experience.
 
 > **“To whom you present yourselves slaves to obey, you are that one’s slaves.”** — *Romans 6:16*
+
 > **“The ruler of this world.”**— *John 12:31*
 
 
@@ -306,6 +316,7 @@ After sin:
 - Fear replaced intimacy  
 
 > **“I was afraid… so I hid myself.”**  — *Genesis 3:10*
+
 > **“You were dead in trespasses and sins.”**  — *Ephesians 2:1*
 
 Though Adam and Eve were physically alive, they were **spiritually dead**. After realizing they had sinned, they fled from God. When they heard Him walking in the garden, they hid themselves in fear and shame. Yet, in His unfailing love, God went after them. Despite their disobedience, He sought them out to protect them from total destruction and from falling completely under the control of the deceiver.
@@ -315,32 +326,12 @@ In the same way today, **God still goes after those living in sin—not to conde
 But for those already in Christ, this should not be a reason to relax or grow stagnant. God calls us to continually seek Him and grow in our knowledge of Him:
 
 > “But seek first the kingdom of God and His righteousness, and all these things shall be added to you.” — *Matthew 6:33*  
+
 > “Draw near to God, and He will draw near to you.” — *James 4:8*  
+
 > “You will seek Me and find Me, when you search for Me with all your heart.” — *Jeremiah 29:13*
 
 We must continually pursue God in prayer, study of His Word, and obedience, for the enemy does not sleep. He is always looking for someone to devour. Spiritual vigilance is essential to remain strong in the Lord and to grow in faith and intimacy with Him.
-
-
-### **Summary: The Consequences of the Fall**
-
-Because of the Fall:
-
-- Humanity became **spiritually dead**
-- Fellowship with God was broken
-- Death entered the world
-- Satan gained temporary influence
-- Humanity became unable to save itself
-
-> **“All have sinned and fall short of the glory of God.”**  — *Romans 3:23*
-
-Understanding the Fall explains:
-
-- Why death exists
-- Why suffering exists
-- Why salvation is necessary
-- Why Jesus Christ is essential
-
----
 
 ## **4. God’s Rescue Plan: Redemption Through Jesus Christ**
 
@@ -352,11 +343,15 @@ Even though humanity fell into sin and spiritual death, God did not abandon His 
 
 God’s plan centered on **Jesus Christ**, who came to **rescue humanity** and restore fellowship with God.
 
-**Lived a Sinless Life**: Jesus perfectly obeyed God’s will in every aspect of His life (**Hebrews 4:15**). His sinlessness made Him the perfect example for humanity and the spotless Lamb able to atone for sin.
-**Fulfilled the Law of Moses**: He did not abolish the Law, but fulfilled it completely (**Matthew 5:17**). In the Old Testament, people fought physical battles and observed rituals that symbolized spiritual realities to come. These pointed forward to Christ, who would address the deeper spiritual battles we face. Today, our real enemies are not other humans but **the devil and spiritual forces of evil** (**Ephesians 6:12**). Our weapons are not carnal; they are spiritual—prayer, truth, righteousness, and faith (**2 Corinthians 10:4**). We are called to **love even those who hate or persecute us**, following Christ’s example, because it is better to suffer for doing what is right than to face punishment for wrongdoing (**1 Peter 2:19-21**).
-**Emulate Christ**: Believers are called to develop **His mind and attitude** (**Philippians 2:5**), reflecting humility, obedience, and love in all aspects of life.
-**Became the Final and Perfect Sacrifice**: Through His death, Jesus fulfilled all the requirements of the Old Covenant. No more animal sacrifices or temporary rituals were needed (**Hebrews 10:10-14**). His sacrifice was **once and for all**, providing eternal reconciliation with God.
-**Conquered Sin, Death, and Satan**: Through His death and resurrection, Jesus defeated the power of sin and death, giving humanity the gift of eternal life (**1 Corinthians 15:55-57; Romans 6:9-10**). By rising victorious, He also rendered Satan powerless over those who belong to Christ, securing eternal victory for all who believe (**Colossians 2:15**).
+**I. Lived a Sinless Life**: Jesus perfectly obeyed God’s will in every aspect of His life (**Hebrews 4:15**). His sinlessness made Him the perfect example for humanity and the spotless Lamb able to atone for sin.
+
+**II. Fulfilled the Law of Moses**: He did not abolish the Law, but fulfilled it completely (**Matthew 5:17**). In the Old Testament, people fought physical battles and observed rituals that symbolized spiritual realities to come. These pointed forward to Christ, who would address the deeper spiritual battles we face. Today, our real enemies are not other humans but **the devil and spiritual forces of evil** (**Ephesians 6:12**). Our weapons are not carnal; they are spiritual—prayer, truth, righteousness, and faith (**2 Corinthians 10:4**). We are called to **love even those who hate or persecute us**, following Christ’s example, because it is better to suffer for doing what is right than to face punishment for wrongdoing (**1 Peter 2:19-21**).
+
+**III. Emulate Christ**: Believers are called to develop **His mind and attitude** (**Philippians 2:5**), reflecting humility, obedience, and love in all aspects of life.
+
+**IV. Became the Final and Perfect Sacrifice**: Through His death, Jesus fulfilled all the requirements of the Old Covenant. No more animal sacrifices or temporary rituals were needed (**Hebrews 10:10-14**). His sacrifice was **once and for all**, providing eternal reconciliation with God.
+
+**V. Conquered Sin, Death, and Satan**: Through His death and resurrection, Jesus defeated the power of sin and death, giving humanity the gift of eternal life (**1 Corinthians 15:55-57; Romans 6:9-10**). By rising victorious, He also rendered Satan powerless over those who belong to Christ, securing eternal victory for all who believe (**Colossians 2:15**).
 
 Jesus’ life, death, and resurrection provide the **ultimate model and power** for believers today—to live in obedience, to overcome sin, and to participate in God’s redemptive mission on earth.
 
@@ -370,47 +365,40 @@ Through Jesus Christ:
 
 - Believers are **no longer condemned**.
 
-  > **“There is now no condemnation for those who are in Christ Jesus.”**  
-  — *Romans 8:1*
+  > **“There is now no condemnation for those who are in Christ Jesus.”** — *Romans 8:1*
 
 - Death **loses its sting** for those who trust Him.
 
-  > **“O death, where is your sting? O Hades, where is your victory?”**  
-  — *1 Corinthians 15:55*
+  > **“O death, where is your sting? O Hades, where is your victory?”** — *1 Corinthians 15:55*
 
 - Eternal life is **secured for all who repent and believe**.
 
-  > **“Most assuredly, I say to you, he who believes in Me has everlasting life.”**  
-  — *John 6:47*
-
----
+  > **“Most assuredly, I say to you, he who believes in Me has everlasting life.”**— *John 6:47*
+  > **Blessed are the dead who die in the Lord from now on.’ ” “Yes,” says the Spirit, “that they may rest from their labors, and their works follow them.** - *Rev 14:13*
 
 ### **Salvation Is a Personal Relationship, Not Religion**
 
 Salvation is not earned by church attendance, good deeds, or rituals. It requires:
 
-1. **Repentance** – turning away from sin  
-2. **Faith** – trusting in Jesus Christ as Lord and Savior  
-3. **Submission** – making Christ the Lord of your life
+**1. Repentance** - is a turning of the heart and mind away from sin and toward God. It is more than feeling sorry for wrongdoing; it is a **change of direction**, resulting in transformed thinking, attitudes, and behavior. True repentance restores fellowship with God and leads to a life of obedience.
+**2. Faith** - is trusting God completely—believing who He is, what He has said, and what He has promised. Biblical faith is not blind optimism or mere intellectual agreement; it is **active trust** that leads to obedience. Faith connects the believer to God’s grace and is foundational to the Christian life.
+**3. Submission and surrender** - are essential responses to God’s lordship in the life of a believer. To submit is to willingly place oneself under God’s authority, and to surrender is to fully yield one’s will, desires, and life to Him. Together, they reflect a heart that trusts God completely and chooses obedience over self-rule.
+**4. Sanctification** - is the ongoing work of God by which believers are **set apart for holiness** and progressively transformed to become more like Christ. It begins at salvation and continues throughout the believer’s life as the Holy Spirit works within us to shape our character, desires, and conduct according to God’s will.
+** - 
 
-> **“If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved.”**  
-> — *Romans 10:9*
+> **“If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved.”** — *Romans 10:9*
 
 True salvation **transforms the heart, mind, and life**.
 
-> **“Therefore, if anyone is in Christ, he is a new creation; old things have passed away, behold, all things have become new.”**  
-> — *2 Corinthians 5:17*
-
----
+> **“Therefore, if anyone is in Christ, he is a new creation; old things have passed away, behold, all things have become new.”** — *2 Corinthians 5:17*
 
 ### **Christ Brings Restoration of All Three Parts of Humanity**
 
-- **Spirit:** Reconnected with God  
-- **Soul:** Redeemed and renewed in identity and purpose  
-- **Body:** Awaiting resurrection and glorification  
+- **Spirit:** Reconnected with God through salvation, brought from spiritual death to life (John 4:24; Ephesians 2:4–5).  
+- **Soul:** Being redeemed and continually renewed in identity, mind, and purpose through sanctification (Romans 12:2; 2 Corinthians 5:17).  
+- **Body:** Awaiting resurrection and glorification at Christ’s return, when mortality will be clothed with immortality (1 Corinthians 15:42–44; Philippians 3:20–21).
 
-> **“For as in Adam all die, even so in Christ all shall be made alive.”**  
-> — *1 Corinthians 15:22*
+> **“For as in Adam all die, even so in Christ all shall be made alive.”**— *1 Corinthians 15:22*
 
 Understanding God’s rescue plan through Jesus Christ clarifies:
 
@@ -420,160 +408,253 @@ Understanding God’s rescue plan through Jesus Christ clarifies:
 
 ---
 
-When you’re ready, say **“Next section”**, and we will expand **Section 5: What Happens When a Person Dies – Body, Spirit, and Soul**, integrating Scripture and clear eternal perspective.
+## **5. What Happens When a Person Dies? (Body, Spirit, and Soul)**
 
+Death is often misunderstood as the end of existence. According to the Bible, death is **not annihilation**, but **separation**—a transition from the physical realm into the spiritual and eternal realm.
 
----
+> **“It is appointed for men to die once, but after this the judgment.”** — *Hebrews 9:27*
 
-## **6. God’s Rescue Plan: Jesus Christ**
+To understand what happens at death, we must return to **God’s original design of the human being**: **body, spirit, and soul**.
 
-God did **not abandon humanity**.
+### **a) What Happens to the Body**
 
-> **“For God so loved the world that He gave His only Son.”**  
-> — *John 3:16*
+At physical death, the **body ceases to function** and returns to the earth from which it was formed.
 
-Jesus:
+> **“For dust you are, and to dust you shall return.”** — *Genesis 3:19*
 
-- **Lived a sinless life**
-- **Fulfilled the Law of Moses**
+The body is temporary and mortal. It is like a **computer’s hardware** that shuts down when power is removed.
 
-> **“I did not come to abolish the Law, but to fulfill it.”**  
-> — *Matthew 5:17*
+> **“The body without the spirit is dead.”**— *James 2:26*
 
-- **Became the final and perfect sacrifice**
+However, for believers, death is not the end. After death, we await the resurrection and glorification, when we will receive new heavenly bodies at Christ’s return.
 
-> **“By one sacrifice He has perfected forever those who are being sanctified.”**  
-> — *Hebrews 10:14*
+**Biblical support:**
 
-**No more animal sacrifices.  
-No more physical wars for righteousness.**
+> **“So also is the resurrection of the dead. The body is sown in corruption, it is raised in incorruption.”** — *1 Corinthians 15:42–44*
 
-> **“The life I now live in the body, I live by faith in the Son of God.”**  
-> — *Galatians 2:20*
+> **“The dead will be raised imperishable, and we shall be changed.”**— *1 Corinthians 15:52*
 
----
+> **“For the Lord Himself will descend from heaven… and the dead in Christ will rise first.**” — *1 Thessalonians 4:16*
 
-## **7. What Happens When a Person Dies?**
+> **“We eagerly wait for the Savior… who will transform our lowly body that it may be conformed to His glorious body.”** — *Philippians 3:20–21*
 
-### **a) The Body**
-- **Returns to dust**
+### **b) What Happens to the Spirit**
 
-### **b) The Spirit**
-- **Returns to God**
+The **spirit**—the life-giving breath that came from God—returns to Him at death.
 
-> *Ecclesiastes 12:7*
+> **“Then the dust will return to the earth as it was, and the spirit will return to God who gave it.”**— *Ecclesiastes 12:7*
 
-### **c) The Soul**
-- Goes to **one of two destinations**:
+When death occurs, God withdraws the breath of life, and physical life ends.
 
-#### **1. Heaven (for those in Christ)**
+> **“If God should set His heart upon him (man) and withdraw His (life-giving) spirit and His breath (from man) to Himself, all life would cease, and humanity would turn again to dust”** — *Job 34:14–15*
 
-> **“To be absent from the body is to be present with the Lord.”**  
-> — *2 Corinthians 5:8*
+### **c) What Happens to the Soul**
 
-> **“There is now no condemnation for those who are in Christ Jesus.”**  
-> — *Romans 8:1*
+The **soul is the person**—the conscious being who thinks, feels, remembers, and relates. The soul does **not die at physical death**; it continues consciously into eternity.
 
-#### **2. Hell (for those who reject Christ)**
+> **“Fear Him who is able to destroy both soul and body in hell.”** — *Matthew 10:28*
 
-> **“These will go away into everlasting punishment.”**  
-> — *Matthew 25:46*
+The soul faces one of **two eternal destinations**, determined by a person’s relationship with **Jesus Christ**.
 
-> **“It is appointed for men to die once, but after this the judgment.”**  
-> — *Hebrews 9:27*
+#### **The Two Destinations of the Soul**
 
----
+**1. Heaven — For Those Who Die in Christ**
 
-## **8. What About Those Who Died Before Christ?**
+For believers, death is not a loss but a **departure** into eternal life with God.
 
-Before the resurrection, there existed:
+> **“To be absent from the body is to be present with the Lord.”**— *2 Corinthians 5:8*
 
-- **A place of torment**
-- **A place of rest (Paradise / Abraham’s Bosom)**
+> **“Today you will be with Me in Paradise.”**— *Luke 23:43*
 
-> *Luke 16:19–31*
+Those who die in Christ:
 
-After His death, Christ:
+- Enter **the presence of God immediately**
+- Experience **rest, peace, and joy**
+- Are freed from sin, suffering, and earthly struggle
 
-- **Proclaimed victory over death**
-- **Preached to the spirits in prison**
+> **“Blessed are the dead who die in the Lord from now on… that they may rest from their labors, and their works follow them.”**— *Revelation 14:13*
 
-> **“He went and preached to the spirits in prison.”**  
-> — *1 Peter 3:19*
+For the believer, this state is one of **conscious fellowship with Christ**, while awaiting the future resurrection and glorification of the body at His return **(1 Thessalonians 4:16–17)**.
 
-When Christ rose, **Paradise was transferred to Heaven**.
+**2. Hell — For Those Who Reject Christ**
 
-> **“Today you will be with Me in Paradise.”**  
-> — *Luke 23:43*
+Those who die without Christ face **conscious separation from God** as a result of rejecting His truth and salvation.
 
-Now, believers **go directly to Heaven**.
+> **“These will go away into everlasting punishment.”** — *Matthew 25:46*
 
----
+Scripture describes this state as:
 
-## **9. Salvation Is Not Religion**
+- **A place of separation** from God’s presence *(Matthew 7:23; 2 Thessalonians 1:9)*  
+- **A place of suffering and torment**, resulting from judgment for sin *(Luke 16:23; Matthew 13:42)*  
+- **A temporary holding state**, awaiting final judgment *(Luke 16:26; Revelation 20:13–14)*
 
-**Church attendance does not save.**
+This condition continues until the **Great White Throne Judgment**, when final judgment is executed.
 
-> **“Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven.”**  
-> — *Matthew 7:21*
+> **“Then Death and Hades/hell were cast into the lake of fire.”** — *Revelation 20:14*
 
-Salvation requires:
+Hell ultimately represents the tragic outcome of rejecting God’s grace. The destination of the soul is **determined by choices made on earth**. People can either:
 
-- **Repentance**
-- **Faith**
-- **Submission to Christ as Lord**
+- **Choose life** by living a holy life, surrendering fully to Christ, and obeying His Word.  
+- **Choose separation from God** by living to please self, the world, or others, and continuing in sin.  
 
-> **“If you confess with your mouth that Jesus is Lord and believe in your heart… you will be saved.”**  
-> — *Romans 10:9*
+Yet Scripture consistently affirms that God’s desire is not condemnation, but **repentance and salvation**:
 
-True salvation produces **transformation**.
+> **“The Lord is not willing that any should perish, but that all should come to repentance.”** — *2 Peter 3:9*
 
-> **“If anyone is in Christ, he is a new creation.”**  
-> — *2 Corinthians 5:17*
+> **“Repent, and turn yourselves from all your transgressions, so that iniquity may not be your ruin.”**— *Ezekiel 18:30*
+
+God’s invitation is clear: salvation is offered freely through Jesus Christ, but it must be received through faith, surrender, and obedience.
 
 ---
 
-## **10. Warning Against False Hope**
+## **6. What About Those Who Died Before Christ? Judgment, Mercy, and Justice**
 
-Salvation is **not obtained by**:
+A common question arises: *What happened to people who lived and died before Jesus Christ came to earth?* The Bible provides clear insight into **God’s justice, mercy, and provision** for all humanity across time.
 
-- **Seed offerings**
-- **Holy water**
-- **Rituals**
-- **Communion without repentance**
+### **A Place of Rest and a Place of Torment**
 
-> **“The just shall live by faith.”**  
-> — *Romans 1:17*
+Before Christ’s death and resurrection, the souls of the dead went to one of two locations:
 
-> **“Silver and gold I do not have, but what I have I give you.”**  
-> — *Acts 3:6*
+1. **Paradise (Abraham’s Bosom) – The Righteous**
+
+   - A place of comfort and peace for those who trusted God  
+   - Not yet Heaven, but a temporary resting place  
+   
+   > **“Now he cried and said, ‘Father Abraham, have mercy on me, and send Lazarus that he may dip the tip of his finger in water and cool my tongue; for I am tormented in this flame.’”** — *Luke 16:24–25*
+
+2. **Place of Torment – The Unrighteous**
+
+   - A place of conscious suffering and torment for the wicked  
+   - A temporary holding place until final judgment
+
+> **“The rich man also died and was buried, and being in torments in Hades, he lifted up his eyes…”** — *Luke 16:22–23*
+
+Even before Christ, **God’s justice and holiness were maintained**, ensuring no one escaped the consequences of sin.
+
+### **Christ’s Victory Over Death**
+
+When Jesus died on the cross, He **opened the way for eternal life** for all who believe in Him. His resurrection not only conquered physical death but also transformed the spiritual realm.
+
+- He **descended to the spirits in prison** to proclaim the gospel to those who had died in disobedience:  
+
+> **“He went and preached to the spirits in prison (hell), who formerly did not obey.”** — *1 Peter 3:19–20*
+
+- This act demonstrates that **God’s mercy extends to all**, leaving no one without opportunity to hear the message of salvation.  
+
+> **“That repentance and forgiveness of sins should be proclaimed in His name to all nations, beginning at Jerusalem.”** — *Luke 24:47*
+
+Through His death and resurrection, Jesus **defeated sin, death, and the power of the devil**, securing eternal life for all who put their trust in Him.
+
+### **Paradise Became Heaven**
+
+After Christ’s resurrection:
+
+- The righteous dead now enter **Heaven immediately** upon death  
+- The promise of being with God is now **assured for all believers**  
+
+> **“Today you will be with Me in Paradise.”** — *Luke 23:43*
+
+Christ’s victory ensures that the **souls of believers are no longer in a temporary holding place**, but in eternal fellowship with God.
 
 ---
 
-## **11. The Urgency of Today**
+## **Final Call: A Message to All People**
 
-There is **no neutral ground**.
+This message is not only for unbelievers—it is also for **lukewarm believers**, those who **confess Christ with their lips but live in secret sin**, assuming they will still see God after death. It is also for those who have **never truly given their lives to Christ**, who may follow their parents or friends to church, attend services, or participate in religious activities, but **have never sincerely confessed their sins or surrendered their lives to Jesus as Lord and Savior**. Many deceive themselves, thinking they are righteous because they “go to church,” yet they have **never repented, accepted Christ, or allowed Him to transform their hearts**. Scripture is clear: **God is not mocked**, and **eternity is not negotiable after death**.  
 
-> **“Whoever is not with Me is against Me.”**  
-> — *Matthew 12:30*
+> **“Do not be deceived: God cannot be mocked. A man reaps what he sows.”** — *Galatians 6:7*
 
-> **“Today, if you hear His voice, do not harden your hearts.”**  
-> — *Hebrews 3:15*
+### **The Danger of Delaying Repentance**
 
----
+Many say, *“I will enjoy life first, and then surrender to God.”* This is a dangerous lie from the enemy. **Tomorrow is not guaranteed**, and no one knows the hour of their death or the return of Christ.
 
-## **Conclusion: The Final Call**
+> **“Boast not yourself of tomorrow, for you do not know what a day may bring forth.”** — *Proverbs 27:1*
 
-Every human being will:
+> **“Watch therefore, for you do not know the day or the hour.”** — *Matthew 25:13*
 
-- **Live**
-- **Die**
-- **Face eternity**
+Death or the return of Jesus can come **at any moment**. When it does, there will be **no second chance, no negotiation, and no excuses**. Those who delay may find themselves **separated from God eternally**.
 
-> **“What shall it profit a man if he gains the whole world, and loses his soul?”**  
-> — *Mark 8:36*
+### **God’s Patience and the Window of Grace**
 
-God is calling humanity back to **relationship**, **repentance**, and **eternal life through Christ**.
+God is infinitely patient and merciful. His patience gives those living in sin time to repent.
 
-> **“Behold, now is the day of salvation.”**  
-> — *2 Corinthians 6:2*
+> **“The Lord is not slow concerning His promise… but is patient toward you, not willing that any should perish, but that all should come to repentance.”** — *2 Peter 3:9*
+
+But God’s grace is **not endless** for those who continue in **sin without repentance**. His patience is designed to lead us to turn from **wickedness**, but when the **appointed time of mercy ends**, judgment will come without delay. No one who lives in sin—whether openly or in secret—can escape the **righteous judgment** of God.
+
+> **“It is appointed for men to die once, and after this comes judgment.”** — *Hebrews 9:27*
+
+> **“Because judgment without mercy will be shown to the one who has not been merciful. Mercy triumphs over judgment.”** — *James 2:13*
+
+> **“The wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.”** — *Romans 6:23*
+
+### **The Urgency of Today**
+
+Salvation is **available right now**. God is calling **all people** to **repentance, surrender and holiness** now, not tomorrow, because clinging to secret sin keeps your soul under the power of death and the enemy.
+
+- Do not harden your heart  
+- Do not delay leaving the comfort of indulgence and hidden sins.
+- Do not rely on church attendance, rituals, or religious activity as a ticket to Heaven  
+
+> **“Today, if you hear His voice, do not harden your hearts.”** — *Hebrews 3:15*
+
+> **“Choose this day whom you will serve… but as for me and my house, we will serve the Lord.”** — *Joshua 24:15*
+
+> **“Repent therefore, and turn back, that your sins may be blotted out.”** — *Acts 3:19*
+
+> **“Remove the evil deed from your midst; do not let it live in your secret thoughts.”** — *Ezekiel 18:31*
+
+> **“How long will you love darkness instead of light?”** — *John 3:19*
+
+The decision is **yours to make today**. Do not wait another moment.
+
+### **The Choice of Eternal Life or Separation**
+
+- Those who accept Christ and live in **holiness** are **secure in His hands**. Death has no power over them.
+
+> **“Precious in the sight of the Lord is the death of His saints.”** — *Psalm 116:15*  
+
+> **“I am the resurrection and the life. He who believes in Me, though he may die, he shall live.”** — *John 11:25*
+
+- Those who reject Christ, continue in sin, or live in **secret sin** without repentance will face **eternal separation from God**.  
+
+> **“These will go away into everlasting punishment, but the righteous into eternal life.”** — *Matthew 25:46*
+
+### **A Loving Yet Urgent Appeal**
+
+This is a message of **love, warning, and hope**. God’s heart longs for all to come to salvation.
+
+> **“Behold, now is the accepted time; behold, now is the day of salvation.”** — *2 Corinthians 6:2*
+
+**Do not delay.**  
+**Do not gamble with eternity.**  
+**Do not assume tomorrow will come.**  
+
+- **Confess your sins today**  
+- **Accept Jesus Christ as Lord and Savior today**  
+- **Surrender fully and allow Him to transform your life today**
+
+> **“What shall it profit a man if he gains the whole world, and loses his soul?”** — *Mark 8:36*
+
+Your life and eternity are in your hands. Make the choice for **life, forgiveness, and eternal fellowship with God**—**now**.
+
+## Prayer of Confession and Repentance
+
+**Heavenly Father,**
+
+I come to You today with a humble and contrite heart. I acknowledge that I am a sinner and have sinned against You in thought, word, and deed. I have followed my own ways, lived in disobedience, and pursued things that are contrary to Your will.  
+Lord Jesus, I confess my sins before You. I repent of my sins, both those I know and those I may have hidden in my heart. Forgive me for the times I have **lived in secret sin**, indulged my desires, or **hardened my heart against You**.  
+
+I believe that You, Jesus, **died on the cross for my sins, were buried, and rose again on the third day** so that I could be forgiven and have eternal life. I accept You now as **my Lord and Savior**. I surrender my life to You completely. Lord, I invite You to **take full control of my life**. Transform my mind, heart, and soul. Help me to **turn away from sin, live in holiness, and follow Your will all the days of my life**. 
+
+Give me the power to **walk in obedience** and to **love You with all my heart, soul, mind, and strength**. Thank You, Jesus, for saving me, forgiving my sins, and giving me **eternal life**. I receive Your **grace, Your mercy, and Your Spirit** to guide me every day. I declare that from this moment, **I belong to You**, and I will **serve You faithfully**. **In Jesus’ mighty and precious name, I pray.** 
+**Amen.**
+
+> “For all have sinned and fall short of the glory of God.” — *Romans 3:23*
+
+> “If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.” — *1 John 1:9*
+
+> “If you confess with your mouth that Jesus is Lord and believe in your heart that God raised Him from the dead, you will be saved.” — *Romans 10:9*
+
+> “Create in me a clean heart, O God, and renew a right spirit within me.” — *Psalm 51:10*
+
