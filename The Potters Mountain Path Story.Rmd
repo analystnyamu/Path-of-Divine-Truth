@@ -1,0 +1,345 @@
+---
+title: 'The Potter''s Mountain Path: A Moral Story'
+author: "Martin N. Wanjiru"
+date: "2026-06-10"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## A Story About God's Training of His Chosen Vessels
+
+### The Beginning
+
+There was once a young man named Eliab who lived in a dark valley called Iron Hollow.
+
+The people of Iron Hollow were born into slavery. They worked day and night under a cruel master known as Lord Ironhand. The people had forgotten what freedom felt like. They had become accustomed to fear, bitterness, complaining, jealousy, and selfishness.
+
+Even though many hated their slavery, they had learned the habits of slaves.
+
+One day, a messenger from the Great King arrived in the valley.
+
+He announced:
+
+> "The King has heard your cries. He has come to deliver you. Leave this place and follow the path to the King's City beyond the mountains."
+
+Many rejoiced.
+
+Among them was Eliab.
+
+With great excitement, they left Iron Hollow and began their journey toward the King's City.
+
+But what they did not know was that the King would first lead them through the Wilderness of Refining.
+
+---
+
+### The Unexpected Road
+
+After several days, some travelers became confused.
+
+One man asked:
+
+> "Why are we still walking through this barren land?"
+
+Another complained:
+
+> "If the King loves us, why didn't He take us straight to the City?"
+
+Others murmured:
+
+> "Life was hard in Iron Hollow, but at least we knew what to expect."
+
+Eliab also wondered the same thing.
+
+The journey seemed difficult.
+
+There were steep hills, scorching days, cold nights, and many trials.
+
+One evening, as Eliab sat alone, an old servant of the King approached him.
+
+The servant asked:
+
+> "Why are you troubled?"
+
+Eliab replied:
+
+> "The King rescued us. Why then must we suffer? Why did He not bring us directly into His City?"
+
+The old servant smiled gently.
+
+> "Because you have left Iron Hollow, but Iron Hollow has not yet left you."
+
+Eliab did not understand.
+
+---
+
+### The Hidden Chains
+
+The next morning, the servant handed Eliab a polished mirror.
+
+"Look carefully," he said.
+
+As Eliab looked, he saw something shocking.
+
+Though his feet were free, invisible chains still hung around his heart.
+
+One chain was called Pride.
+
+Another was called Anger.
+
+Another was called Unforgiveness.
+
+Others were named Fear, Lust, Self-Will, and Doubt.
+
+Eliab gasped.
+
+> "I thought I was free!"
+
+The servant nodded.
+
+> "Your body left slavery, but your heart still carries the habits of slavery."
+
+Then he added:
+
+> "The King is not merely bringing you out of Iron Hollow. He is preparing you to live in His City."
+
+---
+
+### The Furnace of the King
+
+Days became months.
+
+Months became years.
+
+As Eliab continued the journey, the King allowed him to face many difficult situations.
+
+When he was insulted, the King revealed his anger.
+
+When he was rejected, the King revealed his pride.
+
+When he was treated unfairly, the King exposed his unforgiveness.
+
+Each trial brought hidden impurities to the surface.
+
+At times Eliab cried out:
+
+> "King, why is this happening to me?"
+
+And the King would answer:
+
+> "Because I love you too much to leave you as you are."
+
+One day the King took Eliab to a goldsmith's workshop.
+
+There he watched raw gold being placed into a blazing furnace.
+
+The fire became hotter and hotter.
+
+Eliab asked:
+
+> "Why does the goldsmith burn the gold?"
+
+The goldsmith replied:
+
+> "Because the fire reveals what does not belong in it."
+
+As Eliab watched, dark impurities rose to the surface and were removed.
+
+Then the goldsmith said:
+
+> "The gold is ready when I can see my reflection in it."
+
+Immediately Eliab understood.
+
+The King's purpose was not to destroy him.
+
+The King's purpose was to make His own image visible within him.
+
+---
+
+### Two Groups in the Wilderness
+
+As years passed, two kinds of travelers emerged.
+
+The first group constantly complained.
+
+Whenever they faced hardship, they blamed the King.
+
+Whenever correction came, they resisted.
+
+Whenever truth exposed their sins, they hardened their hearts.
+
+They wanted the King's blessings but not His transformation.
+
+The second group humbled themselves.
+
+When corrected, they repented.
+
+When tested, they prayed.
+
+When disciplined, they trusted.
+
+Among these faithful travelers were two brothers named Joshua and Caleb.
+
+Whenever others complained, Joshua and Caleb reminded them:
+
+> "The King knows where He is leading us."
+
+> "Every trial has a purpose."
+
+> "Trust the King."
+
+Many laughed at them.
+
+Others mocked them.
+
+Yet they continued to follow.
+
+---
+
+### The Great Tragedy
+
+Years passed.
+
+Many who left Iron Hollow never reached the King's City.
+
+Not because the King lacked power.
+
+Not because the City did not exist.
+
+But because they refused to let the King transform them.
+
+Their hearts remained stubborn.
+
+They continued carrying the chains they refused to surrender.
+
+Eventually their journey ended in the wilderness.
+
+Eliab was saddened by what he saw.
+
+He realized that deliverance from slavery was only the beginning.
+
+The King desired complete surrender.
+
+---
+
+### The Final Climb
+
+One day Eliab reached the foot of the final mountain.
+
+Looking back, he remembered all the trials.
+
+The disappointments.
+
+The tears.
+
+The waiting.
+
+The correction.
+
+The painful lessons.
+
+At last he understood.
+
+Every hardship had served a purpose.
+
+The wilderness had removed what would have destroyed him in the King's City.
+
+The fire had purified him.
+
+The valleys had humbled him.
+
+The storms had taught him dependence.
+
+The waiting had taught him patience.
+
+The battles had taught him faith.
+
+The King had been preparing him all along.
+
+---
+
+### The King's City
+
+When Eliab finally entered the King's City, he saw the King seated on His throne.
+
+The King looked upon him with joy.
+
+Then the King spoke:
+
+> "My son, the wilderness was never meant to destroy you."
+
+> "It was meant to prepare you."
+
+> "I delivered you from slavery, but I also desired to remove slavery from within you."
+
+> "Every trial was an act of My love."
+
+> "Every fire was part of your purification."
+
+> "Every delay was part of your preparation."
+
+Eliab fell to his knees in worship.
+
+At that moment he realized that the King's greatest gift was not merely bringing him into the City.
+
+The greatest gift was becoming the kind of person who could dwell with the King forever.
+
+---
+
+## Moral of the Story
+
+Many believers ask:
+
+> "Lord, why am I going through this?"
+
+Often, the wilderness is not a sign that God has abandoned us.
+
+It may be evidence that He is preparing us.
+
+Just as Israel was delivered from Egypt but needed to be purified in the wilderness, God often delivers His children from sin and then begins the work of transformation.
+
+The wilderness reveals what is hidden in the heart.
+
+The fire removes impurities.
+
+The trials teach obedience.
+
+The waiting develops faith.
+
+The suffering produces endurance.
+
+The correction produces holiness.
+
+Some remain in the wilderness for years because they resist God's work.
+
+Others surrender, repent, trust, and allow the Holy Spirit to lead them.
+
+Like Joshua and Caleb, they eventually enter the promises God has prepared for them.
+
+Therefore, do not complain when God is refining you.
+
+Gold must pass through fire before it shines.
+
+A vessel must be shaped before it is useful.
+
+A servant must be trained before being entrusted with great responsibility.
+
+Trust the Lord in every season.
+
+For He has promised:
+
+> "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned." (Isaiah 43:2)
+
+And remember:
+
+> "All things work together for good to them that love God, to them who are the called according to his purpose." (Romans 8:28)
+
+The wilderness is not your destination.
+
+It is God's training ground for His vessels of honor.

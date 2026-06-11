@@ -1,0 +1,95 @@
+---
+title: 'Moral Story: The Broken Seed'
+author: "Martin N. Wanjiru"
+date: "2026-06-08"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+In a small village nestled between rolling hills lived a young farmer named Daniel. He loved God with all his heart and dreamed of one day owning the most fruitful farm in the region.
+
+Every morning before sunrise, Daniel would kneel beside his bed and pray.
+
+"Lord, guide my steps. Let my life bring You glory."
+
+One year, after months of hard work, Daniel planted his finest seeds. The rains came on time, and the crops began to grow beautifully. The villagers admired his fields and said he would surely have the best harvest.
+
+But one night, a violent storm swept through the village.
+
+Thunder shook the earth. Fierce winds tore across the fields. By morning, Daniel's crops lay flattened and ruined.
+
+His heart sank.
+
+"Why, Lord?" he whispered as tears filled his eyes. "I worked so hard. You could have stopped this."
+
+Days turned into weeks. With no harvest, Daniel struggled to survive. Some villagers mocked him.
+
+"Where is your God now?" they asked.
+
+Though confused and hurt, Daniel continued praying.
+
+"I don't understand, Lord, but I trust You."
+
+One afternoon, while clearing the ruined field, Daniel noticed something unusual. The storm had exposed a hidden spring beneath the ground. Water flowed steadily through his land.
+
+The village had often suffered droughts, and water was becoming scarce. Soon, neighboring farmers came asking if they could draw water from the spring.
+
+Daniel welcomed them.
+
+As months passed, the spring transformed the entire area. Farmers who once faced crop failures now enjoyed healthy harvests. Families had clean water. Animals thrived.
+
+The village prospered.
+
+One evening, an elderly traveler stopped by Daniel's farm.
+
+"I heard about the spring," the traveler said. "Do you know how rare such a blessing is?"
+
+Daniel smiled softly.
+
+"It came through a storm."
+
+Years later, another challenge arose. A severe drought struck the region. Fields everywhere withered under the scorching sun.
+
+But Daniel's farm remained green.
+
+The spring never stopped flowing.
+
+Because of the water, Daniel was able to feed not only his family but also hundreds of hungry villagers. No one in the village went hungry during the drought.
+
+One night, as Daniel stood beside the spring, he remembered the day he had cried among the destroyed crops.
+
+At last he understood.
+
+If the storm had never come, the spring would have remained buried.
+
+The very thing that seemed to be his greatest loss had become the source of blessing for many people.
+
+Falling to his knees, Daniel prayed,
+
+"Lord, what the enemy meant to destroy, You used to save. What I called a disaster, You turned into a testimony."
+
+A gentle peace filled his heart.
+
+From that day forward, whenever someone faced hardship, Daniel would tell them:
+
+"Do not judge God's plan by a single chapter. The seed must break before it grows. The night must come before the dawn. Trust the One who sees the end from the beginning."
+
+And many who heard his story began seeking God for themselves.
+
+Some gave their lives to Christ.
+
+Others found strength to continue through their trials.
+
+For they learned that God's purposes are often hidden beneath the soil of suffering, waiting for the right season to bloom.
+
+### Moral
+
+When we love God and place our trust in Him, no pain, loss, disappointment, or attack is wasted. The enemy may intend harm, but God can transform even the darkest circumstances into blessings that reveal His glory. Trust Him in every season, because He is working for good even when you cannot yet see it.
+
+A story by **Martin N. W.**
