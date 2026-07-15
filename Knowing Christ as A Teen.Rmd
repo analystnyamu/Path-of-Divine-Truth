@@ -1,0 +1,217 @@
+---
+title: "KNOWING CHRIST IN YOUR TEENAGE YEARS"
+author: "Martin N. Wanjiru"
+date: "2026-07-05"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## **Theme:** *Don't Wait Until Tomorrow—Know Jesus Today*
+
+**Main Scripture:** Ecclesiastes 12:1
+
+> *"Remember now your Creator in the days of your youth, before the difficult days come."*
+
+### Introduction
+
+Being a teenager is one of the most important seasons of life. It is a time of learning, making friends, discovering talents, making decisions, and preparing for the future. It is also a time when many voices compete for your attention. Friends, social media, entertainment, school, and the world all try to tell you who you should be.
+
+Sadly, many young people think they have plenty of time to seek God. Some say, "I will follow Jesus when I finish school." Others say, "I want to enjoy life first." But the Bible teaches that the best time to know Christ is during your youth.
+
+God is not waiting for you to become an adult before He can use you. He is calling you today.
+
+## 1. Jesus Loves Teenagers
+
+Many teenagers wonder if they matter to God. The answer is yes.
+
+Jesus loves you just as much as He loves adults. He knows your name, your struggles, your fears, your dreams, and your future.
+
+He understands:
+
+* The pressure to fit in.
+* The temptation to follow the crowd.
+* The fear of being rejected.
+* The struggle with identity.
+* The questions about your future.
+
+Jesus is inviting you into a personal relationship with Him.
+
+**John 15:15**
+
+> "I have called you friends."
+
+Imagine that—the King of kings wants you to be His friend.
+
+## 2. Your Teenage Years Shape Your Future
+
+The decisions you make today will influence the rest of your life.
+
+The friends you choose...
+The habits you build...
+The words you speak...
+The websites you visit...
+The music you listen to...
+The people you admire...
+
+All of these shape the person you are becoming.
+
+Proverbs 22:6 teaches that the direction of your youth often becomes the direction of your adulthood.
+
+If Christ becomes the foundation of your life now, He will guide your future.
+
+## 3. Don't Follow the Crowd
+
+Many teenagers think:
+
+* "Everyone is doing it."
+* "Everyone cheats."
+* "Everyone is dating."
+* "Everyone drinks."
+* "Everyone watches it."
+* "Everyone talks like that."
+
+But God never tells His children to follow the crowd.
+
+**Romans 12:2**
+
+> "Do not be conformed to this world, but be transformed by the renewing of your mind."
+
+Being different for Christ is not something to be ashamed of. It is something to be proud of.
+
+Daniel stood alone.
+Joseph stood alone.
+Esther stood alone.
+
+God honored every one of them.
+
+Sometimes standing for Jesus may cost you popularity, but it will never cost you God's favor.
+
+## 4. God Can Use You While You Are Young
+
+Many people think they are too young to serve God.
+
+The Bible says otherwise.
+
+Samuel heard God's voice while he was still a boy.
+
+David defeated Goliath while he was still young.
+
+Josiah began seeking God as a teenager.
+
+Timothy became a respected servant of Christ while he was still young.
+
+Paul told Timothy:
+
+**1 Timothy 4:12**
+
+> "Let no one despise your youth, but be an example..."
+
+You do not have to wait until you are older to make a difference.
+
+You can preach.
+You can sing.
+You can pray.
+You can encourage others.
+You can lead people to Christ.
+You can live a holy life.
+
+## 5. Sin Promises Happiness but Brings Pain
+
+The world often tells teenagers:
+
+"Do whatever makes you happy."
+
+But sin always hides its consequences.
+
+One wrong choice can bring years of regret.
+
+Sin may look exciting at first, but it separates us from God and leads to guilt, broken relationships, and spiritual emptiness.
+
+Jesus did not come to take away your joy.
+
+He came to give you true joy.
+
+**John 10:10**
+
+> "I have come that they may have life, and have it more abundantly."
+
+## 6. Jesus Wants Your Heart Today
+
+Jesus is not asking you to become perfect before coming to Him.
+
+He is asking you to come as you are.
+
+No matter your past...
+No matter your mistakes...
+No matter your struggles...
+
+Jesus is ready to forgive you.
+
+He died on the cross because He loves you.
+
+He rose again so that you could have eternal life.
+
+When you trust Him, He gives you:
+
+* Forgiveness.
+* Peace.
+* Purpose.
+* Hope.
+* Eternal life.
+
+## 7. Don't Wait Until You Are Older
+
+Many people planned to serve God later.
+
+Some never had the chance.
+
+The Bible says:
+
+**2 Corinthians 6:2**
+
+> "Now is the accepted time; behold, now is the day of salvation."
+
+Tomorrow is not promised.
+
+If Jesus is calling you today, do not harden your heart.
+
+## Conclusion
+
+Dear teenager,
+
+The world may tell you that you need popularity.
+
+Jesus says you need salvation.
+
+The world says, "Follow your heart."
+
+Jesus says, "Follow Me."
+
+The world offers temporary pleasure.
+
+Jesus offers eternal life.
+
+Your teenage years are not too early to know Christ—they are the perfect time.
+
+The greatest decision you will ever make is not what career you choose, what school you attend, or where you will live.
+
+The greatest decision is whether you will know Jesus Christ personally.
+
+Choose Him today, and He will walk with you for the rest of your life and into eternity.
+
+## Call to Commitment
+
+Ask yourself these questions:
+
+* Is Jesus truly the Lord of my life?
+* Am I following Christ or simply following the crowd?
+* What is keeping me from giving my whole heart to Jesus?
+* If Christ returned today, would I be ready to meet Him?
+
+Today, Jesus is calling you. Open your heart to Him, repent of your sins, believe in Him, and choose to follow Him faithfully. The best decision you can make as a teenager is to know Christ now and walk with Him every day of your life.
