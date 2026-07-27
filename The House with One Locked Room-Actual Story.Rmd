@@ -1,0 +1,224 @@
+---
+title: "The House with One Locked Room"
+author: "Martin N. Wanjiru"
+date: "2026-07-16"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A Moral Story of Complete Surrender to Christ
+
+A man inherited a beautiful mansion. It stood on a quiet hill overlooking the countryside, with spacious halls, elegant rooms, and strong foundations. It was everything he had ever dreamed of owning.
+
+One day, realizing that a house was only truly a home when Christ was present, he invited Jesus to come and live with him.
+
+Jesus gladly accepted the invitation.
+
+As they walked through the mansion together, the man joyfully opened the first door.
+
+"This is my living room, Lord. It is Yours."
+
+They spent many wonderful hours there in fellowship, conversation, and peace.
+
+Next, they entered the dining room.
+
+"Lord, this room also belongs to You. May every meal and every moment shared here honor You."
+
+Jesus smiled.
+
+Then they walked into the study.
+
+"My work, my plans, my talents, and my knowledge are Yours as well."
+
+One by one, the man handed over every room in the house. Even the guest rooms were dedicated to Christ.
+
+But as they reached the end of a long, dimly lit hallway, they stopped before a small wooden door.
+
+The man instinctively placed his hand over the key in his pocket.
+
+Jesus looked at him gently.
+
+"What is behind this door?" He asked.
+
+The man hesitated before answering.
+
+"Lord... You may have every room except this one."
+
+"And why not this room?"
+
+The man lowered his head.
+
+"This room contains my private desires, my secret habits, my hidden thoughts, and the things I am ashamed for anyone to see. I would rather keep it locked."
+
+Jesus did not argue.
+
+He did not force the door open.
+
+Instead, He quietly said,
+
+> **"If I do not have that room, I do not truly have the house."**
+
+The words settled deeply into the man's heart, but he was not yet ready to surrender.
+
+---
+
+## The Battle at the Door
+
+One night, a loud knock echoed through the mansion.
+
+**Bang! Bang! Bang!**
+
+Someone was at the front door.
+
+The man looked through the window and immediately recognized the visitor.
+
+It was the devil.
+
+Without thinking, the man rushed to the door himself.
+
+He tried to resist.
+
+He struggled with all his strength.
+
+After a long and exhausting fight, he barely managed to force the door shut.
+
+Bruised and weary, he collapsed to the floor.
+
+The following night, the knocking returned.
+
+This time it was louder.
+
+The battle became harder.
+
+Again the man fought alone.
+
+Again he was wounded.
+
+Night after night the same struggle continued.
+
+The enemy kept returning, and each battle left the man weaker than before.
+
+Finally, exhausted and broken, he fell at Jesus' feet.
+
+"Lord," he cried, "why do I keep losing these battles?"
+
+Jesus looked at him with compassion and asked,
+
+> **"Who owns this house?"**
+
+The man hesitated before replying,
+
+"Well... most of it belongs to You."
+
+Jesus answered,
+
+> **"That is the problem. As long as part of this house belongs to you, the enemy will always find a place from which to challenge you. Give Me the whole house—including the room you have kept locked."**
+
+---
+
+## The Surrender
+
+The man reached into his pocket.
+
+His hand trembled as he held the small key.
+
+Tears filled his eyes.
+
+At last he placed the key into Jesus' hands.
+
+"Lord...
+
+Every room is Yours now.
+
+Nothing hidden.
+
+Nothing reserved.
+
+Nothing kept back.
+
+The whole house belongs to You."
+
+Jesus unlocked the small room.
+
+Light flooded into the darkness.
+
+Everything hidden was exposed.
+
+Everything dirty was cleansed.
+
+Everything broken began to be restored.
+
+From that day forward, Jesus was no longer simply a Guest.
+
+He became the rightful Owner of the house.
+
+---
+
+## The Final Knock
+
+Some time later, another knock came at the front door.
+
+The man heard it.
+
+He recognized the voice outside.
+
+The devil had returned.
+
+But this time, the man did not rush to answer the door.
+
+He simply stood still.
+
+Jesus calmly walked to the entrance.
+
+He opened the door Himself.
+
+The moment the devil saw who stood before him, he trembled.
+
+Without saying another word, he turned and fled.
+
+The battle was over before it even began.
+
+---
+
+# The Lesson
+
+That day the man learned a life-changing truth:
+
+**Jesus cannot fully protect what we refuse to fully surrender.**
+
+As long as Christ is only a visitor in our lives, we will continue trying to fight temptations, struggles, and spiritual battles in our own strength.
+
+But when Christ becomes Lord of every room—our thoughts, desires, emotions, habits, ambitions, memories, and secret places—He stands at the door on our behalf.
+
+Victory does not come because temptation disappears.
+
+Victory comes because Christ reigns.
+
+---
+
+## Scriptures
+
+> **"Neither give place to the devil."**
+> **— Ephesians 4:27**
+
+> **"I have been crucified with Christ; it is no longer I who live, but Christ lives in me."**
+> **— Galatians 2:20**
+
+---
+
+# Final Reflection
+
+The goal of the Christian life is not merely to invite Jesus into a few rooms of our hearts while reserving others for ourselves.
+
+It is to hand Him the title deed of the entire house.
+
+When every room belongs to Him, every door comes under His authority.
+
+Then, when temptation comes knocking, it is no longer we who answer the door.
+
+**It is Christ Himself.**

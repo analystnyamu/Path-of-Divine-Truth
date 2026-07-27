@@ -1,0 +1,183 @@
+---
+title: "The House with One Locked Room"
+author: "Martin N. Wanjiru"
+date: "2026-07-16"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## A Moral Story of Complete Surrender to Christ
+
+Samuel had followed Christ for many years.
+
+To everyone around him, he appeared to be a devoted Christian. He faithfully attended church every Sunday, led Bible study in his neighborhood, and was always willing to pray for those in need. His friends admired his discipline, and many young believers looked up to him as an example of faith.
+
+Yet behind the smile that everyone saw was a battle no one knew.
+
+Every night, after his family had gone to bed, Samuel found himself fighting the same temptations. He would pray, repent, promise God that he would never fall again, and sincerely mean every word. But before long, he would find himself back in the same place, carrying the same guilt and asking the same question:
+
+> "Lord, why can't I overcome this?"
+
+The more he struggled, the more discouraged he became. He loved Jesus, yet he felt as though he was constantly losing a war inside his own heart.
+
+One evening, after another painful failure, Samuel knelt beside his bed and cried out to God.
+
+"Lord, I have given You my life. Why do I still feel defeated?"
+
+As he prayed, a picture formed in his mind.
+
+He saw his life as a large house.
+
+Jesus stood at the entrance, and Samuel joyfully welcomed Him inside.
+
+He walked with the Lord through the house.
+
+"This is my living room," Samuel said. "It is Yours."
+
+Jesus smiled.
+
+They entered another room.
+
+"This is my dining room, where I spend time with my family. It also belongs to You."
+
+Again, Jesus smiled.
+
+They walked into the study.
+
+"My work, my ministry, my talents—they are Yours as well."
+
+Room after room, Samuel gladly handed over every part of the house.
+
+But as they approached the end of a long hallway, Samuel quietly stopped.
+
+There was one small wooden door.
+
+It was locked.
+
+Jesus looked at it, then looked gently at Samuel.
+
+"What is in this room?" He asked.
+
+Samuel lowered his eyes.
+
+"Lord... this room is private."
+
+"What do you keep there?"
+
+"My hidden desires... my secret habits... the memories I cannot let go of... the unforgiveness I still carry... the thoughts I entertain when no one is watching."
+
+He held the key tightly in his hand.
+
+"I want You in every other room, Lord—but not this one."
+
+Jesus did not force the door open.
+
+He simply said,
+
+> "Samuel, if you keep one room for yourself, you have not truly given Me the house."
+
+The vision faded, but the words remained in Samuel's heart.
+
+Several days later, temptation returned stronger than ever.
+
+It felt like someone was pounding on the front door of his house.
+
+Without thinking, Samuel rushed to answer it himself.
+
+He argued.
+
+He resisted.
+
+He fought with all his strength.
+
+By the end of the battle, he was exhausted once again.
+
+That night, he remembered the vision.
+
+With tears in his eyes, he prayed,
+
+"Lord Jesus, I understand now. I have asked You to live in my house, but I have never made You its Owner."
+
+He imagined placing the small key into Christ's hands.
+
+"Every room belongs to You now—even the one I was ashamed to open."
+
+In his heart, he watched Jesus unlock the hidden room.
+
+The darkness disappeared as His light filled every corner.
+
+Nothing remained hidden.
+
+Nothing remained chained.
+
+Nothing remained outside His authority.
+
+The following weeks were not free from temptation.
+
+The enemy still came knocking.
+
+But something had changed.
+
+Samuel no longer ran to answer the door himself.
+
+Instead, he learned to remain in Christ.
+
+Whenever temptation came, he turned immediately to prayer and Scripture instead of relying on his own strength.
+
+The battles that once overwhelmed him began to lose their power.
+
+One day, as he reflected on what God had done in his life, he realized an important truth:
+
+The greatest victory did not begin when temptation stopped knocking.
+
+It began when Jesus became Lord of every room.
+
+---
+
+# The Lesson
+
+Many believers sincerely love Christ but unknowingly keep one room locked.
+
+It may be a hidden sin.
+
+A wounded heart.
+
+Pride.
+
+Fear.
+
+Bitterness.
+
+An unhealthy relationship.
+
+Secret ambitions.
+
+Private pleasures.
+
+Or thoughts that have never been surrendered to God.
+
+We often ask Jesus to bless our lives while withholding the very place where He wants to reign.
+
+But Christ does not desire to be merely a Guest in our hearts.
+
+He desires to be the Owner.
+
+When we surrender every room—our thoughts, emotions, desires, memories, plans, and ambitions—we stop fighting alone. The One who conquered sin and death begins to rule every part of our lives.
+
+The Christian life is not about giving Jesus access to most of our heart.
+
+It is about giving Him the key to all of it.
+
+> "My son, give me your heart." — Proverbs 23:26
+
+> "That Christ may dwell in your hearts through faith." — Ephesians 3:17
+
+> "I have been crucified with Christ and I no longer live, but Christ lives in me." — Galatians 2:20
+
+**When Christ owns the whole house, the heart becomes His dwelling place, and the living water He promised begins to flow freely from within.**
