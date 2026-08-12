@@ -1,0 +1,506 @@
+---
+title: "Untitled"
+author: "Martin N. Wanjiru"
+date: "2026-07-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# The God Who Never Fails
+## My Journey of Faith, Waiting, and the Fulfillment of God's Promises
+
+> **Theme Verse**
+>
+> *"Not one of all the LORD's good promises to Israel failed; every one was fulfilled."*  
+> **— Joshua 21:45**
+
+---
+
+# Book Purpose
+
+This book is not about an extraordinary man.
+
+It is about an extraordinary God.
+
+Many books tell the story of human achievement. This book tells the story of the faithfulness of God. It is the testimony of a God who never forgets His promises, never abandons those who trust Him, and never arrives too late. Every chapter bears witness to one unchanging truth:
+
+> **God never fails those who trust Him, obey His Word, and patiently wait for His appointed time.**
+
+Throughout my life, I have seen God's hand guiding me in ways I could never have imagined. From childhood, through seasons of uncertainty, loneliness, waiting, spiritual battles, marriage, parenthood, and countless answered prayers, I have learned that the Lord is faithful. Even when I could not understand His ways, He was preparing my future.
+
+This book is my testimony, but above all, it is God's story.
+
+My prayer is that every reader will discover that the same God who wrote my story is still writing theirs.
+
+---
+
+# Central Message
+
+The hero of this book is **Jesus Christ**.
+
+Every chapter points to His faithfulness, His wisdom, His love, His discipline, His provision, and His perfect timing.
+
+This is not a story about how strong I was.
+
+It is the story of how faithful God has always been.
+
+---
+
+# Key Scriptures
+
+- Joshua 21:45
+- Numbers 23:19
+- Psalm 138:2
+- Isaiah 55:11
+- Proverbs 3:5–6
+- Jeremiah 29:11
+- Romans 8:28
+- Hebrews 10:23
+- Psalm 37:5
+- Lamentations 3:22–23
+
+---
+
+# PART I — GOD WAS WRITING MY STORY BEFORE I KNEW IT
+
+## Chapter 1 — Before I Understood My Story
+
+**Theme:** God begins His work long before we recognize it.
+
+### Main Topics
+
+- Why I decided to write this book
+- The faithfulness of God
+- God's promises never fail
+- Looking back and recognizing God's hand
+- Encouragement to every believer waiting on God
+
+### Key Lesson
+
+God is already working even when we cannot see Him.
+
+---
+
+## Chapter 2 — A Child Raised by Grace
+
+**Theme:** God's care through unexpected circumstances.
+
+### Main Topics
+
+- Being the firstborn
+- Taken to my grandparents at six months
+- My mother's sacrifice
+- Growing up without a father
+- Poverty and village life
+- The unconditional love of my grandparents
+- Learning contentment
+
+### Key Lesson
+
+God can use imperfect circumstances to accomplish His perfect purposes.
+
+---
+
+## Chapter 3 — Learning to Trust Without Understanding
+
+**Theme:** Faith before answers.
+
+### Main Topics
+
+- Growing up without knowing my father
+- Living with unanswered questions
+- Learning not to become bitter
+- Trusting God despite uncertainty
+
+### Key Lesson
+
+Sometimes God gives peace long before He gives explanations.
+
+---
+
+# PART II — DREAMS BORN IN PRAYER
+
+## Chapter 4 — The Boarding School Prayer
+
+**Theme:** God hears impossible prayers.
+
+### Main Topics
+
+- Dreaming of joining a boarding school
+- Financial impossibility
+- Choosing faith over fear
+- God's miraculous provision
+
+### Key Lesson
+
+No dream is too great for the God who provides.
+
+---
+
+## Chapter 5 — The Angel Who Woke Me at Three
+
+**Theme:** Developing intimacy with God.
+
+### Main Topics
+
+- My prayer asking God to wake me
+- Hearing my name every morning
+- Being awakened at exactly 3:00 a.m.
+- Morning prayer before study
+- Building discipline through prayer
+
+### Key Lesson
+
+God honors those who diligently seek Him.
+
+---
+
+## Chapter 6 — Working Like It All Depended on Me, Trusting Like It All Depended on God
+
+**Theme:** Faith and diligence walk together.
+
+### Main Topics
+
+- Studying without external encouragement
+- Sleeping only a few hours
+- Self-discipline
+- Working toward excellence
+- Refusing to remain in poverty
+
+### Key Lesson
+
+Faith is never an excuse for laziness.
+
+---
+
+## Chapter 7 — God Opened the University Door
+
+**Theme:** God's guidance into purpose.
+
+### Main Topics
+
+- Praying to join university
+- Receiving admission
+- Discovering Applied Statistics
+- Falling in love with mathematics and statistics
+- God's direction for my career
+
+### Key Lesson
+
+God prepares us before revealing our calling.
+
+---
+
+# PART III — A COVENANT BEFORE GOD
+
+## Chapter 8 — The Promise I Made Before I Knew My Wife
+
+**Theme:** Purity before promise.
+
+### Main Topics
+
+- My decision in high school
+- Refusing premarital sex
+- Avoiding compromising relationships
+- Praying for my future wife
+- Remaining faithful to God's standards
+
+### Key Lesson
+
+Purity is an act of worship and trust.
+
+---
+
+## Chapter 9 — Waiting Is Also Worship
+
+**Theme:** Trusting God's timing.
+
+### Main Topics
+
+- Watching others pursue relationships
+- Seasons of loneliness
+- Growing spiritually
+- Learning patience
+- Preparing for marriage
+
+### Key Lesson
+
+God often prepares us before He answers us.
+
+---
+
+## Chapter 10 — Lord, Open My Inner Eyes
+
+**Theme:** Spiritual discernment.
+
+### Main Topics
+
+- Physical attraction versus spiritual peace
+- My prayer for discernment
+- Learning to recognize God's leading
+- Waiting for God's choice
+
+### Key Lesson
+
+God sees what human eyes cannot.
+
+---
+
+# PART IV — WHEN GOD INTRODUCED ME TO MY WIFE
+
+## Chapter 11 — The Woman I Had Been Praying For
+
+**Theme:** God's perfect timing.
+
+### Main Topics
+
+- Meeting Beth
+- Recognizing God's peace
+- The beginning of our journey
+- God's answer to years of prayer
+
+### Key Lesson
+
+God introduces His promises at the right time.
+
+---
+
+## Chapter 12 — A Love That Chose Holiness
+
+**Theme:** Love built on obedience.
+
+### Main Topics
+
+- Our shared commitment to purity
+- Avoiding situations that could lead to temptation
+- Meeting in public places
+- Building trust instead of physical intimacy
+- Choosing obedience over convenience
+
+### Key Lesson
+
+The strongest love is built on obedience to God.
+
+---
+
+## Chapter 13 — Three Years Apart, Yet Never Apart
+
+**Theme:** Faith through waiting.
+
+### Main Topics
+
+- Long-distance relationship
+- Daily video calls
+- Family discouragement
+- Choosing trust over fear
+- God's sustaining grace
+
+### Key Lesson
+
+Distance cannot separate hearts united by God.
+
+---
+
+## Chapter 14 — Before We Built a Home, We Began Building a Legacy
+
+**Theme:** Praying for future generations before they existed.
+
+### Main Topics
+
+- Beginning to pray for our future children before marriage
+- Believing God would give us a Christ-centered family
+- Dedicating our unborn children to the Lord
+- Praying that they would love God, fear Him, and walk in His ways
+- Asking God to raise a generation free from destructive family patterns
+- Praying for their purity, wisdom, purpose, spouses, and future generations
+- Believing God's promises for our family because we chose to obey His Word
+
+### Key Lesson
+
+Faith does not only prepare for tomorrow—it prays for generations yet unborn.
+
+> *"The righteous who walk in integrity—blessed are their children after them."*  
+> **— Proverbs 20:7**
+
+---
+
+## Chapter 15 — Fighting Battles We Could Not See
+
+**Theme:** Victory through prayer.
+
+### Main Topics
+
+- Spiritual warfare
+- Prayer and fasting
+- Trusting God completely
+- Watching Him fight for us
+
+### Key Lesson
+
+The greatest victories are first won in prayer.
+
+---
+
+## Chapter 16 — The Wedding Heaven Attended
+
+**Theme:** God's presence changes everything.
+
+### Main Topics
+
+- Years of prayer before the wedding
+- Inviting God's presence
+- The moving of the Holy Spirit
+- A covenant before God
+- Discovering our divine assignment
+
+### Key Lesson
+
+A marriage centered on Christ becomes a ministry.
+
+---
+
+# PART V — GOD'S PROMISES NEVER FAIL
+
+## Chapter 17 — When Doctors Said No
+
+### Main Topics
+
+- Medical diagnosis
+- Fibroids
+- Ovarian cysts
+- Waiting on God's promise
+- Choosing faith over fear
+
+---
+
+## Chapter 18 — Calling Our Baby Back
+
+### Main Topics
+
+- Difficult pregnancy
+- Standing on God's promises
+- Prayer during crisis
+- Witnessing God's faithfulness
+- Welcoming our daughter
+
+---
+
+## Chapter 19 — Refined Like Gold
+
+### Main Topics
+
+- Marriage as God's refining fire
+- Learning perseverance
+- Growing spiritually together
+- Preparing for God's assignment
+
+---
+
+# PART VI — THE GOD WHO STILL WRITES STORIES
+
+## Chapter 20 — Meeting My Father After Thirty-Five Years
+
+### Main Topics
+
+- Deciding to search for my father
+- Our first meeting
+- Receiving answers
+- Forgiveness
+- A new beginning
+
+### Key Lesson
+
+God's timing is always perfect.
+
+---
+
+## Chapter 21 — Looking Back, I See His Hand
+
+### Main Topics
+
+- Connecting every answered prayer
+- Seeing God's fingerprints
+- Understanding divine timing
+- God's faithfulness through every season
+
+---
+
+## Chapter 22 — The God Who Never Fails
+
+### Main Topics
+
+- Final testimony
+- Encouragement to trust God
+- Living by faith
+- Leaving a legacy of obedience
+
+### Key Lesson
+
+God always keeps His promises.
+
+---
+
+# Epilogue — To the Next Generation
+
+A personal letter to:
+
+- My children
+- My grandchildren
+- Future generations
+- Every young man
+- Every young woman
+- Every believer waiting on God
+
+### Final Encouragement
+
+Trust the Lord.
+
+Obey His Word.
+
+Do not compromise.
+
+Wait patiently for His timing.
+
+Choose holiness over temporary pleasure.
+
+Pray before making major decisions.
+
+Never allow the world to shape your values.
+
+Build your life upon Jesus Christ.
+
+Remember that every promise of God has an appointed time.
+
+He may seem slow according to human understanding, but He is never late.
+
+Walk with Him faithfully, and one day you too will look back and declare:
+
+> **"The LORD has been faithful. Not one of His promises has failed."**
+
+---
+
+# Suggested Appendices
+
+## Appendix A
+A Timeline of God's Faithfulness
+
+## Appendix B
+Prayers That Changed My Life
+
+## Appendix C
+Bible Promises That Sustained Me
+
+## Appendix D
+Lessons I Learned Through Every Season
+
+## Appendix E
+Family Photographs and Milestones
+
+## Appendix F
+Reflection Questions for Every Chapter
+
+## Appendix G
+Prayers for Young Men, Young Women, Marriage, Children, and Future Generations

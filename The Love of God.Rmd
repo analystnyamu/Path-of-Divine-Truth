@@ -1,0 +1,886 @@
+---
+title: "Untitled"
+author: "Martin N. Wanjiru"
+date: "2026-08-12"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# The Morning He Came Looking
+
+Daniel had always believed that he could handle life on his own.
+
+He was not a bad man.
+
+At least, that was what he told himself.
+
+He went to church. He knew how to pray. He knew many Bible verses. He could sing worship songs with his eyes closed and raise his hands during praise.
+
+If someone asked him whether he believed in God, he would answer without hesitation.
+
+“Yes, I do.”
+
+But believing that God existed was not the same as surrendering his life to Him.
+
+Daniel was a churchgoer, but he lived much of his life like a man who did not know God.
+
+On Sunday, he could sit among believers.
+
+On Monday, he could return to the same sins.
+
+He knew what the Bible said, but he often chose what pleased him.
+
+He wanted God's blessings, but he did not want God's authority.
+
+He wanted God's protection, but he did not want God's correction.
+
+For years, he managed to live that way without thinking too deeply about it.
+
+Until one day, everything began to fall apart.
+
+---
+
+## WHEN LIFE COLLAPSED
+
+First, Daniel lost his job.
+
+He told himself he would find another one quickly.
+
+But weeks became months.
+
+Then a business deal he had invested his savings in collapsed.
+
+The money disappeared almost overnight.
+
+Then came unexpected expenses in his family.
+
+The little he had left began disappearing.
+
+Friends who had once surrounded him became difficult to find.
+
+Phone calls went unanswered.
+
+Promises were forgotten.
+
+Daniel began waking up in the middle of the night with his heart racing.
+
+One night, after staring at the ceiling for hours, he finally got out of bed and knelt beside it.
+
+“God,” he whispered, “I need You.”
+
+It was one of the most honest prayers he had prayed in years.
+
+But after a few moments, his prayer changed.
+
+“Please give me another job.”
+
+“Please provide money.”
+
+“Please protect my family.”
+
+“Please remove this problem.”
+
+“Please restore what I have lost.”
+
+He prayed for a long time.
+
+Then he went to sleep.
+
+The next morning, nothing had changed.
+
+His bills were still there.
+
+His problems were still there.
+
+His fear was still there.
+
+So Daniel prayed again.
+
+And again.
+
+But nothing seemed to change.
+
+---
+
+## THE SEARCH FOR AN ANSWER
+
+Daniel decided that perhaps he had not prayed hard enough.
+
+He began fasting.
+
+He attended prayer meetings.
+
+He went to **prayer mountains with others**, hoping that perhaps the atmosphere of prayer would bring the breakthrough he desperately needed.
+
+He cried.
+
+He pleaded.
+
+He quoted Scripture.
+
+He lifted his hands toward heaven.
+
+He asked God to intervene.
+
+But days passed.
+
+Nothing seemed to happen.
+
+Then someone told him about a man of God.
+
+“He is powerful,” his friend said.
+
+“He knows things about people's lives that nobody else could know.”
+
+“They say miracles happen through his ministry.”
+
+“Go and see him.”
+
+Daniel had already tried everything he knew.
+
+So he went.
+
+---
+
+## THE MEN OF GOD
+
+The man listened to Daniel's story.
+
+Then he looked at him seriously.
+
+“There is something happening in your family,” he said.
+
+Daniel leaned forward.
+
+“What is it?”
+
+The man told him about family covenants.
+
+He spoke about things that might have happened generations before Daniel was born.
+
+He told him that certain spiritual agreements needed to be broken.
+
+Daniel was frightened.
+
+“How do I break them?”
+
+The answer came quickly.
+
+“Give a seed offering.”
+
+Daniel gave.
+
+Nothing changed.
+
+He returned.
+
+Another instruction came.
+
+“Give another seed.”
+
+Daniel gave again.
+
+Still nothing happened.
+
+Someone else told him that perhaps the problem was connected to a relationship he had once had.
+
+Another told him there were consequences connected to sexual relationships he had entered into outside God's will.
+
+Another spoke about covenants he might have made through fornication.
+
+Daniel listened to every explanation.
+
+He was desperate.
+
+He wanted answers.
+
+More importantly, he wanted relief.
+
+So he paid.
+
+He gave.
+
+He followed instructions.
+
+He went from one person to another.
+
+One prophet.
+
+Another prophet.
+
+A prophetess.
+
+Another so-called man of God.
+
+Each seemed to have an explanation.
+
+Each seemed to have an answer.
+
+And almost every answer required something from Daniel.
+
+Sometimes it was called a seed.
+
+Sometimes it was called an offering.
+
+Sometimes it was a special sacrifice.
+
+Sometimes he was told that another prayer session was needed.
+
+Sometimes he was told that another spiritual problem had been discovered.
+
+And Daniel kept paying.
+
+---
+
+## WHEN DESPERATION BECOMES VULNERABILITY
+
+At first, Daniel had savings.
+
+Then the savings became smaller.
+
+Then smaller.
+
+Then almost nothing.
+
+He began selling things in his house.
+
+His television.
+
+His furniture.
+
+Things he had worked years to acquire.
+
+He gave them away in the hope that the next offering would finally unlock his breakthrough.
+
+He was told:
+
+“Your miracle is near.”
+
+So he gave again.
+
+“Your breakthrough is coming.”
+
+So he gave again.
+
+“Do not stop now.”
+
+So he gave what remained.
+
+But his situation did not improve.
+
+Instead, Daniel became poorer.
+
+More frightened.
+
+More confused.
+
+And more desperate.
+
+He had gone looking for help.
+
+But those who claimed to have answers had taken what little he had left.
+
+Some people even took advantage of his fear by sending him to other people who claimed to know hidden things about his life.
+
+Daniel followed them too.
+
+He was desperate enough to try almost anything.
+
+But nothing helped.
+
+He had searched everywhere.
+
+He had prayed.
+
+He had fasted.
+
+He had gone to prayer mountains with others.
+
+He had sought counsel.
+
+He had visited men and women who claimed to speak for God.
+
+He had given offerings.
+
+He had given everything he could.
+
+And still...
+
+Nothing.
+
+---
+
+## THE EMPTY HOUSE
+
+One evening, Daniel sat in his nearly empty house.
+
+There was very little left.
+
+The room looked different.
+
+The things he had once owned were gone.
+
+His money was gone.
+
+His confidence was gone.
+
+His strength was gone.
+
+Even his hope was almost gone.
+
+He sat quietly for a long time.
+
+Then he began to cry.
+
+Not the kind of crying he had done before while asking God for money.
+
+Not the crying of a man demanding a miracle.
+
+This was different.
+
+It was the crying of a man who had finally reached the end of himself.
+
+Daniel looked toward heaven.
+
+“Lord...”
+
+He stopped.
+
+For the first time, he did not know what to ask for.
+
+He had already asked for money.
+
+He had asked for a job.
+
+He had asked for protection.
+
+He had asked for healing.
+
+He had asked for breakthrough.
+
+He had asked for miracles.
+
+Now he had nothing left to ask for.
+
+So he told God the truth.
+
+“Lord, forgive me.”
+
+The room became silent.
+
+“I have been looking everywhere except to You.”
+
+His voice trembled.
+
+“I have wanted Your help, but I have not wanted You.”
+
+He covered his face.
+
+“I have gone to church, but my heart has been far from You.”
+
+“I have called myself a believer, but I have lived like I don't know You.”
+
+“I have continued in things I knew were wrong.”
+
+“I have wanted You to protect me while I refused to obey You.”
+
+Daniel began to weep.
+
+“I have been running from You.”
+
+Then he whispered:
+
+“Lord, I surrender.”
+
+---
+
+## THE PRAYER THAT CHANGED EVERYTHING
+
+Daniel did not ask God for money that night.
+
+He did not ask for a new job.
+
+He did not ask for a miracle.
+
+He simply prayed:
+
+“Jesus, forgive me.”
+
+“Take my life.”
+
+“I cannot save myself.”
+
+“I cannot fix myself.”
+
+“I cannot carry this anymore.”
+
+“I surrender everything to You.”
+
+“Teach me to know You.”
+
+“Teach me to obey You.”
+
+“Deliver me from the things that have held me.”
+
+“Where I have sinned, forgive me.”
+
+“Where I have hurt people, help me make things right.”
+
+“Where I have been deceived, give me wisdom.”
+
+“Where I have trusted men instead of You, forgive me.”
+
+“I want You, Lord.”
+
+“Not just Your blessings.”
+
+“Not just Your protection.”
+
+“Not just Your provision.”
+
+“I want You.”
+
+Then Daniel became quiet.
+
+For several minutes, he simply knelt there.
+
+And something happened inside him.
+
+His circumstances had not changed.
+
+His bank account was still empty.
+
+His problems had not disappeared.
+
+But the burden inside his heart began to lift.
+
+For the first time in a long time, Daniel felt peace.
+
+Not because everything had been solved.
+
+But because he had finally surrendered the person who needed to be changed most.
+
+Himself.
+
+---
+
+## THE MORNING AFTER
+
+The next morning, Daniel woke before sunrise.
+
+For a moment, he forgot about his problems.
+
+Then they came rushing back into his mind.
+
+The debt.
+
+The uncertainty.
+
+The future.
+
+But something was different.
+
+He did not feel alone.
+
+He opened the Bible that had belonged to his grandmother.
+
+As he turned the pages, his eyes fell upon a passage he had read many times before:
+
+> “Through the LORD's mercies we are not consumed, because His compassions fail not. They are new every morning; great is Your faithfulness.”
+
+Daniel read the words slowly.
+
+**New every morning.**
+
+He looked through the window.
+
+The sun was beginning to rise.
+
+Yesterday had been filled with failure.
+
+But yesterday was no longer today.
+
+God had given him another morning.
+
+Another opportunity.
+
+Another invitation.
+
+Another chance to walk with Him.
+
+Daniel smiled through his tears.
+
+He finally understood something he had never understood before.
+
+God's mercy was not permission to continue living in sin.
+
+It was God's invitation to come out of sin.
+
+God was not simply interested in fixing Daniel's circumstances.
+
+God wanted Daniel's heart.
+
+---
+
+## THE GARDEN
+
+Daniel remembered the story of Adam and Eve.
+
+God had given them everything they needed.
+
+Yet they disobeyed Him.
+
+When they realized what they had done, they hid.
+
+They covered themselves.
+
+They were ashamed.
+
+But then something remarkable happened.
+
+God came looking for them.
+
+“Where are you?”
+
+God knew where they were.
+
+He knew what they had done.
+
+Yet He called them.
+
+He did not abandon them.
+
+He came looking.
+
+Daniel realized that the same pattern had followed humanity throughout history.
+
+People run.
+
+People hide.
+
+People sin.
+
+People become ashamed.
+
+People try to fix themselves.
+
+People search everywhere for answers.
+
+But God continues calling.
+
+**Where are you?**
+
+Not because He does not know.
+
+But because He wants us to stop hiding.
+
+---
+
+## WHAT DANIEL FINALLY UNDERSTOOD
+
+Daniel eventually understood something that changed the way he saw God.
+
+God was never supposed to be an emergency service.
+
+He was never meant to be someone Daniel remembered only when everything else failed.
+
+God wanted a relationship.
+
+That was the reason He created humanity in the first place.
+
+And when humanity fell, God did not simply turn His back.
+
+He began the work of bringing humanity back to Himself.
+
+The greatest expression of that love came through Jesus Christ.
+
+> “For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.”
+
+God did not wait for humanity to become perfect.
+
+He came looking for us.
+
+---
+
+## NOT EVERY RELIGIOUS PERSON HAS SURRENDERED
+
+Daniel also learned another difficult lesson.
+
+Going to church does not automatically mean that someone has surrendered to God.
+
+A person can know worship songs and still live far from God.
+
+A person can carry a Bible and still refuse to obey it.
+
+A person can fast for days and still refuse to repent.
+
+A person can attend prayer meetings and still be controlled by sin.
+
+A person can seek miracles while refusing the One who performs them.
+
+Religion can become a hiding place.
+
+But surrender removes the hiding place.
+
+That is why Jesus told the story of the Pharisee and the tax collector.
+
+The Pharisee stood before God speaking about his own goodness.
+
+The tax collector could barely lift his eyes.
+
+He simply prayed:
+
+> “God, be merciful to me, a sinner.”
+
+The tax collector understood what the Pharisee had missed.
+
+God was not looking for a performance.
+
+He was looking for a humble heart.
+
+---
+
+## THE DIFFERENCE BETWEEN SEEKING GOD'S HAND AND SEEKING GOD
+
+Daniel began to understand the difference.
+
+There is nothing wrong with asking God for help.
+
+There is nothing wrong with praying for provision.
+
+There is nothing wrong with asking for healing, protection, wisdom, or restoration.
+
+But there is something wrong when we want God's hand without wanting God's heart.
+
+When we want His provision but reject His instructions.
+
+When we want His protection but refuse His correction.
+
+When we want His blessings but refuse His Lordship.
+
+When we want Him to remove the consequences of our choices while refusing to surrender the choices themselves.
+
+Daniel had spent years seeking God's hand.
+
+Now he wanted God's face.
+
+---
+
+## A DIFFERENT KIND OF MIRACLE
+
+Daniel's life did not suddenly become perfect.
+
+He still had consequences to deal with.
+
+He still had debts.
+
+He still had relationships to repair.
+
+He still had to rebuild what had been lost.
+
+But now he did it differently.
+
+He began making things right where he could.
+
+He apologized to people he had hurt.
+
+He stopped certain relationships and practices that had drawn him away from God.
+
+He became accountable.
+
+He learned to pray without bargaining.
+
+He learned to read Scripture not merely to find promises for himself, but to understand the God who had given them.
+
+He learned that repentance was not merely feeling sorry.
+
+It meant turning around.
+
+It meant coming home.
+
+And slowly, his life began to change.
+
+Not because someone had sold him a miracle.
+
+Not because he had discovered a secret formula.
+
+But because he had finally surrendered himself to God.
+
+---
+
+## THE MESSAGE FOR EVERYONE
+
+Daniel's story is not only for churchgoers.
+
+It is for anyone who has ever felt lost.
+
+For the believer who has drifted.
+
+For the person who does not believe.
+
+For the person who has been disappointed by religion.
+
+For the person who has been manipulated by people claiming to speak for God.
+
+For the person who has prayed until they are exhausted.
+
+For the person who has tried everything.
+
+For the person who has reached the point where there seems to be nowhere else to go.
+
+The invitation is still the same:
+
+**Come to God.**
+
+Not because you have earned the right.
+
+Not because you are already perfect.
+
+Not because you have finally solved your life.
+
+Come because He loves you.
+
+Come because Christ has opened the way.
+
+Come because His mercy is still available.
+
+Come because His compassion has not failed.
+
+---
+
+## THE MORNING HE CAME LOOKING
+
+Years later, Daniel would sometimes remember that empty house.
+
+He would remember sitting among the few possessions he had left.
+
+He would remember the money he had lost.
+
+He would remember all the people he had visited looking for answers.
+
+He would remember the offerings he had given.
+
+He would remember the fear.
+
+He would remember the shame.
+
+But most of all, he would remember the night he finally stopped asking God to fix his circumstances and asked Him to transform his heart.
+
+That was the night everything changed.
+
+Looking back, Daniel realized something.
+
+He had spent years searching for God.
+
+But God had been searching for him.
+
+Just as He had searched for Adam.
+
+Just as He had called the tax collector.
+
+Just as He had sent Christ into the world.
+
+God had been calling:
+
+**“Where are you?”**
+
+And when Daniel finally answered,
+
+“I am here, Lord,”
+
+he discovered that God had never stopped loving him.
+
+---
+
+# THE LESSON
+
+You may have run from God.
+
+You may have failed Him.
+
+You may have lived a double life.
+
+You may have gone to church while your heart remained far away.
+
+You may have tried prayer, fasting, religious rituals, advice, money, people, and every possible solution.
+
+You may even have been disappointed by people who claimed to have answers from God.
+
+But do not let the failures of people convince you that God has failed.
+
+And do not let your own failures convince you that God has stopped calling.
+
+There is a difference between **seeking God because you need something from Him** and **seeking God because you need Him**.
+
+God wants more than your emergency prayer.
+
+He wants your heart.
+
+He wants your surrender.
+
+He wants you to know Him.
+
+He wants to lead you out of the things that are destroying you.
+
+He wants to restore the relationship that sin has broken.
+
+And that is why Jesus came.
+
+Not merely to make your earthly life comfortable.
+
+But to reconcile you to God.
+
+So if you are reading this and you feel far from Him, you do not need to wait until you are perfect.
+
+You do not need to clean yourself up first.
+
+You do not need to pretend.
+
+You do not need impressive words.
+
+You can simply come honestly.
+
+**“Lord, have mercy on me.”**
+
+**“Forgive me.”**
+
+**“I surrender.”**
+
+**“I want to know You.”**
+
+**“Take my life.”**
+
+And perhaps, when you finally stop running, you will discover what Daniel discovered:
+
+You were not the one who found God.
+
+**He was the One who came looking for you.**
+
+And tomorrow morning, when the sun rises, remember:
+
+> **His mercies are new every morning.**
+
+Yesterday may have been painful.
+
+Yesterday may have been filled with failure.
+
+Yesterday may have contained mistakes you wish you could undo.
+
+But if God has given you another morning, then His mercy is speaking again.
+
+**Come home.**
+
+**The Father is still calling.**
+
+**The door is still open.**
+
+**And His love has not failed.**
+
+### The End
+
+Written By Martin W. Nyamu

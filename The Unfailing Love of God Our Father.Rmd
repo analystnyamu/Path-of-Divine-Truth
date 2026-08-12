@@ -1,0 +1,619 @@
+---
+title: "The Unfailing Love of God Our Father"
+author: "Martin N. Wanjiru"
+date: "2026-08-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Many Seek God's Hand, But the Father Is Seeking Their Heart
+
+One of the greatest misunderstandings in the Christian faith is believing that God is primarily interested in solving our problems.
+
+Many people come to God because they need something.
+
+Some seek healing.
+
+Some seek protection.
+
+Some seek provision.
+
+Some seek deliverance.
+
+Some seek miracles.
+
+Some seek restoration in their marriages.
+
+Some seek children.
+
+Some seek jobs.
+
+Some seek financial breakthroughs.
+
+Some seek freedom from fear, oppression, addiction, or anxiety.
+
+Others seek answers to questions that seem impossible to understand.
+
+In times of suffering, people often move from one place to another searching for help.
+
+They attend prayer meetings.
+
+They climb prayer mountains.
+
+They seek counsel from pastors.
+
+They visit prophets and prophetesses.
+
+They ask others to pray for them.
+
+They fast for days.
+
+They sow offerings.
+
+They pursue every opportunity that promises a solution.
+
+There is nothing wrong with seeking God for help.
+
+In fact, Scripture encourages us to bring our needs before Him.
+
+Jesus Himself taught:
+
+> "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you."
+>
+> — Matthew 7:7
+
+God is not indifferent to our pain.
+
+He cares when we suffer.
+
+He cares when we are sick.
+
+He cares when we are afraid.
+
+He cares when we lack provision.
+
+He cares when we are brokenhearted.
+
+He cares when we are oppressed.
+
+He cares about every detail of our lives.
+
+Yet beneath all these needs lies a greater need that many people overlook.
+
+The greatest need of humanity is not healing.
+
+It is not provision.
+
+It is not protection.
+
+It is not even deliverance.
+
+The greatest need of humanity is reconciliation with God.
+
+And this is where the unfailing love of our Heavenly Father is revealed most clearly.
+
+---
+
+# God Has Always Been Seeking Humanity
+
+From the very beginning, God's heart has been to have a relationship with humanity.
+
+When God created Adam and Eve, He did not create servants who would merely obey commands.
+
+He created human beings to walk with Him, know Him, and enjoy fellowship with Him.
+
+The Garden of Eden was not simply a beautiful place.
+
+It was a place of relationship.
+
+But sin entered the world.
+
+Adam and Eve disobeyed God.
+
+Immediately, shame entered their hearts.
+
+Fear entered their lives.
+
+They hid among the trees.
+
+Then something remarkable happened.
+
+God came looking for them.
+
+> "Then the LORD God called to Adam and said to him, 'Where are you?'"
+>
+> — Genesis 3:9
+
+God knew exactly where Adam was.
+
+He was not asking because He lacked information.
+
+He was asking because He was calling Adam out of hiding.
+
+This reveals something beautiful about God's character.
+
+When humanity ran from God, God pursued humanity.
+
+When humanity hid, God came looking.
+
+When humanity rebelled, God still desired restoration.
+
+The story of the Bible is the story of a loving Father pursuing His lost children.
+
+---
+
+# We Often Seek God's Gifts More Than God Himself
+
+Many people know how to seek God's gifts.
+
+Few know how to seek God Himself.
+
+When trouble comes, people suddenly become interested in prayer.
+
+When sickness strikes, people begin searching for healing.
+
+When financial challenges arise, people seek provision.
+
+When danger appears, people seek protection.
+
+When life becomes difficult, people seek miracles.
+
+Again, there is nothing wrong with bringing these needs to God.
+
+Jesus repeatedly demonstrated God's compassion toward people in need.
+
+He healed the sick.
+
+He opened blind eyes.
+
+He fed hungry crowds.
+
+He raised the dead.
+
+He cast out demons.
+
+He calmed storms.
+
+He provided where there was lack.
+
+These miracles reveal the loving heart of God.
+
+However, Jesus consistently pointed people beyond the miracle to something greater.
+
+The miracle was never the destination.
+
+The miracle pointed to the Savior.
+
+The provision pointed to the Provider.
+
+The healing pointed to the Healer.
+
+The deliverance pointed to the Deliverer.
+
+The blessing pointed to the Father.
+
+Many people wanted what Jesus could give.
+
+Far fewer wanted Jesus Himself.
+
+The same remains true today.
+
+Many seek God's hand.
+
+Few seek His heart.
+
+---
+
+# Jesus Revealed the Father's Heart
+
+One of the most beautiful truths in Scripture is that Jesus came to reveal the Father.
+
+Jesus said:
+
+> "He who has seen Me has seen the Father."
+>
+> — John 14:9
+
+Every miracle Jesus performed revealed something about God's love.
+
+When Jesus touched the leper, He revealed a Father who welcomes the outcast.
+
+When He fed the five thousand, He revealed a Father who provides.
+
+When He calmed the storm, He revealed a Father who protects.
+
+When He healed the blind, He revealed a Father who restores.
+
+When He forgave sinners, He revealed a Father who shows mercy.
+
+When He died on the cross, He revealed the depth of the Father's love.
+
+The ministry of Jesus was never merely about solving temporary problems.
+
+It was about bringing people back to God.
+
+---
+
+# The Parable of the Lost Sheep
+
+Perhaps no parable illustrates the Father's love more beautifully than the Parable of the Lost Sheep.
+
+Jesus said:
+
+> "What man of you, having a hundred sheep, if he loses one of them, does not leave the ninety-nine in the wilderness, and go after the one which is lost until he finds it?"
+>
+> — Luke 15:4
+
+Notice the emphasis.
+
+The shepherd seeks the lost sheep.
+
+The sheep is not searching for the shepherd.
+
+The shepherd is searching for the sheep.
+
+Jesus told this parable to reveal the heart of God.
+
+God is not waiting in heaven hoping people will somehow find their way back.
+
+He actively seeks those who are lost.
+
+He pursues them.
+
+He calls them.
+
+He draws them.
+
+And when He finds them, He rejoices.
+
+Jesus continued:
+
+> "I say to you that likewise there will be more joy in heaven over one sinner who repents than over ninety-nine just persons who need no repentance."
+>
+> — Luke 15:7
+
+The greatest celebration in heaven is not when someone becomes wealthy.
+
+Not when someone receives a miracle.
+
+Not when someone gets a promotion.
+
+Not when someone receives healing.
+
+The greatest celebration in heaven occurs when a sinner comes home to God.
+
+---
+
+# The Prodigal Son and the Loving Father
+
+Jesus told another parable that reveals God's heart.
+
+A young man demanded his inheritance from his father and left home.
+
+He wasted everything.
+
+He pursued sinful pleasures.
+
+Eventually, he lost it all.
+
+He became poor.
+
+Hungry.
+
+Broken.
+
+Ashamed.
+
+Finally, he decided to return home.
+
+He expected rejection.
+
+He expected judgment.
+
+He expected punishment.
+
+Instead, Jesus tells us:
+
+> "But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him."
+>
+> — Luke 15:20
+
+The father ran.
+
+In that culture, dignified fathers did not run.
+
+Yet Jesus intentionally describes the father running toward the son.
+
+Why?
+
+Because He wanted us to understand the heart of God.
+
+The Father is not looking for reasons to reject repentant sinners.
+
+He is looking for opportunities to welcome them home.
+
+This is the unfailing love of God.
+
+---
+
+# Why Many People Remain Bound
+
+Many people spend years seeking solutions while avoiding surrender.
+
+They seek healing but not holiness.
+
+They seek provision but not obedience.
+
+They seek protection but not repentance.
+
+They seek miracles but not transformation.
+
+They seek freedom from consequences while holding onto the very things that produce those consequences.
+
+They seek God's intervention while resisting God's authority.
+
+Yet Scripture consistently teaches that true life begins when we surrender ourselves to God.
+
+Jesus said:
+
+> "Whoever desires to save his life will lose it, but whoever loses his life for My sake will find it."
+>
+> — Matthew 16:25
+
+The kingdom of God works differently than the world.
+
+Freedom comes through surrender.
+
+Life comes through dying to self.
+
+Exaltation comes through humility.
+
+Victory comes through submission to Christ.
+
+---
+
+# The Tax Collector Who Found Mercy
+
+Jesus also told the story of a Pharisee and a tax collector.
+
+The Pharisee proudly spoke about his religious achievements.
+
+The tax collector stood at a distance.
+
+He would not even lift his eyes toward heaven.
+
+Instead, he prayed:
+
+> "God, be merciful to me, a sinner."
+>
+> — Luke 18:13
+
+Jesus said the tax collector went home justified.
+
+Why?
+
+Because he came honestly.
+
+He came humbly.
+
+He came surrendered.
+
+God is not impressed by religious performance.
+
+He is moved by humble repentance.
+
+---
+
+# The Greatest Miracle Is a Changed Heart
+
+We often think the greatest miracle is physical healing.
+
+Or financial provision.
+
+Or supernatural deliverance.
+
+But according to Scripture, the greatest miracle is a transformed heart.
+
+A blind man receiving sight is wonderful.
+
+A sick person being healed is wonderful.
+
+A family being restored is wonderful.
+
+A person being delivered from oppression is wonderful.
+
+But an eternally lost sinner becoming a child of God is greater still.
+
+The cross proves this.
+
+Jesus did not come merely to improve earthly circumstances.
+
+He came to save sinners.
+
+He came to reconcile humanity to God.
+
+He came to destroy the barrier that sin created.
+
+He came so that we could become sons and daughters of God.
+
+---
+
+# The Unfailing Love Revealed at the Cross
+
+The greatest demonstration of God's love is not found in earthly blessings.
+
+It is found at Calvary.
+
+> "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."
+>
+> — John 3:16
+
+Notice that God gave.
+
+Love gives.
+
+Love sacrifices.
+
+Love pursues.
+
+Love redeems.
+
+Love restores.
+
+The cross declares that God loved us while we were still sinners.
+
+Before we sought Him, He sought us.
+
+Before we loved Him, He loved us.
+
+Before we came home, He made a way home.
+
+---
+
+# The Fastest Path to Freedom
+
+Many people ask:
+
+"What should I do to receive deliverance?"
+
+"What prayer should I pray?"
+
+"What prophet should I see?"
+
+"What mountain should I visit?"
+
+"What offering should I give?"
+
+"What secret should I discover?"
+
+The Gospel gives a surprisingly simple answer.
+
+Come to Jesus.
+
+Surrender.
+
+Repent.
+
+Believe.
+
+Follow Him.
+
+The fastest path to true freedom is genuine surrender to Christ.
+
+Not because surrender is a formula.
+
+But because Christ is the source of life itself.
+
+When we surrender, we stop running.
+
+We stop hiding.
+
+We stop trying to save ourselves.
+
+We place our lives into the hands of the One who loves us most.
+
+---
+
+# The Father Is Still Calling
+
+Today, many people are exhausted.
+
+They have searched everywhere.
+
+They have tried everything.
+
+They have carried burdens for years.
+
+Some are believers who have drifted.
+
+Some have been hurt by religion.
+
+Some have been disappointed by people.
+
+Some feel unworthy of God's love.
+
+Some believe they have gone too far.
+
+Yet the message of Scripture remains unchanged.
+
+The Father is still calling.
+
+The Shepherd is still seeking.
+
+The Savior is still saving.
+
+The invitation remains open.
+
+Come home.
+
+Not merely for healing.
+
+Not merely for protection.
+
+Not merely for provision.
+
+Not merely for miracles.
+
+Not merely for deliverance.
+
+Come because the Father loves you.
+
+Come because Christ died for you.
+
+Come because His mercy is still available.
+
+Come because His compassion has not failed.
+
+Come because His love is unfailing.
+
+---
+
+# Final Reflection
+
+The greatest evidence of God's love is not that He gives us what we ask for.
+
+The greatest evidence of His love is that He continues pursuing us even when we run from Him.
+
+He pursued Adam in the garden.
+
+He sought the lost sheep.
+
+He welcomed the prodigal son.
+
+He heard the tax collector's cry.
+
+He sent His Son to die for sinners.
+
+And He is still calling people today.
+
+Many come seeking healing.
+
+Many come seeking protection.
+
+Many come seeking provision.
+
+Many come seeking miracles.
+
+Many come seeking deliverance.
+
+But behind all those needs stands a loving Father saying:
+
+**"I want you."**
+
+Not merely your requests.
+
+Not merely your problems.
+
+Not merely your needs.
+
+**Your heart.**
+
+And when we finally surrender to Him, we discover that the greatest gift God offers is not merely what He can do for us.
+
+The greatest gift God offers is **Himself**.
+
+And that is the essence of the unfailing love of God our Father.
